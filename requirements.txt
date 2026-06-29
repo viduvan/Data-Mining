@@ -1,0 +1,46 @@
+# ============================================================
+# Vietnam University Admission Data Mining
+# Requirements — Python dependencies
+# ============================================================
+
+# --- Core Data Processing ---
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1          # Đọc/ghi file Excel
+
+# --- Web Crawling ---
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+selenium>=4.15          # Crawl trang JavaScript-rendered
+webdriver-manager>=4.0  # Tự động quản lý ChromeDriver
+
+# --- Database (PostgreSQL) ---
+psycopg2-binary>=2.9    # PostgreSQL driver
+sqlalchemy>=2.0         # ORM & connection pooling
+
+# --- Data Mining ---
+scikit-learn>=1.3       # Clustering, preprocessing
+mlxtend>=0.23           # Association Rule Mining (Apriori)
+statsmodels>=0.14       # ARIMA Forecasting
+# prophet>=1.1          # Facebook Prophet (tuỳ chọn, cài riêng nếu cần)
+
+# --- Visualization ---
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.15
+
+# --- Jupyter Notebook ---
+jupyter>=1.0
+ipykernel>=6.25
+nbformat>=5.9
+
+# --- Utilities ---
+tqdm>=4.65              # Progress bars
+python-dotenv>=1.0      # Quản lý biến môi trường (.env)
+loguru>=0.7             # Logging nâng cao
+tenacity>=8.2           # Retry logic
+
+# --- Testing ---
+pytest>=7.4
+pytest-cov>=4.1

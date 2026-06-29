@@ -1,0 +1,272 @@
+﻿school_name,school_type,province,region,overall_avg_score,max_score,total_records
+BPH-Học Viện Biên Phòng,Công lập,Hà Nội,Miền Bắc,28.31,30.0,162
+LCH-Trường Sĩ Quan Chính Trị - Đại Học Chính Trị,Quân đội/Công an,Hà Nội,Miền Bắc,28.27,29.58,42
+KQH-Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự,Quân đội/Công an,Hà Nội,Miền Bắc,28.06,29.67,48
+YQH-Học Viện Quân Y - Hệ Quân sự,Quân đội/Công an,Hà Nội,Miền Bắc,27.85,30.0,120
+MTH-Trường Đại Học Mỹ Thuật Việt Nam,Công lập,Hà Nội,Miền Bắc,27.79,28.23,6
+QHS-Trường Đại Học Giáo Dục - ĐHQG Hà Nội,Công lập,Hà Nội,Miền Bắc,27.66,30.0,300
+DSD-Trường Đại Học Sân Khấu Điện Ảnh TPHCM,Công lập,TP.HCM,Miền Nam,27.27,28.49,24
+NQH-Học Viện Khoa Học Quân Sự - Hệ Quân sự,Quân đội/Công an,Hà Nội,Miền Bắc,26.92,30.0,96
+NTS-Trường Đại học Ngoại thương (Cơ sở II),Công lập,Hà Nội,Miền Bắc,26.58,28.74,204
+HEH-Học Viện Hậu Cần - Hệ Quân sự,Quân đội/Công an,Hà Nội,Miền Bắc,26.44,28.8,72
+NTH-Trường Đại học Ngoại thương,Công lập,Hà Nội,Miền Bắc,26.37,30.0,588
+CMC-Trường Đại Học CMC,Công lập,Hà Nội,Miền Bắc,26.2,29.15,3504
+NHF-Trường Đại Học Hà Nội,Công lập,Hà Nội,Miền Bắc,26.13,29.32,186
+KHA-Đại Học Kinh Tế Quốc Dân,Công lập,Hà Nội,Miền Bắc,26.08,29.3,2088
+QSC-Trường Đại Học Công Nghệ Thông Tin - ĐHQG TPHCM,Công lập,TP.HCM,Miền Nam,25.83,30.0,336
+QSK-Trường Đại học Kinh Tế Luật TPHCM,Công lập,TP.HCM,Miền Nam,25.63,28.54,840
+QHI-Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội,Công lập,Hà Nội,Miền Bắc,25.62,28.67,372
+DHS-Trường Đại Học Sư Phạm Huế,Công lập,Huế,Miền Trung,25.58,29.39,504
+TMU-Trường Đại Học Thương Mại,Công lập,Hà Nội,Miền Bắc,25.52,28.24,1134
+VHS-Trường Đại Học Văn Hóa TPHCM,Công lập,TP.HCM,Miền Nam,25.51,27.24,420
+DTS-Đại Học Sư Phạm Thái Nguyên,Công lập,Thái Nguyên,Miền Bắc,25.38,28.57,408
+HCP-Học Viện Chính Sách và Phát Triển,Công lập,Hà Nội,Miền Bắc,25.36,30.0,336
+BKA-Đại Học Bách Khoa Hà Nội,Công lập,Hà Nội,Miền Bắc,25.35,29.84,2160
+SP2-Trường Đại Học Sư Phạm Hà Nội 2,Công lập,Hà Nội,Miền Bắc,25.33,28.92,456
+QHX-Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội,Công lập,Hà Nội,Miền Bắc,25.22,29.41,1146
+SPH-Trường Đại Học Sư Phạm Hà Nội,Công lập,Hà Nội,Miền Bắc,25.2,29.51,522
+QHF-Trường Đại Học Ngoại Ngữ - Đại học Quốc gia Hà Nội,Công lập,Hà Nội,Miền Bắc,25.11,30.0,792
+HQT-Học Viện Ngoại Giao,Công lập,Hà Nội,Miền Bắc,25.1,26.8,666
+VHH-Trường Đại Học Văn Hóa Hà Nội,Công lập,Hà Nội,Miền Bắc,25.08,28.04,684
+SPS-Trường Đại Học Sư Phạm TPHCM,Công lập,TP.HCM,Miền Nam,25.0,29.94,774
+PKH-Học Viện Phòng Không – Không Quân,Quân đội/Công an,Hà Nội,Miền Bắc,24.93,26.96,72
+SPK-Trường Đại Học Công nghệ Kỹ thuật TP.HCM,Công lập,TP.HCM,Miền Nam,24.85,30.0,1974
+DDS-Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,Công lập,Đà Nẵng,Miền Trung,24.77,29.3,606
+HNM-Trường Đại học Thủ Đô Hà Nội,Công lập,Hà Nội,Miền Bắc,24.74,28.6,1236
+QHE-Trường Đại Học Kinh Tế - ĐHQG Hà Nội,Công lập,Hà Nội,Miền Bắc,24.59,26.55,252
+STS-Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM,Công lập,TP.HCM,Miền Nam,24.48,26.32,18
+KSA-Đại Học Kinh Tế TPHCM,Công lập,TP.HCM,Miền Nam,24.48,28.17,1662
+QHK-Trường Khoa học liên ngành và Nghệ thuật Hà Nội,Công lập,Hà Nội,Miền Bắc,24.46,27.46,534
+QHL-Trường Đại học Luật – ĐHQG Hà Nội,Công lập,Hà Nội,Miền Bắc,24.02,24.99,144
+KMA-Học Viện Kỹ Thuật Mật Mã,Công lập,Hà Nội,Miền Bắc,24.01,25.13,36
+XDA-Trường Đại Học Xây Dựng Hà Nội,Công lập,Hà Nội,Miền Bắc,24.01,27.41,1074
+DMS-Trường Đại Học Tài Chính Marketing,Công lập,Hà Nội,Miền Bắc,24.0,29.68,1680
+BVH-Học Viện Công Nghệ Bưu Chính Viễn Thông,Công lập,Hà Nội,Miền Bắc,23.89,26.6,420
+DKS-Trường Đại học Kiểm Sát,Công lập,Hà Nội,Miền Bắc,23.89,27.64,396
+HBT-Học viện Báo chí và Tuyên truyền,Công lập,Hà Nội,Miền Bắc,23.88,25.9,156
+HTN-Học Viện Thanh Thiếu Niên Việt Nam,Công lập,Hà Nội,Miền Bắc,23.87,26.6,186
+HPN-Học Viện Phụ Nữ Việt Nam,Công lập,Hà Nội,Miền Bắc,23.86,27.02,318
+DTF-Trường Ngoại Ngữ Thái Nguyên,Công lập,Thái Nguyên,Miền Bắc,23.85,27.54,132
+LPH-Trường Đại Học Luật Hà Nội,Công lập,Hà Nội,Miền Bắc,23.7,29.27,186
+HTC-Học Viện Tài chính,Công lập,Hà Nội,Miền Bắc,23.68,27.05,720
+DTT-Trường Đại Học Tôn Đức Thắng,Công lập,Hà Nội,Miền Bắc,23.61,30.0,3570
+HCH-Học Viện Hành Chính và Quản trị công,Công lập,Hà Nội,Miền Bắc,23.54,27.16,546
+QST-Trường Đại Học Khoa Học Tự Nhiên TPHCM,Công lập,TP.HCM,Miền Nam,23.49,30.0,1200
+HQH-Học Viện Hải Quân,Quân đội/Công an,Hà Nội,Miền Bắc,23.48,24.67,36
+QSX-Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM,Công lập,TP.HCM,Miền Nam,23.36,28.9,1008
+PBH-Trường Sĩ Quan Pháo Binh,Quân đội/Công an,Hà Nội,Miền Bắc,23.32,25.14,36
+ANH-Học Viện An Ninh Nhân Dân,Quân đội/Công an,Hà Nội,Miền Bắc,23.32,26.73,252
+TTH-Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,Quân đội/Công an,Hà Nội,Miền Bắc,23.27,24.46,36
+HCA-Học Viện Chính Trị Công An Nhân Dân,Quân đội/Công an,Hà Nội,Miền Bắc,23.24,25.85,96
+TGH-Trường Sĩ Quan Tăng - Thiết Giáp,Công lập,Hà Nội,Miền Bắc,23.18,24.62,36
+ANS-Trường Đại Học An Ninh Nhân Dân,Quân đội/Công an,Hà Nội,Miền Bắc,23.14,26.66,240
+HVC-Học viện cán bộ TPHCM,Công lập,TP.HCM,Miền Nam,23.12,24.8,186
+MTC-Trường Đại Học Mỹ Thuật Công Nghiệp,Công lập,Hà Nội,Miền Bắc,23.11,25.1,42
+NHH-Học Viện Ngân Hàng,Công lập,Hà Nội,Miền Bắc,23.11,27.34,864
+GSA-Trường Đại Học Giao Thông Vận Tải (Cơ sở 2),Công lập,Hà Nội,Miền Bắc,23.06,27.76,558
+CSH-Học Viện Cảnh Sát Nhân Dân,Quân đội/Công an,Hà Nội,Miền Bắc,23.02,26.47,192
+HVQ-Học Viện Quản Lý Giáo Dục,Công lập,Hà Nội,Miền Bắc,22.97,26.18,168
+GHA-Trường Đại Học Giao Thông Vận Tải,Công lập,Hà Nội,Miền Bắc,22.87,27.99,1050
+KCC-Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ,Công lập,Cần Thơ,Miền Nam,22.72,25.44,648
+QHT-Trường Đại Học Khoa Học Tự Nhiên Hà Nội,Công lập,Hà Nội,Miền Bắc,22.72,26.73,1554
+HGH-Trường Sĩ Quan Phòng Hóa,Quân đội/Công an,Hà Nội,Miền Bắc,22.71,23.82,48
+TTD-Trường Đại Học Thể Dục Thể Thao Đà Nẵng,Công lập,Đà Nẵng,Miền Trung,22.71,24.59,48
+DTG-Phân hiệu Đại học Thái Nguyên tại Hà Giang,Công lập,Thái Nguyên,Miền Bắc,22.7,26.61,150
+DKH-Trường Đại Học Dược Hà Nội,Công lập,Hà Nội,Miền Bắc,22.66,25.3,30
+PCH-Trường Đại Học Phòng Cháy Chữa Cháy (Phía Bắc),Công lập,Hà Nội,Miền Bắc,22.65,25.03,48
+DKY-Trường Đại Học Kỹ Thuật Y Tế Hải Dương,Công lập,Hải Dương,Miền Bắc,22.56,24.52,120
+QHY-Trường Đại học Y Dược - ĐHQG Hà Nội,Công lập,Hà Nội,Miền Bắc,22.55,27.9,72
+YPB-Trường Đại Học Y Dược Hải Phòng,Công lập,Hải Phòng,Miền Bắc,22.49,26.16,90
+CSS-Trường Đại Học Cảnh Sát Nhân Dân,Quân đội/Công an,Hà Nội,Miền Bắc,22.49,26.75,240
+DKK-Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp,Công lập,Hà Nội,Miền Bắc,22.31,25.82,2904
+LBH-Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ,Quân đội/Công an,Hà Nội,Miền Bắc,22.3,24.54,72
+SGD-Trường Đại Học Sài Gòn,Công lập,TP.HCM,Miền Nam,22.27,29.61,3750
+SPD-Trường Đại Học Đồng Tháp,Công lập,Hà Nội,Miền Bắc,22.23,30.0,1566
+THV-Trường Đại Học Hùng Vương,Công lập,Hà Nội,Miền Bắc,22.22,28.39,252
+HYD-Học Viện Y Dược Học Cổ Truyền Việt Nam,Công lập,Hà Nội,Miền Bắc,22.2,24.95,72
+DPQ-Trường Đại Học Phạm Văn Đồng,Công lập,Hà Nội,Miền Bắc,22.2,27.68,222
+MTS-Trường Đại Học Mỹ Thuật TPHCM,Công lập,TP.HCM,Miền Nam,22.11,24.99,30
+LDA-Trường Đại Học Công Đoàn,Công lập,Hà Nội,Miền Bắc,22.1,26.04,510
+HTA-Học viện Tòa án,Công lập,Hà Nội,Miền Bắc,22.06,23.71,96
+TTN-Trường Đại Học Tây Nguyên,Công lập,Đắk Lắk,Miền Nam,22.05,28.39,786
+QSY-Trường Đại học Khoa học sức khỏe TPHCM,Công lập,TP.HCM,Miền Nam,22.04,26.17,60
+DHA-Trường Đại học Luật Huế,Công lập,Huế,Miền Trung,21.99,22.84,36
+DCH-Trường Sĩ Quan Đặc Công,Quân đội/Công an,Hà Nội,Miền Bắc,21.99,23.29,36
+TDB-Trường Đại Học Thể Dục Thể Thao Bắc Ninh,Công lập,Hà Nội,Miền Bắc,21.97,27.76,24
+HHA-Trường Đại Học Hàng Hải Việt Nam,Công lập,Hà Nội,Miền Bắc,21.9,29.54,1590
+DQN-Trường Đại Học Quy Nhơn,Công lập,Bình Định,Miền Trung,21.83,27.66,1362
+NLS-Trường Đại Học Nông Lâm TPHCM,Công lập,TP.HCM,Miền Nam,21.77,25.71,1362
+THP-Trường Đại Học Hải Phòng,Công lập,Hải Phòng,Miền Bắc,21.76,27.43,1104
+PCS-Trường Đại Học Phòng Cháy Chữa Cháy (phía Nam),Công lập,Hà Nội,Miền Bắc,21.68,24.4,48
+DTY-Trường Đại Học Y Dược Thái Nguyên,Công lập,Thái Nguyên,Miền Bắc,21.68,26.67,306
+UKH-Trường Đại học Khánh Hòa,Công lập,Khánh Hòa,Miền Trung,21.61,26.87,606
+DNU-Trường Đại Học Đồng Nai,Công lập,Hà Nội,Miền Bắc,21.58,26.98,216
+HCB-Học viện Kỹ thuật và Công nghệ an ninh (Phía Bắc),Quân đội/Công an,Nghệ An,Miền Trung,21.52,25.93,120
+HCN-Học viện Kỹ thuật và Công nghệ an ninh (Phía Nam),Quân đội/Công an,Nghệ An,Miền Trung,21.51,25.77,120
+HHK-Học Viện Hàng không Việt Nam,Công lập,Hà Nội,Miền Bắc,21.46,27.47,4068
+IUH-Trường Đại Học Công Nghiệp TPHCM,Công lập,TP.HCM,Miền Nam,21.44,26.98,1398
+DHC-Khoa Giáo Dục Thể Chất Huế,Công lập,Huế,Miền Trung,21.37,21.92,6
+DDK-Trường Đại Học Bách Khoa Đà Nẵng,Công lập,Đà Nẵng,Miền Trung,21.37,27.65,762
+DCV-Trường Đại học Công nghiệp Vinh,Công lập,Nghệ An,Miền Trung,21.37,28.98,150
+TTB-Trường Đại Học Tây Bắc,Công lập,Hà Nội,Miền Bắc,21.35,28.56,720
+YHB-Trường Đại Học Y Hà Nội,Công lập,Hà Nội,Miền Bắc,21.31,29.13,216
+NHS-Trường Đại Học Ngân Hàng TPHCM,Công lập,TP.HCM,Miền Nam,21.3,24.4,618
+DCT-Trường Đại Học Công Thương TPHCM,Công lập,TP.HCM,Miền Nam,21.25,25.25,918
+DCN-Đại Học Công Nghiệp Hà Nội,Công lập,Hà Nội,Miền Bắc,21.18,26.7,828
+DQU-Trường Đại Học Quảng Nam,Công lập,Quảng Nam,Miền Trung,21.17,26.71,270
+TCT-Đại Học Cần Thơ,Công lập,Cần Thơ,Miền Nam,21.06,29.05,2532
+TLA-Trường Đại Học Thủy Lợi,Công lập,Hà Nội,Miền Bắc,21.01,26.3,1386
+TDS-Trường Đại Học Thể Dục Thể Thao TPHCM,Công lập,TP.HCM,Miền Nam,20.97,21.69,18
+LPS-Trường Đại Học Luật TPHCM,Công lập,TP.HCM,Miền Nam,20.91,25.91,168
+NHB-Học Viện Ngân Hàng (Phân Viện Bắc Ninh),Công lập,Hà Nội,Miền Bắc,20.77,22.05,96
+FBU-Trường Đại Học Tài Chính Ngân Hàng Hà Nội,Công lập,Hà Nội,Miền Bắc,20.76,24.87,240
+DDQ-Trường Đại Học Kinh Tế – Đại Học Đà Nẵng,Công lập,Đà Nẵng,Miền Trung,20.73,24.79,456
+HCS-Học Viện Hành Chính Và Quản Trị Công (phía Nam),Công lập,Hà Nội,Miền Bắc,20.7,28.28,264
+TDV-Trường Đại Học Vinh,Công lập,Nghệ An,Miền Trung,20.68,28.87,1476
+DDF-Trường Đại Học Ngoại Ngữ Đà Nẵng,Công lập,Đà Nẵng,Miền Trung,20.66,27.74,528
+VKU-Trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng,Công lập,Đà Nẵng,Miền Trung,20.65,24.8,444
+YTC-Trường Đại Học Y Tế Công Cộng,Công lập,Hà Nội,Miền Bắc,20.65,24.33,210
+TDM-Trường Đại học Thủ Dầu Một,Công lập,Hà Nội,Miền Bắc,20.59,27.28,1524
+TSN-Trường Đại Học Nha Trang,Công lập,Khánh Hòa,Miền Trung,20.56,26.3,864
+YDS-Đại Học Y Dược TPHCM,Công lập,TP.HCM,Miền Nam,20.56,27.74,186
+DDL-Trường Đại Học Điện Lực,Công lập,Hà Nội,Miền Bắc,20.53,24.06,798
+DTP-Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai,Công lập,Thái Nguyên,Miền Bắc,20.49,26.66,402
+TDL-Trường Đại Học Đà Lạt,Công lập,Lâm Đồng,Miền Nam,20.47,28.99,1104
+VJU-Trường Đại học Việt Nhật - ĐHQG Hà Nội,Công lập,Hà Nội,Miền Bắc,20.47,22.84,510
+KTS-Trường Đại Học Kiến Trúc TPHCM,Công lập,TP.HCM,Miền Nam,20.39,24.98,192
+HVN-Học Viện Nông Nghiệp Việt Nam,Công lập,Hà Nội,Miền Bắc,20.36,24.92,810
+LAH-Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn,Quân đội/Công an,Hà Nội,Miền Bắc,20.36,24.96,42
+QSQ-Trường Đại Học Quốc Tế - ĐHQG TPHCM,Tư thục,TP.HCM,Miền Nam,20.35,26.49,270
+TYS-Trường Đại Học Y Khoa Phạm Ngọc Thạch,Công lập,Hà Nội,Miền Bắc,20.35,26.37,150
+BVS-Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM),Công lập,TP.HCM,Miền Nam,20.34,24.77,162
+KCN-Trường Đại Học Khoa Học Và Công Nghệ Hà Nội,Công lập,Hà Nội,Miền Bắc,20.31,25.64,1254
+MHN-Trường Đại Học Mở Hà Nội,Công lập,Hà Nội,Miền Bắc,20.22,25.62,318
+DMT-Trường Đại học Tài Nguyên và Môi Trường Hà Nội,Công lập,Hà Nội,Miền Bắc,20.18,27.14,1212
+DHF-Trường Đại Học Ngoại Ngữ Huế,Công lập,Huế,Miền Trung,20.17,30.0,300
+VGU-Trường Đại Học Việt Đức,Công lập,Hà Nội,Miền Bắc,20.16,26.96,1458
+QHQ-Trường Quốc Tế - ĐHQG Hà Nội,Tư thục,Hà Nội,Miền Bắc,20.13,22.81,558
+YDN-Trường Đại học Kỹ thuật Y Dược Đà Nẵng,Công lập,Đà Nẵng,Miền Trung,20.09,23.58,216
+PVU-Trường Đại Học Dầu Khí Việt Nam,Công lập,Hà Nội,Miền Bắc,19.99,20.83,126
+MBS-Trường Đại Học Mở TPHCM,Công lập,TP.HCM,Miền Nam,19.92,25.82,3408
+YTB-Trường Đại Học Y Dược Thái Bình,Công lập,Thái Bình,Miền Bắc,19.81,25.31,84
+DPY-Trường Đại Học Phú Yên,Công lập,Hà Nội,Miền Bắc,19.79,26.72,324
+QHD-Trường Quản Trị và Kinh Doanh - ĐHQG Hà Nội,Công lập,Hà Nội,Miền Bắc,19.75,22.34,216
+DNB-Trường Đại Học Hoa Lư,Công lập,Hà Nội,Miền Bắc,19.75,27.54,168
+DKT-Trường Đại Học Hải Dương,Công lập,Hải Dương,Miền Bắc,19.68,27.31,1380
+GTA-Trường Đại học Công nghệ Giao thông vận tải,Công lập,Hà Nội,Miền Bắc,19.66,25.34,2418
+HDT-Trường Đại Học Hồng Đức,Công lập,Hà Nội,Miền Bắc,19.61,28.85,1092
+DSK-Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng,Công lập,Đà Nẵng,Miền Trung,19.6,23.39,630
+QSA-Trường Đại Học An Giang,Công lập,Hà Nội,Miền Bắc,19.58,29.14,5244
+DTL-Trường Đại Học Thăng Long,Công lập,Hà Nội,Miền Bắc,19.57,26.43,570
+TQU-Trường Đại học Tân Trào,Công lập,Hà Nội,Miền Bắc,19.46,24.24,450
+DQB-Trường Đại Học Quảng Bình,Công lập,Hà Nội,Miền Bắc,19.45,27.77,522
+YCT-Trường Đại Học Y Dược Cần Thơ,Công lập,Cần Thơ,Miền Nam,19.36,24.42,84
+BMU-Trường Đại học Y Dược Buôn Ma Thuột,Công lập,Đắk Lắk,Miền Nam,19.36,22.82,168
+PKA-Đại Học Phenikaa,Tư thục,Hà Nội,Miền Bắc,19.28,26.34,1902
+DHY-Trường Đại Học Y Dược Huế,Công lập,Huế,Miền Trung,19.23,25.99,204
+DDY-Trường Y Dược Đà Nẵng,Công lập,Đà Nẵng,Miền Trung,19.2,23.99,132
+DTC-Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên,Công lập,Thái Nguyên,Miền Bắc,19.14,22.79,2532
+KTA-Trường Đại Học Kiến Trúc Hà Nội,Công lập,Hà Nội,Miền Bắc,19.12,22.81,414
+GNT-Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương,Công lập,Hà Nội,Miền Bắc,19.01,26.35,72
+YKV-Trường Đại Học Y Khoa Vinh,Công lập,Nghệ An,Miền Trung,18.97,22.82,84
+DHE-Khoa Kỹ thuật và Công nghệ - Đại học Huế,Công lập,Huế,Miền Trung,18.96,24.81,210
+DHD-Trường Du Lịch - Đại Học Huế,Công lập,Huế,Miền Trung,18.74,22.34,246
+KSV-Đại học Kinh Tế TPHCM - Phân hiệu Vĩnh Long,Công lập,TP.HCM,Miền Nam,18.67,22.82,408
+HLU-Trường Đại Học Hạ Long,Công lập,Hà Nội,Miền Bắc,18.6,27.78,870
+CEA-Trường Đại học Nghệ An,Công lập,Nghệ An,Miền Trung,18.6,25.83,384
+SKD-Trường Đại Học Sân Khấu Điện Ảnh Hà Nội,Công lập,Hà Nội,Miền Bắc,18.48,23.03,162
+MDA-Trường Đại Học Mỏ Địa Chất,Công lập,Hà Nội,Miền Bắc,18.42,26.34,1956
+DHN-Trường Đại Học Nghệ Thuật Huế,Công lập,Huế,Miền Trung,18.41,21.02,36
+DTK-Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên,Công lập,Thái Nguyên,Miền Bắc,18.33,25.3,834
+DPC-Trường Đại Học Phan Châu Trinh,Công lập,Hà Nội,Miền Bắc,18.33,22.55,174
+DTE-Trường Đại học Kinh tế và Quản trị kinh doanh Thái Nguyên,Công lập,Thái Nguyên,Miền Bắc,18.17,20.35,504
+NLG-Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai,Công lập,TP.HCM,Miền Nam,17.96,21.65,120
+DCD-Trường Đại Học Công Nghệ Đồng Nai,Công lập,Hà Nội,Miền Bắc,17.89,23.58,1080
+DQK-Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội,Công lập,Hà Nội,Miền Bắc,17.82,22.32,630
+YDD-Trường Đại Học Điều Dưỡng Nam Định,Công lập,Nam Định,Miền Bắc,17.69,21.77,144
+KGH-Trường Sĩ Quan Không Quân - Hệ Đại học,Quân đội/Công an,Hà Nội,Miền Bắc,17.44,19.36,36
+DLS-Trường Đại Học Lao Động – Xã Hội (Cơ sở II),Công lập,Hà Nội,Miền Bắc,17.33,25.39,216
+DTZ-Trường Đại Học Khoa Học Thái Nguyên,Công lập,Thái Nguyên,Miền Bắc,17.29,21.05,1788
+DLX-Trường Đại Học Lao Động – Xã Hội,Công lập,Hà Nội,Miền Bắc,17.25,24.77,288
+SKH-Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên,Công lập,Hà Nội,Miền Bắc,17.2,27.15,600
+DHI-Khoa Quốc tế - Đại học Huế,Tư thục,Huế,Miền Trung,17.18,22.35,150
+"DVD-Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",Công lập,Thanh Hóa,Miền Trung,17.14,27.76,408
+SKV-Trường Đại Học Sư Phạm Kỹ Thuật Vinh,Công lập,Nghệ An,Miền Trung,17.14,20.34,474
+TKG-Trường Đại học Kiên Giang,Công lập,Kiên Giang,Miền Nam,17.05,25.68,864
+THU-Trường Đại học Y khoa Tokyo Việt Nam,Công lập,Hà Nội,Miền Bắc,17.01,17.82,198
+DHT-Trường Đại Học Khoa Học Huế,Công lập,Huế,Miền Trung,17.01,22.81,564
+NLN-Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận,Công lập,TP.HCM,Miền Nam,16.67,18.84,186
+TLS-Trường Đại Học Thủy Lợi (Cơ sở 2),Công lập,Hà Nội,Miền Bắc,16.63,21.82,552
+CCM-Trường Đại học Công nghiệp và Thương mại Hà Nội,Công lập,Hà Nội,Miền Bắc,16.49,19.82,444
+DBL-Trường Đại Học Bạc Liêu,Công lập,Hà Nội,Miền Bắc,16.46,27.42,498
+DDP-Phân Hiệu Đại Học Đà Nẵng tại Kon Tum,Công lập,Đà Nẵng,Miền Trung,16.38,25.35,234
+UMT-Trường Đại học Quản lý và công nghệ TPHCM,Công lập,TP.HCM,Miền Nam,16.32,25.83,600
+VHD-Trường Đại Học Công Nghiệp Việt - Hung,Công lập,Hà Nội,Miền Bắc,16.32,19.07,1092
+TDD-Trường Đại học Thành Đô,Công lập,Hà Nội,Miền Bắc,16.3,19.83,468
+DCQ-Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị,Công lập,Hà Nội,Miền Bắc,16.3,18.82,228
+SDU-Trường Đại học Sao Đỏ,Công lập,Hà Nội,Miền Bắc,16.16,26.53,516
+DTQ-Khoa Quốc Tế - Đại Học Thái Nguyên,Tư thục,Thái Nguyên,Miền Bắc,16.14,17.77,342
+DVT-Đại Học Trà Vinh,Công lập,Nghệ An,Miền Trung,16.13,23.32,942
+LNH-Trường Đại Học Lâm nghiệp,Công lập,Hà Nội,Miền Bắc,16.08,20.92,888
+DCL-Trường Đại Học Cửu Long,Công lập,Hà Nội,Miền Bắc,16.06,21.31,1614
+KTD-Trường Đại Học Kiến Trúc Đà Nẵng,Công lập,Đà Nẵng,Miền Trung,16.04,18.73,330
+DHK-Trường Đại Học Kinh Tế - Đại Học Huế,Công lập,Huế,Miền Trung,16.0,20.76,1008
+ETU-Trường Đại Học Hòa Bình,Công lập,Hà Nội,Miền Bắc,15.99,21.34,606
+DTB-Trường Đại Học Thái Bình,Công lập,Thái Bình,Miền Bắc,15.98,16.84,198
+DYD-Trường Đại Học Yersin Đà Lạt,Công lập,Lâm Đồng,Miền Nam,15.97,21.29,516
+DVP-Trường Đại Học Trưng Vương,Công lập,Hà Nội,Miền Bắc,15.96,19.77,576
+UFA-Trường Đại học Tài Chính Kế Toán,Công lập,Hà Nội,Miền Bắc,15.94,19.81,150
+HHT-Trường Đại Học Hà Tĩnh,Công lập,Hà Nội,Miền Bắc,15.84,26.77,774
+DPD-Trường Đại Học Phương Đông,Công lập,Hà Nội,Miền Bắc,15.79,18.85,426
+SIU-Trường Đại học Tư thục Quốc Tế Sài Gòn,Tư thục,TP.HCM,Miền Nam,15.78,18.69,450
+HIU-Trường Đại Học Quốc Tế Hồng Bàng,Tư thục,Hà Nội,Miền Bắc,15.77,21.28,1194
+TTU-Trường Đại học Tân Tạo,Công lập,Hà Nội,Miền Bắc,15.73,21.28,348
+DLH-Trường Đại Học Lạc Hồng,Công lập,Hà Nội,Miền Bắc,15.69,20.12,564
+DDU-Trường Đại Học Đông Đô,Công lập,Hà Nội,Miền Bắc,15.69,19.8,384
+DFA-Trường Đại học Tài chính Quản trị kinh doanh,Công lập,Hà Nội,Miền Bắc,15.69,19.84,168
+DNC-Trường Đại học Nam Cần Thơ,Công lập,Cần Thơ,Miền Nam,15.67,21.34,1506
+DHV-Trường Đại học Hùng Vương TPHCM,Công lập,TP.HCM,Miền Nam,15.65,20.75,618
+DTM-Trường Đại học Tài Nguyên và Môi Trường TPHCM,Công lập,TP.HCM,Miền Nam,15.61,20.84,726
+GDU-Trường Đại Học Gia Định,Công lập,Hà Nội,Miền Bắc,15.61,21.31,996
+DBG-Trường Đại học Nông Lâm Bắc Giang,Công lập,Bắc Giang,Miền Bắc,15.61,19.47,1104
+DHL-Trường Đại Học Nông Lâm Huế,Công lập,Huế,Miền Trung,15.6,20.29,822
+MIT-Trường Đại học Công nghệ Miền Đông,Công lập,Hà Nội,Miền Bắc,15.52,19.84,780
+DAD-Trường Đại Học Đông Á,Tư thục,Hà Nội,Miền Bắc,15.51,21.33,1296
+DLA-Trường Đại Học Kinh Tế Công Nghiệp Long An,Công lập,Hà Nội,Miền Bắc,15.51,19.14,162
+DDM-Trường Đại Học Công Nghiệp Quảng Ninh,Công lập,Quảng Ninh,Miền Bắc,15.51,18.75,300
+NTU-Trường Đại Học Nguyễn Trãi,Công lập,Hà Nội,Miền Bắc,15.5,18.53,408
+DTD-Trường Đại Học Tây Đô,Công lập,Hà Nội,Miền Bắc,15.5,19.74,780
+NTT-Trường Đại Học Nguyễn Tất Thành,Công lập,Hà Nội,Miền Bắc,15.5,21.17,1908
+DDV-Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng,Công lập,Đà Nẵng,Miền Trung,15.49,16.81,228
+DPT-Trường Đại Học Phan Thiết,Công lập,Hà Nội,Miền Bắc,15.48,18.72,498
+DNT-Trường Đại Học Ngoại Ngữ Tin Học TPHCM,Công lập,TP.HCM,Miền Nam,15.46,17.82,894
+LNS-Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai,Công lập,Hà Nội,Miền Bắc,15.43,16.84,360
+DTV-Trường Đại Học Lương Thế Vinh,Công lập,Nghệ An,Miền Trung,15.42,19.72,846
+DDT-Đại Học Duy Tân,Công lập,Hà Nội,Miền Bắc,15.42,21.24,2232
+DVL-Trường Đại Học Văn Lang,Tư thục,Hà Nội,Miền Bắc,15.4,21.26,1380
+DDN-Trường Đại Học Đại Nam,Công lập,Hà Nội,Miền Bắc,15.39,21.32,1494
+EIU-Trường Đại Học Quốc Tế Miền Đông,Tư thục,Hà Nội,Miền Bắc,15.37,17.82,474
+DBD-Trường Đại Học Bình Dương,Công lập,Bình Dương,Miền Nam,15.35,19.78,648
+DVH-Trường Đại Học Văn Hiến,Công lập,Hà Nội,Miền Bắc,15.31,18.79,1278
+TTG-Trường Đại Học Tiền Giang,Công lập,Hà Nội,Miền Bắc,15.31,18.83,714
+HSU-Trường Đại Học Hoa Sen,Tư thục,Hà Nội,Miền Bắc,15.31,17.82,816
+DSG-Trường Đại Học Công Nghệ Sài Gòn,Tư thục,TP.HCM,Miền Nam,15.3,18.85,5508
+UEF-Trường Đại Học Kinh Tế Tài Chính TPHCM,Công lập,TP.HCM,Miền Nam,15.29,16.84,1080
+HPU-Trường Đại học Quản lý và Công nghệ Hải Phòng,Công lập,Hải Phòng,Miền Bắc,15.29,16.94,1596
+BVU-Trường Đại Học Bà Rịa – Vũng Tàu,Công lập,Hà Nội,Miền Bắc,15.27,19.85,1980
+DKC-Trường Đại học Công Nghệ TPHCM,Công lập,TP.HCM,Miền Nam,15.26,19.8,1794
+TBD-Trường Đại Học Thái Bình Dương,Công lập,Thái Bình,Miền Bắc,15.22,18.79,798
+MTU-Trường Đại Học Xây Dựng Miền Tây,Công lập,Hà Nội,Miền Bắc,15.15,15.85,498
+DPX-Trường Đại Học Phú Xuân,Công lập,Hà Nội,Miền Bắc,15.15,15.85,264
+XDN-Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng,Công lập,Đà Nẵng,Miền Trung,15.14,15.85,336
+XDT-Trường Đại Học Xây Dựng Miền Trung,Công lập,Hà Nội,Miền Bắc,15.14,15.84,426
+VUI-Trường Đại Học Công Nghiệp Việt Trì,Công lập,Hà Nội,Miền Bắc,15.14,15.85,270
+VLU-Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long,Công lập,Hà Nội,Miền Bắc,15.13,22.82,1230
+DHQ-Phân Hiệu Đại Học Huế tại Quảng Trị,Công lập,Huế,Miền Trung,15.13,15.81,72
+DTN-Trường Đại Học Nông Lâm Thái Nguyên,Công lập,Thái Nguyên,Miền Bắc,15.13,15.84,1500
+DVB-Trường Đại Học Kinh tế công nghệ Thái Nguyên,Công lập,Thái Nguyên,Miền Bắc,15.13,15.83,222
+NHP-Học Viện Ngân Hàng (Phân Viện Phú Yên),Công lập,Hà Nội,Miền Bắc,15.13,15.85,120
+HVD-Học Viện Dân Tộc,Công lập,Hà Nội,Miền Bắc,15.12,15.7,24
+DKB-Trường Đại Học Kinh Tế Kỹ Thuật Bình Dương,Công lập,Bình Dương,Miền Nam,15.07,19.82,756
+DQT-Trường Đại Học Quang Trung,Công lập,Hà Nội,Miền Bắc,15.04,17.85,648
+SKN-Trường Đại Học Sư Phạm Kỹ Thuật Nam Định,Công lập,Nam Định,Miền Bắc,14.83,15.0,2112

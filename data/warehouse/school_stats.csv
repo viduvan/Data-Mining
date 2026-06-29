@@ -1,0 +1,1627 @@
+﻿school_name,year,school_type,province,avg_score,min_score,max_score,total_quota,num_majors
+ANH-Học Viện An Ninh Nhân Dân,2020,Quân đội/Công an,Hà Nội,23.46,18.87,26.42,4200,42
+ANH-Học Viện An Ninh Nhân Dân,2021,Quân đội/Công an,Hà Nội,23.92,19.28,26.73,4200,42
+ANH-Học Viện An Ninh Nhân Dân,2022,Quân đội/Công an,Hà Nội,22.82,18.08,25.98,4200,42
+ANH-Học Viện An Ninh Nhân Dân,2023,Quân đội/Công an,Hà Nội,23.08,18.36,26.15,4200,42
+ANH-Học Viện An Ninh Nhân Dân,2024,Quân đội/Công an,Hà Nội,23.28,18.57,26.33,4200,42
+ANH-Học Viện An Ninh Nhân Dân,2025,Quân đội/Công an,Hà Nội,23.34,18.78,26.27,4200,42
+ANS-Trường Đại Học An Ninh Nhân Dân,2020,Quân đội/Công an,Hà Nội,23.32,17.71,26.24,4000,40
+ANS-Trường Đại Học An Ninh Nhân Dân,2021,Quân đội/Công an,Hà Nội,23.77,18.12,26.66,4000,40
+ANS-Trường Đại Học An Ninh Nhân Dân,2022,Quân đội/Công an,Hà Nội,22.62,17.04,25.75,4000,40
+ANS-Trường Đại Học An Ninh Nhân Dân,2023,Quân đội/Công an,Hà Nội,22.87,17.28,25.96,4000,40
+ANS-Trường Đại Học An Ninh Nhân Dân,2024,Quân đội/Công an,Hà Nội,23.09,17.42,26.11,4000,40
+ANS-Trường Đại Học An Ninh Nhân Dân,2025,Quân đội/Công an,Hà Nội,23.15,17.66,26.05,4000,40
+BKA-Đại Học Bách Khoa Hà Nội,2020,Công lập,Hà Nội,25.48,19.0,29.51,36000,360
+BKA-Đại Học Bách Khoa Hà Nội,2021,Công lập,Hà Nội,25.9,19.5,29.84,36000,360
+BKA-Đại Học Bách Khoa Hà Nội,2022,Công lập,Hà Nội,24.89,18.44,29.14,36000,360
+BKA-Đại Học Bách Khoa Hà Nội,2023,Công lập,Hà Nội,25.15,18.75,29.28,36000,360
+BKA-Đại Học Bách Khoa Hà Nội,2024,Công lập,Hà Nội,25.32,18.82,29.46,36000,360
+BKA-Đại Học Bách Khoa Hà Nội,2025,Công lập,Hà Nội,25.35,19.0,29.39,36000,360
+BMU-Trường Đại học Y Dược Buôn Ma Thuột,2020,Công lập,Đắk Lắk,19.51,15.95,22.22,2800,28
+BMU-Trường Đại học Y Dược Buôn Ma Thuột,2021,Công lập,Đắk Lắk,20.01,16.47,22.82,2800,28
+BMU-Trường Đại học Y Dược Buôn Ma Thuột,2022,Công lập,Đắk Lắk,18.81,15.26,21.62,2800,28
+BMU-Trường Đại học Y Dược Buôn Ma Thuột,2023,Công lập,Đắk Lắk,19.14,15.65,21.85,2800,28
+BMU-Trường Đại học Y Dược Buôn Ma Thuột,2024,Công lập,Đắk Lắk,19.34,15.75,22.08,2800,28
+BMU-Trường Đại học Y Dược Buôn Ma Thuột,2025,Công lập,Đắk Lắk,19.38,16.0,22.0,2800,28
+BPH-Học Viện Biên Phòng,2020,Công lập,Hà Nội,28.41,26.24,30.0,2700,27
+BPH-Học Viện Biên Phòng,2021,Công lập,Hà Nội,28.68,26.49,30.0,2700,27
+BPH-Học Viện Biên Phòng,2022,Công lập,Hà Nội,28.0,25.84,29.64,2700,27
+BPH-Học Viện Biên Phòng,2023,Công lập,Hà Nội,28.17,25.94,29.74,2700,27
+BPH-Học Viện Biên Phòng,2024,Công lập,Hà Nội,28.3,26.04,29.98,2700,27
+BPH-Học Viện Biên Phòng,2025,Công lập,Hà Nội,28.32,26.13,29.91,2700,27
+BVH-Học Viện Công Nghệ Bưu Chính Viễn Thông,2020,Công lập,Hà Nội,24.05,21.23,26.34,7000,70
+BVH-Học Viện Công Nghệ Bưu Chính Viễn Thông,2021,Công lập,Hà Nội,24.51,21.54,26.6,7000,70
+BVH-Học Viện Công Nghệ Bưu Chính Viễn Thông,2022,Công lập,Hà Nội,23.37,20.34,25.89,7000,70
+BVH-Học Viện Công Nghệ Bưu Chính Viễn Thông,2023,Công lập,Hà Nội,23.66,20.57,26.12,7000,70
+BVH-Học Viện Công Nghệ Bưu Chính Viễn Thông,2024,Công lập,Hà Nội,23.84,20.96,26.24,7000,70
+BVH-Học Viện Công Nghệ Bưu Chính Viễn Thông,2025,Công lập,Hà Nội,23.89,21.0,26.21,7000,70
+BVS-Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM),2020,Công lập,TP.HCM,20.52,16.23,24.29,2700,27
+BVS-Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM),2021,Công lập,TP.HCM,21.0,16.92,24.77,2700,27
+BVS-Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM),2022,Công lập,TP.HCM,19.81,15.65,23.56,2700,27
+BVS-Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM),2023,Công lập,TP.HCM,20.06,15.91,23.9,2700,27
+BVS-Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM),2024,Công lập,TP.HCM,20.29,16.1,24.09,2700,27
+BVS-Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM),2025,Công lập,TP.HCM,20.35,16.25,24.0,2700,27
+BVU-Trường Đại Học Bà Rịa – Vũng Tàu,2020,Công lập,Hà Nội,15.3,15.0,19.33,33000,330
+BVU-Trường Đại Học Bà Rịa – Vũng Tàu,2021,Công lập,Hà Nội,15.79,15.45,19.85,33000,330
+BVU-Trường Đại Học Bà Rịa – Vũng Tàu,2022,Công lập,Hà Nội,15.11,15.0,18.61,33000,330
+BVU-Trường Đại Học Bà Rịa – Vũng Tàu,2023,Công lập,Hà Nội,15.13,15.0,18.93,33000,330
+BVU-Trường Đại Học Bà Rịa – Vũng Tàu,2024,Công lập,Hà Nội,15.17,15.0,19.04,33000,330
+BVU-Trường Đại Học Bà Rịa – Vũng Tàu,2025,Công lập,Hà Nội,15.15,15.0,19.0,33000,330
+CCM-Trường Đại học Công nghiệp và Thương mại Hà Nội,2020,Công lập,Hà Nội,16.65,15.97,18.97,7400,74
+CCM-Trường Đại học Công nghiệp và Thương mại Hà Nội,2021,Công lập,Hà Nội,17.15,16.48,19.82,7400,74
+CCM-Trường Đại học Công nghiệp và Thương mại Hà Nội,2022,Công lập,Hà Nội,15.95,15.26,18.48,7400,74
+CCM-Trường Đại học Công nghiệp và Thương mại Hà Nội,2023,Công lập,Hà Nội,16.25,15.55,18.92,7400,74
+CCM-Trường Đại học Công nghiệp và Thương mại Hà Nội,2024,Công lập,Hà Nội,16.46,15.75,18.94,7400,74
+CCM-Trường Đại học Công nghiệp và Thương mại Hà Nội,2025,Công lập,Hà Nội,16.5,16.0,19.0,7400,74
+CEA-Trường Đại học Nghệ An,2020,Công lập,Nghệ An,18.77,15.99,25.2,6400,64
+CEA-Trường Đại học Nghệ An,2021,Công lập,Nghệ An,19.26,16.47,25.83,6400,64
+CEA-Trường Đại học Nghệ An,2022,Công lập,Nghệ An,18.04,15.29,24.37,6400,64
+CEA-Trường Đại học Nghệ An,2023,Công lập,Nghệ An,18.35,15.57,24.93,6400,64
+CEA-Trường Đại học Nghệ An,2024,Công lập,Nghệ An,18.57,15.76,24.95,6400,64
+CEA-Trường Đại học Nghệ An,2025,Công lập,Nghệ An,18.62,16.0,25.0,6400,64
+CMC-Trường Đại Học CMC,2020,Công lập,Hà Nội,26.32,23.96,28.84,58400,584
+CMC-Trường Đại Học CMC,2021,Công lập,Hà Nội,26.7,24.47,29.15,58400,584
+CMC-Trường Đại Học CMC,2022,Công lập,Hà Nội,25.8,23.25,28.42,58400,584
+CMC-Trường Đại Học CMC,2023,Công lập,Hà Nội,26.02,23.56,28.6,58400,584
+CMC-Trường Đại Học CMC,2024,Công lập,Hà Nội,26.17,23.75,28.73,58400,584
+CMC-Trường Đại Học CMC,2025,Công lập,Hà Nội,26.21,24.0,28.66,58400,584
+CSH-Học Viện Cảnh Sát Nhân Dân,2020,Quân đội/Công an,Hà Nội,23.18,18.7,26.17,3200,32
+CSH-Học Viện Cảnh Sát Nhân Dân,2021,Quân đội/Công an,Hà Nội,23.63,19.16,26.47,3200,32
+CSH-Học Viện Cảnh Sát Nhân Dân,2022,Quân đội/Công an,Hà Nội,22.5,18.1,25.71,3200,32
+CSH-Học Viện Cảnh Sát Nhân Dân,2023,Quân đội/Công an,Hà Nội,22.77,18.23,25.94,3200,32
+CSH-Học Viện Cảnh Sát Nhân Dân,2024,Quân đội/Công an,Hà Nội,23.0,18.44,26.01,3200,32
+CSH-Học Viện Cảnh Sát Nhân Dân,2025,Quân đội/Công an,Hà Nội,23.03,18.67,26.01,3200,32
+CSS-Trường Đại Học Cảnh Sát Nhân Dân,2020,Quân đội/Công an,Hà Nội,22.65,15.99,26.43,4000,40
+CSS-Trường Đại Học Cảnh Sát Nhân Dân,2021,Quân đội/Công an,Hà Nội,23.13,16.46,26.75,4000,40
+CSS-Trường Đại Học Cảnh Sát Nhân Dân,2022,Quân đội/Công an,Hà Nội,21.96,15.27,25.94,4000,40
+CSS-Trường Đại Học Cảnh Sát Nhân Dân,2023,Quân đội/Công an,Hà Nội,22.26,15.53,26.18,4000,40
+CSS-Trường Đại Học Cảnh Sát Nhân Dân,2024,Quân đội/Công an,Hà Nội,22.45,15.78,26.29,4000,40
+CSS-Trường Đại Học Cảnh Sát Nhân Dân,2025,Quân đội/Công an,Hà Nội,22.5,15.95,26.28,4000,40
+DAD-Trường Đại Học Đông Á,2020,Tư thục,Hà Nội,15.56,15.0,20.71,21600,216
+DAD-Trường Đại Học Đông Á,2021,Tư thục,Hà Nội,16.04,15.45,21.33,21600,216
+DAD-Trường Đại Học Đông Á,2022,Tư thục,Hà Nội,15.32,15.0,20.09,21600,216
+DAD-Trường Đại Học Đông Á,2023,Tư thục,Hà Nội,15.36,15.0,20.39,21600,216
+DAD-Trường Đại Học Đông Á,2024,Tư thục,Hà Nội,15.41,15.0,20.62,21600,216
+DAD-Trường Đại Học Đông Á,2025,Tư thục,Hà Nội,15.39,15.0,20.5,21600,216
+DBD-Trường Đại Học Bình Dương,2020,Công lập,Bình Dương,15.38,15.0,19.34,10800,108
+DBD-Trường Đại Học Bình Dương,2021,Công lập,Bình Dương,15.88,15.45,19.78,10800,108
+DBD-Trường Đại Học Bình Dương,2022,Công lập,Bình Dương,15.19,15.0,18.58,10800,108
+DBD-Trường Đại Học Bình Dương,2023,Công lập,Bình Dương,15.2,15.0,18.87,10800,108
+DBD-Trường Đại Học Bình Dương,2024,Công lập,Bình Dương,15.24,15.0,19.13,10800,108
+DBD-Trường Đại Học Bình Dương,2025,Công lập,Bình Dương,15.22,15.0,19.0,10800,108
+DBG-Trường Đại học Nông Lâm Bắc Giang,2020,Công lập,Bắc Giang,15.65,15.0,19.09,18400,184
+DBG-Trường Đại học Nông Lâm Bắc Giang,2021,Công lập,Bắc Giang,16.16,15.45,19.47,18400,184
+DBG-Trường Đại học Nông Lâm Bắc Giang,2022,Công lập,Bắc Giang,15.39,15.0,18.34,18400,184
+DBG-Trường Đại học Nông Lâm Bắc Giang,2023,Công lập,Bắc Giang,15.45,15.0,18.69,18400,184
+DBG-Trường Đại học Nông Lâm Bắc Giang,2024,Công lập,Bắc Giang,15.5,15.0,18.84,18400,184
+DBG-Trường Đại học Nông Lâm Bắc Giang,2025,Công lập,Bắc Giang,15.5,15.0,18.75,18400,184
+DBL-Trường Đại Học Bạc Liêu,2020,Công lập,Hà Nội,16.48,15.0,27.13,8300,83
+DBL-Trường Đại Học Bạc Liêu,2021,Công lập,Hà Nội,16.98,15.45,27.42,8300,83
+DBL-Trường Đại Học Bạc Liêu,2022,Công lập,Hà Nội,16.27,15.0,26.74,8300,83
+DBL-Trường Đại Học Bạc Liêu,2023,Công lập,Hà Nội,16.31,15.0,26.94,8300,83
+DBL-Trường Đại Học Bạc Liêu,2024,Công lập,Hà Nội,16.37,15.0,27.04,8300,83
+DBL-Trường Đại Học Bạc Liêu,2025,Công lập,Hà Nội,16.35,15.0,26.99,8300,83
+DCD-Trường Đại Học Công Nghệ Đồng Nai,2020,Công lập,Hà Nội,18.04,17.28,23.14,18000,180
+DCD-Trường Đại Học Công Nghệ Đồng Nai,2021,Công lập,Hà Nội,18.55,17.79,23.58,18000,180
+DCD-Trường Đại Học Công Nghệ Đồng Nai,2022,Công lập,Hà Nội,17.35,16.59,22.4,18000,180
+DCD-Trường Đại Học Công Nghệ Đồng Nai,2023,Công lập,Hà Nội,17.64,16.88,22.71,18000,180
+DCD-Trường Đại Học Công Nghệ Đồng Nai,2024,Công lập,Hà Nội,17.84,17.09,22.91,18000,180
+DCD-Trường Đại Học Công Nghệ Đồng Nai,2025,Công lập,Hà Nội,17.9,17.33,22.8,18000,180
+DCH-Trường Sĩ Quan Đặc Công,2020,Quân đội/Công an,Hà Nội,22.14,21.47,22.76,600,6
+DCH-Trường Sĩ Quan Đặc Công,2021,Quân đội/Công an,Hà Nội,22.65,21.97,23.29,600,6
+DCH-Trường Sĩ Quan Đặc Công,2022,Quân đội/Công an,Hà Nội,21.43,20.75,22.13,600,6
+DCH-Trường Sĩ Quan Đặc Công,2023,Quân đội/Công an,Hà Nội,21.86,21.41,22.4,600,6
+DCH-Trường Sĩ Quan Đặc Công,2024,Quân đội/Công an,Hà Nội,21.86,21.27,22.53,600,6
+DCH-Trường Sĩ Quan Đặc Công,2025,Quân đội/Công an,Hà Nội,22.0,21.5,22.5,600,6
+DCL-Trường Đại Học Cửu Long,2020,Công lập,Hà Nội,16.12,15.0,20.83,26900,269
+DCL-Trường Đại Học Cửu Long,2021,Công lập,Hà Nội,16.61,15.45,21.31,26900,269
+DCL-Trường Đại Học Cửu Long,2022,Công lập,Hà Nội,15.81,15.0,20.14,26900,269
+DCL-Trường Đại Học Cửu Long,2023,Công lập,Hà Nội,15.89,15.0,20.4,26900,269
+DCL-Trường Đại Học Cửu Long,2024,Công lập,Hà Nội,15.97,15.0,20.64,26900,269
+DCL-Trường Đại Học Cửu Long,2025,Công lập,Hà Nội,15.97,15.0,20.5,26900,269
+DCN-Đại Học Công Nghiệp Hà Nội,2020,Công lập,Hà Nội,21.35,18.06,26.46,13800,138
+DCN-Đại Học Công Nghiệp Hà Nội,2021,Công lập,Hà Nội,21.83,18.57,26.7,13800,138
+DCN-Đại Học Công Nghiệp Hà Nội,2022,Công lập,Hà Nội,20.64,17.28,25.95,13800,138
+DCN-Đại Học Công Nghiệp Hà Nội,2023,Công lập,Hà Nội,20.95,17.72,26.12,13800,138
+DCN-Đại Học Công Nghiệp Hà Nội,2024,Công lập,Hà Nội,21.14,17.85,26.2,13800,138
+DCN-Đại Học Công Nghiệp Hà Nội,2025,Công lập,Hà Nội,21.19,18.0,26.27,13800,138
+DCQ-Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị,2020,Công lập,Hà Nội,16.45,15.95,18.26,3800,38
+DCQ-Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị,2021,Công lập,Hà Nội,16.98,16.47,18.82,3800,38
+DCQ-Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị,2022,Công lập,Hà Nội,15.74,15.29,17.47,3800,38
+DCQ-Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị,2023,Công lập,Hà Nội,16.04,15.55,17.9,3800,38
+DCQ-Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị,2024,Công lập,Hà Nội,16.26,15.75,18.11,3800,38
+DCQ-Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị,2025,Công lập,Hà Nội,16.32,16.0,18.0,3800,38
+DCT-Trường Đại Học Công Thương TPHCM,2020,Công lập,TP.HCM,21.4,16.04,24.8,15300,153
+DCT-Trường Đại Học Công Thương TPHCM,2021,Công lập,TP.HCM,21.93,16.53,25.25,15300,153
+DCT-Trường Đại Học Công Thương TPHCM,2022,Công lập,TP.HCM,20.71,15.28,24.09,15300,153
+DCT-Trường Đại Học Công Thương TPHCM,2023,Công lập,TP.HCM,21.01,15.64,24.42,15300,153
+DCT-Trường Đại Học Công Thương TPHCM,2024,Công lập,TP.HCM,21.21,15.85,24.53,15300,153
+DCT-Trường Đại Học Công Thương TPHCM,2025,Công lập,TP.HCM,21.26,16.0,24.5,15300,153
+DCV-Trường Đại học Công nghiệp Vinh,2020,Công lập,Nghệ An,21.43,15.0,28.65,2500,25
+DCV-Trường Đại học Công nghiệp Vinh,2021,Công lập,Nghệ An,21.89,15.49,28.98,2500,25
+DCV-Trường Đại học Công nghiệp Vinh,2022,Công lập,Nghệ An,21.09,15.0,28.22,2500,25
+DCV-Trường Đại học Công nghiệp Vinh,2023,Công lập,Nghệ An,21.21,15.0,28.42,2500,25
+DCV-Trường Đại học Công nghiệp Vinh,2024,Công lập,Nghệ An,21.29,15.0,28.57,2500,25
+DCV-Trường Đại học Công nghiệp Vinh,2025,Công lập,Nghệ An,21.3,15.0,28.5,2500,25
+DDF-Trường Đại Học Ngoại Ngữ Đà Nẵng,2020,Công lập,Đà Nẵng,20.81,17.28,27.43,8800,88
+DDF-Trường Đại Học Ngoại Ngữ Đà Nẵng,2021,Công lập,Đà Nẵng,21.3,17.86,27.74,8800,88
+DDF-Trường Đại Học Ngoại Ngữ Đà Nẵng,2022,Công lập,Đà Nẵng,20.17,16.55,26.94,8800,88
+DDF-Trường Đại Học Ngoại Ngữ Đà Nẵng,2023,Công lập,Đà Nẵng,20.43,16.82,27.16,8800,88
+DDF-Trường Đại Học Ngoại Ngữ Đà Nẵng,2024,Công lập,Đà Nẵng,20.61,17.01,27.29,8800,88
+DDF-Trường Đại Học Ngoại Ngữ Đà Nẵng,2025,Công lập,Đà Nẵng,20.67,17.25,27.25,8800,88
+DDK-Trường Đại Học Bách Khoa Đà Nẵng,2020,Công lập,Đà Nẵng,21.52,16.49,27.37,12700,127
+DDK-Trường Đại Học Bách Khoa Đà Nẵng,2021,Công lập,Đà Nẵng,22.02,16.98,27.65,12700,127
+DDK-Trường Đại Học Bách Khoa Đà Nẵng,2022,Công lập,Đà Nẵng,20.86,15.87,26.95,12700,127
+DDK-Trường Đại Học Bách Khoa Đà Nẵng,2023,Công lập,Đà Nẵng,21.15,16.23,27.14,12700,127
+DDK-Trường Đại Học Bách Khoa Đà Nẵng,2024,Công lập,Đà Nẵng,21.32,16.29,27.25,12700,127
+DDK-Trường Đại Học Bách Khoa Đà Nẵng,2025,Công lập,Đà Nẵng,21.38,16.5,27.2,12700,127
+DDL-Trường Đại Học Điện Lực,2020,Công lập,Hà Nội,20.68,16.46,23.59,13300,133
+DDL-Trường Đại Học Điện Lực,2021,Công lập,Hà Nội,21.18,16.96,24.06,13300,133
+DDL-Trường Đại Học Điện Lực,2022,Công lập,Hà Nội,19.99,15.75,22.87,13300,133
+DDL-Trường Đại Học Điện Lực,2023,Công lập,Hà Nội,20.28,16.06,23.19,13300,133
+DDL-Trường Đại Học Điện Lực,2024,Công lập,Hà Nội,20.49,16.27,23.45,13300,133
+DDL-Trường Đại Học Điện Lực,2025,Công lập,Hà Nội,20.53,16.5,23.33,13300,133
+DDM-Trường Đại Học Công Nghiệp Quảng Ninh,2020,Công lập,Quảng Ninh,15.57,15.0,18.35,5000,50
+DDM-Trường Đại Học Công Nghiệp Quảng Ninh,2021,Công lập,Quảng Ninh,16.07,15.45,18.75,5000,50
+DDM-Trường Đại Học Công Nghiệp Quảng Ninh,2022,Công lập,Quảng Ninh,15.24,15.0,17.54,5000,50
+DDM-Trường Đại Học Công Nghiệp Quảng Ninh,2023,Công lập,Quảng Ninh,15.35,15.0,17.91,5000,50
+DDM-Trường Đại Học Công Nghiệp Quảng Ninh,2024,Công lập,Quảng Ninh,15.42,15.0,18.07,5000,50
+DDM-Trường Đại Học Công Nghiệp Quảng Ninh,2025,Công lập,Quảng Ninh,15.42,15.0,18.0,5000,50
+DDN-Trường Đại Học Đại Nam,2020,Công lập,Hà Nội,15.42,15.0,20.77,24900,249
+DDN-Trường Đại Học Đại Nam,2021,Công lập,Hà Nội,15.91,15.45,21.32,24900,249
+DDN-Trường Đại Học Đại Nam,2022,Công lập,Hà Nội,15.23,15.0,20.07,24900,249
+DDN-Trường Đại Học Đại Nam,2023,Công lập,Hà Nội,15.25,15.0,20.43,24900,249
+DDN-Trường Đại Học Đại Nam,2024,Công lập,Hà Nội,15.29,15.0,20.62,24900,249
+DDN-Trường Đại Học Đại Nam,2025,Công lập,Hà Nội,15.26,15.0,20.5,24900,249
+DDP-Phân Hiệu Đại Học Đà Nẵng tại Kon Tum,2020,Công lập,Đà Nẵng,16.41,15.0,24.7,3900,39
+DDP-Phân Hiệu Đại Học Đà Nẵng tại Kon Tum,2021,Công lập,Đà Nẵng,16.92,15.46,25.35,3900,39
+DDP-Phân Hiệu Đại Học Đà Nẵng tại Kon Tum,2022,Công lập,Đà Nẵng,16.14,15.0,24.21,3900,39
+DDP-Phân Hiệu Đại Học Đà Nẵng tại Kon Tum,2023,Công lập,Đà Nẵng,16.21,15.0,24.17,3900,39
+DDP-Phân Hiệu Đại Học Đà Nẵng tại Kon Tum,2024,Công lập,Đà Nẵng,16.3,15.0,24.52,3900,39
+DDP-Phân Hiệu Đại Học Đà Nẵng tại Kon Tum,2025,Công lập,Đà Nẵng,16.27,15.0,24.6,3900,39
+DDQ-Trường Đại Học Kinh Tế – Đại Học Đà Nẵng,2020,Công lập,Đà Nẵng,20.9,19.97,24.17,7600,76
+DDQ-Trường Đại Học Kinh Tế – Đại Học Đà Nẵng,2021,Công lập,Đà Nẵng,21.37,20.45,24.79,7600,76
+DDQ-Trường Đại Học Kinh Tế – Đại Học Đà Nẵng,2022,Công lập,Đà Nẵng,20.19,19.28,23.42,7600,76
+DDQ-Trường Đại Học Kinh Tế – Đại Học Đà Nẵng,2023,Công lập,Đà Nẵng,20.49,19.56,23.88,7600,76
+DDQ-Trường Đại Học Kinh Tế – Đại Học Đà Nẵng,2024,Công lập,Đà Nẵng,20.69,19.75,24.03,7600,76
+DDQ-Trường Đại Học Kinh Tế – Đại Học Đà Nẵng,2025,Công lập,Đà Nẵng,20.75,20.0,24.0,7600,76
+DDS-Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,2020,Công lập,Đà Nẵng,24.88,16.73,29.02,10100,101
+DDS-Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,2021,Công lập,Đà Nẵng,25.3,17.22,29.3,10100,101
+DDS-Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,2022,Công lập,Đà Nẵng,24.34,15.98,28.57,10100,101
+DDS-Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,2023,Công lập,Đà Nẵng,24.58,16.33,28.78,10100,101
+DDS-Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,2024,Công lập,Đà Nẵng,24.74,16.73,28.88,10100,101
+DDS-Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,2025,Công lập,Đà Nẵng,24.78,16.71,28.84,10100,101
+DDT-Đại Học Duy Tân,2020,Công lập,Hà Nội,15.45,15.0,20.79,37200,372
+DDT-Đại Học Duy Tân,2021,Công lập,Hà Nội,15.95,15.45,21.24,37200,372
+DDT-Đại Học Duy Tân,2022,Công lập,Hà Nội,15.25,15.0,20.14,37200,372
+DDT-Đại Học Duy Tân,2023,Công lập,Hà Nội,15.28,15.0,20.43,37200,372
+DDT-Đại Học Duy Tân,2024,Công lập,Hà Nội,15.32,15.0,20.57,37200,372
+DDT-Đại Học Duy Tân,2025,Công lập,Hà Nội,15.3,15.0,20.5,37200,372
+DDU-Trường Đại Học Đông Đô,2020,Công lập,Hà Nội,15.86,15.0,19.21,6400,64
+DDU-Trường Đại Học Đông Đô,2021,Công lập,Hà Nội,16.01,15.0,19.8,6400,64
+DDU-Trường Đại Học Đông Đô,2022,Công lập,Hà Nội,15.64,15.0,18.57,6400,64
+DDU-Trường Đại Học Đông Đô,2023,Công lập,Hà Nội,15.72,15.0,18.82,6400,64
+DDU-Trường Đại Học Đông Đô,2024,Công lập,Hà Nội,15.78,15.0,19.13,6400,64
+DDU-Trường Đại Học Đông Đô,2025,Công lập,Hà Nội,15.11,14.0,19.0,6400,64
+DDV-Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng,2020,Công lập,Đà Nẵng,15.6,15.21,16.29,3800,38
+DDV-Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng,2021,Công lập,Đà Nẵng,16.15,15.72,16.81,3800,38
+DDV-Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng,2022,Công lập,Đà Nẵng,15.06,15.0,15.54,3800,38
+DDV-Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng,2023,Công lập,Đà Nẵng,15.23,15.0,15.93,3800,38
+DDV-Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng,2024,Công lập,Đà Nẵng,15.44,15.04,16.1,3800,38
+DDV-Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng,2025,Công lập,Đà Nẵng,15.47,15.15,16.0,3800,38
+DDY-Trường Y Dược Đà Nẵng,2020,Công lập,Đà Nẵng,19.34,16.46,23.44,2200,22
+DDY-Trường Y Dược Đà Nẵng,2021,Công lập,Đà Nẵng,19.87,17.12,23.99,2200,22
+DDY-Trường Y Dược Đà Nẵng,2022,Công lập,Đà Nẵng,18.66,15.81,22.85,2200,22
+DDY-Trường Y Dược Đà Nẵng,2023,Công lập,Đà Nẵng,18.96,16.28,23.02,2200,22
+DDY-Trường Y Dược Đà Nẵng,2024,Công lập,Đà Nẵng,19.17,16.33,23.27,2200,22
+DDY-Trường Y Dược Đà Nẵng,2025,Công lập,Đà Nẵng,19.2,16.5,23.23,2200,22
+DFA-Trường Đại học Tài chính Quản trị kinh doanh,2020,Công lập,Hà Nội,15.73,15.0,19.29,2800,28
+DFA-Trường Đại học Tài chính Quản trị kinh doanh,2021,Công lập,Hà Nội,16.24,15.45,19.84,2800,28
+DFA-Trường Đại học Tài chính Quản trị kinh doanh,2022,Công lập,Hà Nội,15.49,15.0,18.59,2800,28
+DFA-Trường Đại học Tài chính Quản trị kinh doanh,2023,Công lập,Hà Nội,15.54,15.0,18.94,2800,28
+DFA-Trường Đại học Tài chính Quản trị kinh doanh,2024,Công lập,Hà Nội,15.58,15.0,19.06,2800,28
+DFA-Trường Đại học Tài chính Quản trị kinh doanh,2025,Công lập,Hà Nội,15.57,15.0,19.0,2800,28
+DHA-Trường Đại học Luật Huế,2020,Công lập,Huế,22.1,21.97,22.31,600,6
+DHA-Trường Đại học Luật Huế,2021,Công lập,Huế,22.71,22.46,22.84,600,6
+DHA-Trường Đại học Luật Huế,2022,Công lập,Huế,21.4,21.25,21.6,600,6
+DHA-Trường Đại học Luật Huế,2023,Công lập,Huế,21.69,21.58,21.89,600,6
+DHA-Trường Đại học Luật Huế,2024,Công lập,Huế,22.05,21.92,22.11,600,6
+DHA-Trường Đại học Luật Huế,2025,Công lập,Huế,22.0,22.0,22.0,600,6
+DHC-Khoa Giáo Dục Thể Chất Huế,2020,Công lập,Huế,21.37,21.37,21.37,100,1
+DHC-Khoa Giáo Dục Thể Chất Huế,2021,Công lập,Huế,21.92,21.92,21.92,100,1
+DHC-Khoa Giáo Dục Thể Chất Huế,2022,Công lập,Huế,20.81,20.81,20.81,100,1
+DHC-Khoa Giáo Dục Thể Chất Huế,2023,Công lập,Huế,21.31,21.31,21.31,100,1
+DHC-Khoa Giáo Dục Thể Chất Huế,2024,Công lập,Huế,21.39,21.39,21.39,100,1
+DHC-Khoa Giáo Dục Thể Chất Huế,2025,Công lập,Huế,21.41,21.41,21.41,100,1
+DHD-Trường Du Lịch - Đại Học Huế,2020,Công lập,Huế,18.88,15.01,21.84,4100,41
+DHD-Trường Du Lịch - Đại Học Huế,2021,Công lập,Huế,19.37,15.55,22.34,4100,41
+DHD-Trường Du Lịch - Đại Học Huế,2022,Công lập,Huế,18.24,15.0,20.98,4100,41
+DHD-Trường Du Lịch - Đại Học Huế,2023,Công lập,Huế,18.51,15.0,21.4,4100,41
+DHD-Trường Du Lịch - Đại Học Huế,2024,Công lập,Huế,18.71,15.0,21.6,4100,41
+DHD-Trường Du Lịch - Đại Học Huế,2025,Công lập,Huế,18.73,15.0,21.5,4100,41
+DHE-Khoa Kỹ thuật và Công nghệ - Đại học Huế,2020,Công lập,Huế,19.12,16.0,24.4,3500,35
+DHE-Khoa Kỹ thuật và Công nghệ - Đại học Huế,2021,Công lập,Huế,19.6,16.51,24.81,3500,35
+DHE-Khoa Kỹ thuật và Công nghệ - Đại học Huế,2022,Công lập,Huế,18.42,15.28,23.66,3500,35
+DHE-Khoa Kỹ thuật và Công nghệ - Đại học Huế,2023,Công lập,Huế,18.74,15.63,23.99,3500,35
+DHE-Khoa Kỹ thuật và Công nghệ - Đại học Huế,2024,Công lập,Huế,18.92,15.81,24.09,3500,35
+DHE-Khoa Kỹ thuật và Công nghệ - Đại học Huế,2025,Công lập,Huế,18.98,16.0,24.05,3500,35
+DHF-Trường Đại Học Ngoại Ngữ Huế,2020,Công lập,Huế,20.25,15.0,30.0,5000,50
+DHF-Trường Đại Học Ngoại Ngữ Huế,2021,Công lập,Huế,20.62,15.45,30.0,5000,50
+DHF-Trường Đại Học Ngoại Ngữ Huế,2022,Công lập,Huế,19.91,15.0,29.76,5000,50
+DHF-Trường Đại Học Ngoại Ngữ Huế,2023,Công lập,Huế,20.02,15.0,29.94,5000,50
+DHF-Trường Đại Học Ngoại Ngữ Huế,2024,Công lập,Huế,20.11,15.0,30.0,5000,50
+DHF-Trường Đại Học Ngoại Ngữ Huế,2025,Công lập,Huế,20.12,15.0,30.0,5000,50
+DHI-Khoa Quốc tế - Đại học Huế,2020,Tư thục,Huế,17.28,15.0,21.79,2500,25
+DHI-Khoa Quốc tế - Đại học Huế,2021,Tư thục,Huế,17.76,15.48,22.35,2500,25
+DHI-Khoa Quốc tế - Đại học Huế,2022,Tư thục,Huế,16.87,15.0,21.12,2500,25
+DHI-Khoa Quốc tế - Đại học Huế,2023,Tư thục,Huế,17.0,15.0,21.39,2500,25
+DHI-Khoa Quốc tế - Đại học Huế,2024,Tư thục,Huế,17.08,15.0,21.58,2500,25
+DHI-Khoa Quốc tế - Đại học Huế,2025,Tư thục,Huế,17.1,15.0,21.5,2500,25
+DHK-Trường Đại Học Kinh Tế - Đại Học Huế,2020,Công lập,Huế,16.1,15.0,20.3,16800,168
+DHK-Trường Đại Học Kinh Tế - Đại Học Huế,2021,Công lập,Huế,16.6,15.46,20.76,16800,168
+DHK-Trường Đại Học Kinh Tế - Đại Học Huế,2022,Công lập,Huế,15.6,15.0,19.65,16800,168
+DHK-Trường Đại Học Kinh Tế - Đại Học Huế,2023,Công lập,Huế,15.8,15.0,19.93,16800,168
+DHK-Trường Đại Học Kinh Tế - Đại Học Huế,2024,Công lập,Huế,15.94,15.0,20.13,16800,168
+DHK-Trường Đại Học Kinh Tế - Đại Học Huế,2025,Công lập,Huế,15.95,15.0,20.0,16800,168
+DHL-Trường Đại Học Nông Lâm Huế,2020,Công lập,Huế,15.64,15.0,19.66,13700,137
+DHL-Trường Đại Học Nông Lâm Huế,2021,Công lập,Huế,16.16,15.45,20.29,13700,137
+DHL-Trường Đại Học Nông Lâm Huế,2022,Công lập,Huế,15.37,15.0,19.09,13700,137
+DHL-Trường Đại Học Nông Lâm Huế,2023,Công lập,Huế,15.44,15.0,19.39,13700,137
+DHL-Trường Đại Học Nông Lâm Huế,2024,Công lập,Huế,15.51,15.0,19.61,13700,137
+DHL-Trường Đại Học Nông Lâm Huế,2025,Công lập,Huế,15.49,15.0,19.5,13700,137
+DHN-Trường Đại Học Nghệ Thuật Huế,2020,Công lập,Huế,18.58,18.08,20.68,600,6
+DHN-Trường Đại Học Nghệ Thuật Huế,2021,Công lập,Huế,19.06,18.58,21.02,600,6
+DHN-Trường Đại Học Nghệ Thuật Huế,2022,Công lập,Huế,17.85,17.33,19.77,600,6
+DHN-Trường Đại Học Nghệ Thuật Huế,2023,Công lập,Huế,18.24,17.71,20.38,600,6
+DHN-Trường Đại Học Nghệ Thuật Huế,2024,Công lập,Huế,18.33,17.82,20.49,600,6
+DHN-Trường Đại Học Nghệ Thuật Huế,2025,Công lập,Huế,18.42,18.0,20.5,600,6
+DHQ-Phân Hiệu Đại Học Huế tại Quảng Trị,2020,Công lập,Huế,15.12,15.0,15.33,1200,12
+DHQ-Phân Hiệu Đại Học Huế tại Quảng Trị,2021,Công lập,Huế,15.63,15.46,15.81,1200,12
+DHQ-Phân Hiệu Đại Học Huế tại Quảng Trị,2022,Công lập,Huế,15.0,15.0,15.0,1200,12
+DHQ-Phân Hiệu Đại Học Huế tại Quảng Trị,2023,Công lập,Huế,15.0,15.0,15.0,1200,12
+DHQ-Phân Hiệu Đại Học Huế tại Quảng Trị,2024,Công lập,Huế,15.05,15.0,15.14,1200,12
+DHQ-Phân Hiệu Đại Học Huế tại Quảng Trị,2025,Công lập,Huế,15.0,15.0,15.0,1200,12
+DHS-Trường Đại Học Sư Phạm Huế,2020,Công lập,Huế,25.68,17.49,28.96,8400,84
+DHS-Trường Đại Học Sư Phạm Huế,2021,Công lập,Huế,26.08,18.23,29.39,8400,84
+DHS-Trường Đại Học Sư Phạm Huế,2022,Công lập,Huế,25.18,16.77,28.67,8400,84
+DHS-Trường Đại Học Sư Phạm Huế,2023,Công lập,Huế,25.4,17.23,28.79,8400,84
+DHS-Trường Đại Học Sư Phạm Huế,2024,Công lập,Huế,25.55,17.33,28.94,8400,84
+DHS-Trường Đại Học Sư Phạm Huế,2025,Công lập,Huế,25.59,17.5,28.9,8400,84
+DHT-Trường Đại Học Khoa Học Huế,2020,Công lập,Huế,17.16,15.0,22.34,9400,94
+DHT-Trường Đại Học Khoa Học Huế,2021,Công lập,Huế,17.65,15.5,22.81,9400,94
+DHT-Trường Đại Học Khoa Học Huế,2022,Công lập,Huế,16.5,15.0,21.64,9400,94
+DHT-Trường Đại Học Khoa Học Huế,2023,Công lập,Huế,16.77,15.0,21.86,9400,94
+DHT-Trường Đại Học Khoa Học Huế,2024,Công lập,Huế,16.98,15.0,22.14,9400,94
+DHT-Trường Đại Học Khoa Học Huế,2025,Công lập,Huế,17.01,15.0,22.0,9400,94
+DHV-Trường Đại học Hùng Vương TPHCM,2020,Công lập,TP.HCM,15.68,15.0,20.33,10300,103
+DHV-Trường Đại học Hùng Vương TPHCM,2021,Công lập,TP.HCM,16.18,15.45,20.75,10300,103
+DHV-Trường Đại học Hùng Vương TPHCM,2022,Công lập,TP.HCM,15.45,15.0,19.61,10300,103
+DHV-Trường Đại học Hùng Vương TPHCM,2023,Công lập,TP.HCM,15.5,15.0,19.8,10300,103
+DHV-Trường Đại học Hùng Vương TPHCM,2024,Công lập,TP.HCM,15.56,15.0,20.07,10300,103
+DHV-Trường Đại học Hùng Vương TPHCM,2025,Công lập,TP.HCM,15.53,15.0,20.0,10300,103
+DHY-Trường Đại Học Y Dược Huế,2020,Công lập,Huế,19.38,16.95,25.51,3400,34
+DHY-Trường Đại Học Y Dược Huế,2021,Công lập,Huế,19.86,17.47,25.99,3400,34
+DHY-Trường Đại Học Y Dược Huế,2022,Công lập,Huế,18.73,16.34,24.63,3400,34
+DHY-Trường Đại Học Y Dược Huế,2023,Công lập,Huế,18.99,16.59,24.8,3400,34
+DHY-Trường Đại Học Y Dược Huế,2024,Công lập,Huế,19.18,16.79,25.17,3400,34
+DHY-Trường Đại Học Y Dược Huế,2025,Công lập,Huế,19.24,17.0,25.17,3400,34
+DKB-Trường Đại Học Kinh Tế Kỹ Thuật Bình Dương,2020,Công lập,Bình Dương,15.23,15.0,19.3,12600,126
+DKB-Trường Đại Học Kinh Tế Kỹ Thuật Bình Dương,2021,Công lập,Bình Dương,15.26,15.0,19.82,12600,126
+DKB-Trường Đại Học Kinh Tế Kỹ Thuật Bình Dương,2022,Công lập,Bình Dương,15.2,15.0,18.62,12600,126
+DKB-Trường Đại Học Kinh Tế Kỹ Thuật Bình Dương,2023,Công lập,Bình Dương,15.21,15.0,18.94,12600,126
+DKB-Trường Đại Học Kinh Tế Kỹ Thuật Bình Dương,2024,Công lập,Bình Dương,15.22,15.0,19.14,12600,126
+DKB-Trường Đại Học Kinh Tế Kỹ Thuật Bình Dương,2025,Công lập,Bình Dương,14.28,14.0,19.0,12600,126
+DKC-Trường Đại học Công Nghệ TPHCM,2020,Công lập,TP.HCM,15.28,15.0,19.27,29900,299
+DKC-Trường Đại học Công Nghệ TPHCM,2021,Công lập,TP.HCM,15.78,15.45,19.8,29900,299
+DKC-Trường Đại học Công Nghệ TPHCM,2022,Công lập,TP.HCM,15.11,15.0,18.62,29900,299
+DKC-Trường Đại học Công Nghệ TPHCM,2023,Công lập,TP.HCM,15.12,15.0,18.81,29900,299
+DKC-Trường Đại học Công Nghệ TPHCM,2024,Công lập,TP.HCM,15.16,15.0,19.02,29900,299
+DKC-Trường Đại học Công Nghệ TPHCM,2025,Công lập,TP.HCM,15.13,15.0,19.0,29900,299
+DKH-Trường Đại Học Dược Hà Nội,2020,Công lập,Hà Nội,22.82,20.07,24.77,500,5
+DKH-Trường Đại Học Dược Hà Nội,2021,Công lập,Hà Nội,23.28,20.65,25.3,500,5
+DKH-Trường Đại Học Dược Hà Nội,2022,Công lập,Hà Nội,22.17,19.37,24.15,500,5
+DKH-Trường Đại Học Dược Hà Nội,2023,Công lập,Hà Nội,22.5,19.67,24.41,500,5
+DKH-Trường Đại Học Dược Hà Nội,2024,Công lập,Hà Nội,22.52,19.8,24.51,500,5
+DKH-Trường Đại Học Dược Hà Nội,2025,Công lập,Hà Nội,22.68,20.0,24.5,500,5
+DKK-Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp,2020,Công lập,Hà Nội,22.47,19.0,25.34,48400,484
+DKK-Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp,2021,Công lập,Hà Nội,22.97,19.48,25.82,48400,484
+DKK-Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp,2022,Công lập,Hà Nội,21.77,18.28,24.63,48400,484
+DKK-Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp,2023,Công lập,Hà Nội,22.06,18.55,24.93,48400,484
+DKK-Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp,2024,Công lập,Hà Nội,22.27,18.82,25.14,48400,484
+DKK-Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp,2025,Công lập,Hà Nội,22.32,19.0,25.0,48400,484
+DKS-Trường Đại học Kiểm Sát,2020,Công lập,Hà Nội,24.04,20.3,27.39,6600,66
+DKS-Trường Đại học Kiểm Sát,2021,Công lập,Hà Nội,24.55,20.95,27.64,6600,66
+DKS-Trường Đại học Kiểm Sát,2022,Công lập,Hà Nội,23.35,19.62,26.81,6600,66
+DKS-Trường Đại học Kiểm Sát,2023,Công lập,Hà Nội,23.66,19.9,27.04,6600,66
+DKS-Trường Đại học Kiểm Sát,2024,Công lập,Hà Nội,23.85,19.96,27.23,6600,66
+DKS-Trường Đại học Kiểm Sát,2025,Công lập,Hà Nội,23.89,20.17,27.2,6600,66
+DKT-Trường Đại Học Hải Dương,2020,Công lập,Hải Dương,19.77,15.0,27.0,23000,230
+DKT-Trường Đại Học Hải Dương,2021,Công lập,Hải Dương,20.26,15.45,27.31,23000,230
+DKT-Trường Đại Học Hải Dương,2022,Công lập,Hải Dương,19.35,15.0,26.58,23000,230
+DKT-Trường Đại Học Hải Dương,2023,Công lập,Hải Dương,19.49,15.0,26.77,23000,230
+DKT-Trường Đại Học Hải Dương,2024,Công lập,Hải Dương,19.62,15.0,26.9,23000,230
+DKT-Trường Đại Học Hải Dương,2025,Công lập,Hải Dương,19.63,15.0,26.83,23000,230
+DKY-Trường Đại Học Kỹ Thuật Y Tế Hải Dương,2020,Công lập,Hải Dương,22.7,20.95,23.95,2000,20
+DKY-Trường Đại Học Kỹ Thuật Y Tế Hải Dương,2021,Công lập,Hải Dương,23.23,21.49,24.52,2000,20
+DKY-Trường Đại Học Kỹ Thuật Y Tế Hải Dương,2022,Công lập,Hải Dương,22.01,20.31,23.37,2000,20
+DKY-Trường Đại Học Kỹ Thuật Y Tế Hải Dương,2023,Công lập,Hải Dương,22.3,20.59,23.65,2000,20
+DKY-Trường Đại Học Kỹ Thuật Y Tế Hải Dương,2024,Công lập,Hải Dương,22.52,20.91,23.8,2000,20
+DKY-Trường Đại Học Kỹ Thuật Y Tế Hải Dương,2025,Công lập,Hải Dương,22.58,21.0,23.8,2000,20
+DLA-Trường Đại Học Kinh Tế Công Nghiệp Long An,2020,Công lập,Hà Nội,15.5,15.0,18.84,2700,27
+DLA-Trường Đại Học Kinh Tế Công Nghiệp Long An,2021,Công lập,Hà Nội,16.03,15.46,19.14,2700,27
+DLA-Trường Đại Học Kinh Tế Công Nghiệp Long An,2022,Công lập,Hà Nội,15.34,15.0,18.16,2700,27
+DLA-Trường Đại Học Kinh Tế Công Nghiệp Long An,2023,Công lập,Hà Nội,15.37,15.0,18.49,2700,27
+DLA-Trường Đại Học Kinh Tế Công Nghiệp Long An,2024,Công lập,Hà Nội,15.43,15.0,18.63,2700,27
+DLA-Trường Đại Học Kinh Tế Công Nghiệp Long An,2025,Công lập,Hà Nội,15.4,15.0,18.56,2700,27
+DLH-Trường Đại Học Lạc Hồng,2020,Công lập,Hà Nội,15.76,15.0,19.83,9400,94
+DLH-Trường Đại Học Lạc Hồng,2021,Công lập,Hà Nội,16.25,15.52,20.12,9400,94
+DLH-Trường Đại Học Lạc Hồng,2022,Công lập,Hà Nội,15.42,15.0,19.12,9400,94
+DLH-Trường Đại Học Lạc Hồng,2023,Công lập,Hà Nội,15.5,15.0,19.44,9400,94
+DLH-Trường Đại Học Lạc Hồng,2024,Công lập,Hà Nội,15.59,15.0,19.45,9400,94
+DLH-Trường Đại Học Lạc Hồng,2025,Công lập,Hà Nội,15.6,15.0,19.5,9400,94
+DLS-Trường Đại Học Lao Động – Xã Hội (Cơ sở II),2020,Công lập,Hà Nội,17.5,15.0,24.93,3600,36
+DLS-Trường Đại Học Lao Động – Xã Hội (Cơ sở II),2021,Công lập,Hà Nội,17.71,15.0,25.39,3600,36
+DLS-Trường Đại Học Lao Động – Xã Hội (Cơ sở II),2022,Công lập,Hà Nội,17.12,15.0,24.29,3600,36
+DLS-Trường Đại Học Lao Động – Xã Hội (Cơ sở II),2023,Công lập,Hà Nội,17.31,15.0,24.49,3600,36
+DLS-Trường Đại Học Lao Động – Xã Hội (Cơ sở II),2024,Công lập,Hà Nội,17.39,15.0,24.55,3600,36
+DLS-Trường Đại Học Lao Động – Xã Hội (Cơ sở II),2025,Công lập,Hà Nội,16.92,14.0,24.75,3600,36
+DLX-Trường Đại Học Lao Động – Xã Hội,2020,Công lập,Hà Nội,17.4,15.0,24.36,4800,48
+DLX-Trường Đại Học Lao Động – Xã Hội,2021,Công lập,Hà Nội,17.65,15.0,24.77,4800,48
+DLX-Trường Đại Học Lao Động – Xã Hội,2022,Công lập,Hà Nội,17.09,15.0,23.82,4800,48
+DLX-Trường Đại Học Lao Động – Xã Hội,2023,Công lập,Hà Nội,17.23,15.0,24.11,4800,48
+DLX-Trường Đại Học Lao Động – Xã Hội,2024,Công lập,Hà Nội,17.3,15.0,24.1,4800,48
+DLX-Trường Đại Học Lao Động – Xã Hội,2025,Công lập,Hà Nội,16.83,14.0,24.3,4800,48
+DMS-Trường Đại Học Tài Chính Marketing,2020,Công lập,Hà Nội,24.15,22.06,29.34,28000,280
+DMS-Trường Đại Học Tài Chính Marketing,2021,Công lập,Hà Nội,24.65,22.57,29.68,28000,280
+DMS-Trường Đại Học Tài Chính Marketing,2022,Công lập,Hà Nội,23.46,21.35,28.94,28000,280
+DMS-Trường Đại Học Tài Chính Marketing,2023,Công lập,Hà Nội,23.77,21.67,29.15,28000,280
+DMS-Trường Đại Học Tài Chính Marketing,2024,Công lập,Hà Nội,23.96,21.87,29.27,28000,280
+DMS-Trường Đại Học Tài Chính Marketing,2025,Công lập,Hà Nội,24.01,22.1,29.21,28000,280
+DMT-Trường Đại học Tài Nguyên và Môi Trường Hà Nội,2020,Công lập,Hà Nội,20.27,15.0,26.84,20200,202
+DMT-Trường Đại học Tài Nguyên và Môi Trường Hà Nội,2021,Công lập,Hà Nội,20.73,15.45,27.14,20200,202
+DMT-Trường Đại học Tài Nguyên và Môi Trường Hà Nội,2022,Công lập,Hà Nội,19.86,15.0,26.42,20200,202
+DMT-Trường Đại học Tài Nguyên và Môi Trường Hà Nội,2023,Công lập,Hà Nội,20.0,15.0,26.59,20200,202
+DMT-Trường Đại học Tài Nguyên và Môi Trường Hà Nội,2024,Công lập,Hà Nội,20.11,15.0,26.71,20200,202
+DMT-Trường Đại học Tài Nguyên và Môi Trường Hà Nội,2025,Công lập,Hà Nội,20.12,15.0,26.65,20200,202
+DNB-Trường Đại Học Hoa Lư,2020,Công lập,Hà Nội,19.89,15.97,27.24,2800,28
+DNB-Trường Đại Học Hoa Lư,2021,Công lập,Hà Nội,20.39,16.47,27.54,2800,28
+DNB-Trường Đại Học Hoa Lư,2022,Công lập,Hà Nội,19.23,15.27,26.82,2800,28
+DNB-Trường Đại Học Hoa Lư,2023,Công lập,Hà Nội,19.55,15.59,26.91,2800,28
+DNB-Trường Đại Học Hoa Lư,2024,Công lập,Hà Nội,19.69,15.81,27.09,2800,28
+DNB-Trường Đại Học Hoa Lư,2025,Công lập,Hà Nội,19.77,16.0,27.07,2800,28
+DNC-Trường Đại học Nam Cần Thơ,2020,Công lập,Cần Thơ,15.71,15.0,20.83,25100,251
+DNC-Trường Đại học Nam Cần Thơ,2021,Công lập,Cần Thơ,16.21,15.46,21.34,25100,251
+DNC-Trường Đại học Nam Cần Thơ,2022,Công lập,Cần Thơ,15.46,15.0,20.12,25100,251
+DNC-Trường Đại học Nam Cần Thơ,2023,Công lập,Cần Thơ,15.51,15.0,20.43,25100,251
+DNC-Trường Đại học Nam Cần Thơ,2024,Công lập,Cần Thơ,15.57,15.0,20.64,25100,251
+DNC-Trường Đại học Nam Cần Thơ,2025,Công lập,Cần Thơ,15.55,15.0,20.5,25100,251
+DNT-Trường Đại Học Ngoại Ngữ Tin Học TPHCM,2020,Công lập,TP.HCM,15.5,15.0,17.34,14900,149
+DNT-Trường Đại Học Ngoại Ngữ Tin Học TPHCM,2021,Công lập,TP.HCM,16.01,15.45,17.82,14900,149
+DNT-Trường Đại Học Ngoại Ngữ Tin Học TPHCM,2022,Công lập,TP.HCM,15.25,15.0,16.6,14900,149
+DNT-Trường Đại Học Ngoại Ngữ Tin Học TPHCM,2023,Công lập,TP.HCM,15.3,15.0,16.93,14900,149
+DNT-Trường Đại Học Ngoại Ngữ Tin Học TPHCM,2024,Công lập,TP.HCM,15.36,15.0,17.15,14900,149
+DNT-Trường Đại Học Ngoại Ngữ Tin Học TPHCM,2025,Công lập,TP.HCM,15.35,15.0,17.0,14900,149
+DNU-Trường Đại Học Đồng Nai,2020,Công lập,Hà Nội,21.72,16.07,26.62,3600,36
+DNU-Trường Đại Học Đồng Nai,2021,Công lập,Hà Nội,22.2,16.46,26.98,3600,36
+DNU-Trường Đại Học Đồng Nai,2022,Công lập,Hà Nội,21.05,15.31,26.2,3600,36
+DNU-Trường Đại Học Đồng Nai,2023,Công lập,Hà Nội,21.35,15.64,26.43,3600,36
+DNU-Trường Đại Học Đồng Nai,2024,Công lập,Hà Nội,21.56,15.82,26.47,3600,36
+DNU-Trường Đại Học Đồng Nai,2025,Công lập,Hà Nội,21.58,16.0,26.51,3600,36
+DPC-Trường Đại Học Phan Châu Trinh,2020,Công lập,Hà Nội,18.44,15.0,22.07,2900,29
+DPC-Trường Đại Học Phan Châu Trinh,2021,Công lập,Hà Nội,18.96,15.5,22.55,2900,29
+DPC-Trường Đại Học Phan Châu Trinh,2022,Công lập,Hà Nội,17.87,15.0,21.4,2900,29
+DPC-Trường Đại Học Phan Châu Trinh,2023,Công lập,Hà Nội,18.1,15.0,21.61,2900,29
+DPC-Trường Đại Học Phan Châu Trinh,2024,Công lập,Hà Nội,18.31,15.0,21.86,2900,29
+DPC-Trường Đại Học Phan Châu Trinh,2025,Công lập,Hà Nội,18.32,15.0,21.75,2900,29
+DPD-Trường Đại Học Phương Đông,2020,Công lập,Hà Nội,15.84,15.0,18.34,7100,71
+DPD-Trường Đại Học Phương Đông,2021,Công lập,Hà Nội,16.37,15.49,18.85,7100,71
+DPD-Trường Đại Học Phương Đông,2022,Công lập,Hà Nội,15.49,15.0,17.63,7100,71
+DPD-Trường Đại Học Phương Đông,2023,Công lập,Hà Nội,15.59,15.0,17.84,7100,71
+DPD-Trường Đại Học Phương Đông,2024,Công lập,Hà Nội,15.7,15.0,18.08,7100,71
+DPD-Trường Đại Học Phương Đông,2025,Công lập,Hà Nội,15.7,15.0,18.0,7100,71
+DPQ-Trường Đại Học Phạm Văn Đồng,2020,Công lập,Hà Nội,22.26,15.0,27.38,3700,37
+DPQ-Trường Đại Học Phạm Văn Đồng,2021,Công lập,Hà Nội,22.63,15.45,27.68,3700,37
+DPQ-Trường Đại Học Phạm Văn Đồng,2022,Công lập,Hà Nội,21.95,15.0,26.99,3700,37
+DPQ-Trường Đại Học Phạm Văn Đồng,2023,Công lập,Hà Nội,22.05,15.0,27.17,3700,37
+DPQ-Trường Đại Học Phạm Văn Đồng,2024,Công lập,Hà Nội,22.13,15.0,27.32,3700,37
+DPQ-Trường Đại Học Phạm Văn Đồng,2025,Công lập,Hà Nội,22.16,15.0,27.25,3700,37
+DPT-Trường Đại Học Phan Thiết,2020,Công lập,Hà Nội,15.51,15.0,18.24,8300,83
+DPT-Trường Đại Học Phan Thiết,2021,Công lập,Hà Nội,16.0,15.45,18.72,8300,83
+DPT-Trường Đại Học Phan Thiết,2022,Công lập,Hà Nội,15.29,15.0,17.61,8300,83
+DPT-Trường Đại Học Phan Thiết,2023,Công lập,Hà Nội,15.33,15.0,17.88,8300,83
+DPT-Trường Đại Học Phan Thiết,2024,Công lập,Hà Nội,15.38,15.0,18.08,8300,83
+DPT-Trường Đại Học Phan Thiết,2025,Công lập,Hà Nội,15.36,15.0,18.0,8300,83
+DPX-Trường Đại Học Phú Xuân,2020,Công lập,Hà Nội,15.18,15.0,15.35,4400,44
+DPX-Trường Đại Học Phú Xuân,2021,Công lập,Hà Nội,15.68,15.45,15.85,4400,44
+DPX-Trường Đại Học Phú Xuân,2022,Công lập,Hà Nội,15.0,15.0,15.0,4400,44
+DPX-Trường Đại Học Phú Xuân,2023,Công lập,Hà Nội,15.0,15.0,15.0,4400,44
+DPX-Trường Đại Học Phú Xuân,2024,Công lập,Hà Nội,15.04,15.0,15.15,4400,44
+DPX-Trường Đại Học Phú Xuân,2025,Công lập,Hà Nội,15.0,15.0,15.0,4400,44
+DPY-Trường Đại Học Phú Yên,2020,Công lập,Hà Nội,19.86,15.0,26.37,5400,54
+DPY-Trường Đại Học Phú Yên,2021,Công lập,Hà Nội,20.33,15.46,26.72,5400,54
+DPY-Trường Đại Học Phú Yên,2022,Công lập,Hà Nội,19.46,15.0,26.02,5400,54
+DPY-Trường Đại Học Phú Yên,2023,Công lập,Hà Nội,19.62,15.0,26.19,5400,54
+DPY-Trường Đại Học Phú Yên,2024,Công lập,Hà Nội,19.73,15.0,26.25,5400,54
+DPY-Trường Đại Học Phú Yên,2025,Công lập,Hà Nội,19.73,15.0,26.25,5400,54
+DQB-Trường Đại Học Quảng Bình,2020,Công lập,Hà Nội,19.59,15.0,27.44,8700,87
+DQB-Trường Đại Học Quảng Bình,2021,Công lập,Hà Nội,20.07,15.48,27.77,8700,87
+DQB-Trường Đại Học Quảng Bình,2022,Công lập,Hà Nội,18.98,15.0,27.15,8700,87
+DQB-Trường Đại Học Quảng Bình,2023,Công lập,Hà Nội,19.22,15.0,27.18,8700,87
+DQB-Trường Đại Học Quảng Bình,2024,Công lập,Hà Nội,19.4,15.0,27.41,8700,87
+DQB-Trường Đại Học Quảng Bình,2025,Công lập,Hà Nội,19.45,15.0,27.42,8700,87
+DQK-Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội,2020,Công lập,Hà Nội,17.98,16.96,21.73,10500,105
+DQK-Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội,2021,Công lập,Hà Nội,18.48,17.45,22.32,10500,105
+DQK-Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội,2022,Công lập,Hà Nội,17.3,16.26,21.14,10500,105
+DQK-Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội,2023,Công lập,Hà Nội,17.58,16.56,21.35,10500,105
+DQK-Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội,2024,Công lập,Hà Nội,17.77,16.76,21.6,10500,105
+DQK-Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội,2025,Công lập,Hà Nội,17.83,17.0,21.5,10500,105
+DQN-Trường Đại Học Quy Nhơn,2020,Công lập,Bình Định,21.98,15.0,27.29,22700,227
+DQN-Trường Đại Học Quy Nhơn,2021,Công lập,Bình Định,22.48,15.53,27.66,22700,227
+DQN-Trường Đại Học Quy Nhơn,2022,Công lập,Bình Định,21.31,15.0,26.97,22700,227
+DQN-Trường Đại Học Quy Nhơn,2023,Công lập,Bình Định,21.6,15.0,27.1,22700,227
+DQN-Trường Đại Học Quy Nhơn,2024,Công lập,Bình Định,21.79,15.0,27.26,22700,227
+DQN-Trường Đại Học Quy Nhơn,2025,Công lập,Bình Định,21.84,15.0,27.21,22700,227
+DQT-Trường Đại Học Quang Trung,2020,Công lập,Hà Nội,15.3,15.0,17.34,10800,108
+DQT-Trường Đại Học Quang Trung,2021,Công lập,Hà Nội,15.37,15.0,17.85,10800,108
+DQT-Trường Đại Học Quang Trung,2022,Công lập,Hà Nội,15.2,15.0,16.64,10800,108
+DQT-Trường Đại Học Quang Trung,2023,Công lập,Hà Nội,15.25,15.0,16.93,10800,108
+DQT-Trường Đại Học Quang Trung,2024,Công lập,Hà Nội,15.27,15.0,17.11,10800,108
+DQT-Trường Đại Học Quang Trung,2025,Công lập,Hà Nội,13.83,13.0,17.0,10800,108
+DQU-Trường Đại Học Quảng Nam,2020,Công lập,Quảng Nam,21.33,15.0,26.35,4500,45
+DQU-Trường Đại Học Quảng Nam,2021,Công lập,Quảng Nam,21.65,15.0,26.71,4500,45
+DQU-Trường Đại Học Quảng Nam,2022,Công lập,Quảng Nam,20.88,15.0,25.96,4500,45
+DQU-Trường Đại Học Quảng Nam,2023,Công lập,Quảng Nam,21.09,15.0,26.19,4500,45
+DQU-Trường Đại Học Quảng Nam,2024,Công lập,Quảng Nam,21.19,15.0,26.15,4500,45
+DQU-Trường Đại Học Quảng Nam,2025,Công lập,Quảng Nam,20.9,14.0,26.27,4500,45
+DSD-Trường Đại Học Sân Khấu Điện Ảnh TPHCM,2020,Công lập,TP.HCM,27.42,25.76,28.17,400,4
+DSD-Trường Đại Học Sân Khấu Điện Ảnh TPHCM,2021,Công lập,TP.HCM,27.72,26.13,28.49,400,4
+DSD-Trường Đại Học Sân Khấu Điện Ảnh TPHCM,2022,Công lập,TP.HCM,26.88,24.9,27.73,400,4
+DSD-Trường Đại Học Sân Khấu Điện Ảnh TPHCM,2023,Công lập,TP.HCM,27.11,25.36,27.87,400,4
+DSD-Trường Đại Học Sân Khấu Điện Ảnh TPHCM,2024,Công lập,TP.HCM,27.25,25.48,28.0,400,4
+DSD-Trường Đại Học Sân Khấu Điện Ảnh TPHCM,2025,Công lập,TP.HCM,27.25,25.5,28.0,400,4
+DSG-Trường Đại Học Công Nghệ Sài Gòn,2020,Tư thục,TP.HCM,15.32,15.0,18.35,91800,918
+DSG-Trường Đại Học Công Nghệ Sài Gòn,2021,Tư thục,TP.HCM,15.81,15.45,18.85,91800,918
+DSG-Trường Đại Học Công Nghệ Sài Gòn,2022,Tư thục,TP.HCM,15.14,15.0,17.63,91800,918
+DSG-Trường Đại Học Công Nghệ Sài Gòn,2023,Tư thục,TP.HCM,15.15,15.0,17.95,91800,918
+DSG-Trường Đại Học Công Nghệ Sài Gòn,2024,Tư thục,TP.HCM,15.19,15.0,18.15,91800,918
+DSG-Trường Đại Học Công Nghệ Sài Gòn,2025,Tư thục,TP.HCM,15.17,15.0,18.0,91800,918
+DSK-Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng,2020,Công lập,Đà Nẵng,19.76,17.04,22.93,10500,105
+DSK-Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng,2021,Công lập,Đà Nẵng,20.24,17.48,23.39,10500,105
+DSK-Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng,2022,Công lập,Đà Nẵng,19.07,16.31,22.09,10500,105
+DSK-Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng,2023,Công lập,Đà Nẵng,19.36,16.58,22.53,10500,105
+DSK-Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng,2024,Công lập,Đà Nẵng,19.55,16.8,22.72,10500,105
+DSK-Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng,2025,Công lập,Đà Nẵng,19.61,17.0,22.58,10500,105
+DTB-Trường Đại Học Thái Bình,2020,Công lập,Thái Bình,16.14,15.95,16.34,3300,33
+DTB-Trường Đại Học Thái Bình,2021,Công lập,Thái Bình,16.62,16.45,16.84,3300,33
+DTB-Trường Đại Học Thái Bình,2022,Công lập,Thái Bình,15.44,15.26,15.64,3300,33
+DTB-Trường Đại Học Thái Bình,2023,Công lập,Thái Bình,15.75,15.55,15.92,3300,33
+DTB-Trường Đại Học Thái Bình,2024,Công lập,Thái Bình,15.95,15.78,16.14,3300,33
+DTB-Trường Đại Học Thái Bình,2025,Công lập,Thái Bình,16.0,16.0,16.0,3300,33
+DTC-Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên,2020,Công lập,Thái Nguyên,19.3,17.96,22.17,42200,422
+DTC-Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên,2021,Công lập,Thái Nguyên,19.81,18.46,22.79,42200,422
+DTC-Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên,2022,Công lập,Thái Nguyên,18.59,17.26,21.56,42200,422
+DTC-Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên,2023,Công lập,Thái Nguyên,18.89,17.56,21.89,42200,422
+DTC-Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên,2024,Công lập,Thái Nguyên,19.1,17.75,22.12,42200,422
+DTC-Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên,2025,Công lập,Thái Nguyên,19.15,18.0,22.0,42200,422
+DTD-Trường Đại Học Tây Đô,2020,Công lập,Hà Nội,15.54,15.0,19.22,13000,130
+DTD-Trường Đại Học Tây Đô,2021,Công lập,Hà Nội,16.03,15.45,19.74,13000,130
+DTD-Trường Đại Học Tây Đô,2022,Công lập,Hà Nội,15.31,15.0,18.57,13000,130
+DTD-Trường Đại Học Tây Đô,2023,Công lập,Hà Nội,15.35,15.0,18.88,13000,130
+DTD-Trường Đại Học Tây Đô,2024,Công lập,Hà Nội,15.41,15.0,19.15,13000,130
+DTD-Trường Đại Học Tây Đô,2025,Công lập,Hà Nội,15.38,15.0,19.0,13000,130
+DTE-Trường Đại học Kinh tế và Quản trị kinh doanh Thái Nguyên,2020,Công lập,Thái Nguyên,18.33,16.98,19.84,8400,84
+DTE-Trường Đại học Kinh tế và Quản trị kinh doanh Thái Nguyên,2021,Công lập,Thái Nguyên,18.84,17.47,20.35,8400,84
+DTE-Trường Đại học Kinh tế và Quản trị kinh doanh Thái Nguyên,2022,Công lập,Thái Nguyên,17.63,16.28,19.13,8400,84
+DTE-Trường Đại học Kinh tế và Quản trị kinh doanh Thái Nguyên,2023,Công lập,Thái Nguyên,17.93,16.56,19.44,8400,84
+DTE-Trường Đại học Kinh tế và Quản trị kinh doanh Thái Nguyên,2024,Công lập,Thái Nguyên,18.13,16.84,19.63,8400,84
+DTE-Trường Đại học Kinh tế và Quản trị kinh doanh Thái Nguyên,2025,Công lập,Thái Nguyên,18.19,17.0,19.5,8400,84
+DTF-Trường Ngoại Ngữ Thái Nguyên,2020,Công lập,Thái Nguyên,24.0,19.61,27.26,2200,22
+DTF-Trường Ngoại Ngữ Thái Nguyên,2021,Công lập,Thái Nguyên,24.39,19.84,27.54,2200,22
+DTF-Trường Ngoại Ngữ Thái Nguyên,2022,Công lập,Thái Nguyên,23.41,18.79,26.77,2200,22
+DTF-Trường Ngoại Ngữ Thái Nguyên,2023,Công lập,Thái Nguyên,23.64,18.99,26.98,2200,22
+DTF-Trường Ngoại Ngữ Thái Nguyên,2024,Công lập,Thái Nguyên,23.81,19.2,27.09,2200,22
+DTF-Trường Ngoại Ngữ Thái Nguyên,2025,Công lập,Thái Nguyên,23.85,19.35,27.07,2200,22
+DTG-Phân hiệu Đại học Thái Nguyên tại Hà Giang,2020,Công lập,Thái Nguyên,22.83,19.02,26.29,2500,25
+DTG-Phân hiệu Đại học Thái Nguyên tại Hà Giang,2021,Công lập,Thái Nguyên,23.23,19.49,26.61,2500,25
+DTG-Phân hiệu Đại học Thái Nguyên tại Hà Giang,2022,Công lập,Thái Nguyên,22.23,18.25,25.9,2500,25
+DTG-Phân hiệu Đại học Thái Nguyên tại Hà Giang,2023,Công lập,Thái Nguyên,22.51,18.65,26.0,2500,25
+DTG-Phân hiệu Đại học Thái Nguyên tại Hà Giang,2024,Công lập,Thái Nguyên,22.69,18.88,26.17,2500,25
+DTG-Phân hiệu Đại học Thái Nguyên tại Hà Giang,2025,Công lập,Thái Nguyên,22.7,19.0,26.14,2500,25
+DTK-Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên,2020,Công lập,Thái Nguyên,18.47,15.0,24.76,13900,139
+DTK-Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên,2021,Công lập,Thái Nguyên,18.98,15.53,25.3,13900,139
+DTK-Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên,2022,Công lập,Thái Nguyên,17.83,15.0,24.07,13900,139
+DTK-Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên,2023,Công lập,Thái Nguyên,18.08,15.0,24.26,13900,139
+DTK-Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên,2024,Công lập,Thái Nguyên,18.29,15.0,24.53,13900,139
+DTK-Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên,2025,Công lập,Thái Nguyên,18.33,15.0,24.5,13900,139
+DTL-Trường Đại Học Thăng Long,2020,Công lập,Hà Nội,19.72,15.0,25.78,9500,95
+DTL-Trường Đại Học Thăng Long,2021,Công lập,Hà Nội,20.21,15.54,26.43,9500,95
+DTL-Trường Đại Học Thăng Long,2022,Công lập,Hà Nội,19.07,15.0,25.09,9500,95
+DTL-Trường Đại Học Thăng Long,2023,Công lập,Hà Nội,19.33,15.0,25.48,9500,95
+DTL-Trường Đại Học Thăng Long,2024,Công lập,Hà Nội,19.51,15.0,25.53,9500,95
+DTL-Trường Đại Học Thăng Long,2025,Công lập,Hà Nội,19.56,15.0,25.75,9500,95
+DTM-Trường Đại học Tài Nguyên và Môi Trường TPHCM,2020,Công lập,TP.HCM,15.65,15.0,20.32,12100,121
+DTM-Trường Đại học Tài Nguyên và Môi Trường TPHCM,2021,Công lập,TP.HCM,16.14,15.45,20.84,12100,121
+DTM-Trường Đại học Tài Nguyên và Môi Trường TPHCM,2022,Công lập,TP.HCM,15.41,15.0,19.63,12100,121
+DTM-Trường Đại học Tài Nguyên và Môi Trường TPHCM,2023,Công lập,TP.HCM,15.45,15.0,19.95,12100,121
+DTM-Trường Đại học Tài Nguyên và Môi Trường TPHCM,2024,Công lập,TP.HCM,15.51,15.0,20.11,12100,121
+DTM-Trường Đại học Tài Nguyên và Môi Trường TPHCM,2025,Công lập,TP.HCM,15.5,15.0,20.0,12100,121
+DTN-Trường Đại Học Nông Lâm Thái Nguyên,2020,Công lập,Thái Nguyên,15.14,15.0,15.35,25000,250
+DTN-Trường Đại Học Nông Lâm Thái Nguyên,2021,Công lập,Thái Nguyên,15.64,15.45,15.84,25000,250
+DTN-Trường Đại Học Nông Lâm Thái Nguyên,2022,Công lập,Thái Nguyên,15.0,15.0,15.0,25000,250
+DTN-Trường Đại Học Nông Lâm Thái Nguyên,2023,Công lập,Thái Nguyên,15.0,15.0,15.0,25000,250
+DTN-Trường Đại Học Nông Lâm Thái Nguyên,2024,Công lập,Thái Nguyên,15.03,15.0,15.15,25000,250
+DTN-Trường Đại Học Nông Lâm Thái Nguyên,2025,Công lập,Thái Nguyên,15.0,15.0,15.0,25000,250
+DTP-Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai,2020,Công lập,Thái Nguyên,20.58,15.0,26.08,6700,67
+DTP-Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai,2021,Công lập,Thái Nguyên,21.08,15.47,26.66,6700,67
+DTP-Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai,2022,Công lập,Thái Nguyên,20.13,15.0,25.42,6700,67
+DTP-Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai,2023,Công lập,Thái Nguyên,20.28,15.0,25.68,6700,67
+DTP-Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai,2024,Công lập,Thái Nguyên,20.43,15.0,25.92,6700,67
+DTP-Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai,2025,Công lập,Thái Nguyên,20.44,15.0,25.84,6700,67
+DTQ-Khoa Quốc Tế - Đại Học Thái Nguyên,2020,Tư thục,Thái Nguyên,16.3,15.95,17.29,5700,57
+DTQ-Khoa Quốc Tế - Đại Học Thái Nguyên,2021,Tư thục,Thái Nguyên,16.78,16.46,17.77,5700,57
+DTQ-Khoa Quốc Tế - Đại Học Thái Nguyên,2022,Tư thục,Thái Nguyên,15.6,15.26,16.62,5700,57
+DTQ-Khoa Quốc Tế - Đại Học Thái Nguyên,2023,Tư thục,Thái Nguyên,15.9,15.57,16.95,5700,57
+DTQ-Khoa Quốc Tế - Đại Học Thái Nguyên,2024,Tư thục,Thái Nguyên,16.09,15.77,17.14,5700,57
+DTQ-Khoa Quốc Tế - Đại Học Thái Nguyên,2025,Tư thục,Thái Nguyên,16.16,16.0,17.0,5700,57
+DTS-Đại Học Sư Phạm Thái Nguyên,2020,Công lập,Thái Nguyên,25.52,21.25,28.34,6800,68
+DTS-Đại Học Sư Phạm Thái Nguyên,2021,Công lập,Thái Nguyên,25.91,21.75,28.57,6800,68
+DTS-Đại Học Sư Phạm Thái Nguyên,2022,Công lập,Thái Nguyên,24.94,20.74,27.75,6800,68
+DTS-Đại Học Sư Phạm Thái Nguyên,2023,Công lập,Thái Nguyên,25.16,20.85,28.08,6800,68
+DTS-Đại Học Sư Phạm Thái Nguyên,2024,Công lập,Thái Nguyên,25.35,21.02,28.14,6800,68
+DTS-Đại Học Sư Phạm Thái Nguyên,2025,Công lập,Thái Nguyên,25.39,21.25,28.17,6800,68
+DTT-Trường Đại Học Tôn Đức Thắng,2020,Công lập,Hà Nội,23.76,19.95,30.0,59500,595
+DTT-Trường Đại Học Tôn Đức Thắng,2021,Công lập,Hà Nội,24.2,20.45,30.0,59500,595
+DTT-Trường Đại Học Tôn Đức Thắng,2022,Công lập,Hà Nội,23.13,19.25,29.67,59500,595
+DTT-Trường Đại Học Tôn Đức Thắng,2023,Công lập,Hà Nội,23.39,19.55,29.93,59500,595
+DTT-Trường Đại Học Tôn Đức Thắng,2024,Công lập,Hà Nội,23.58,19.76,30.0,59500,595
+DTT-Trường Đại Học Tôn Đức Thắng,2025,Công lập,Hà Nội,23.62,20.0,29.98,59500,595
+DTV-Trường Đại Học Lương Thế Vinh,2020,Công lập,Nghệ An,15.45,15.0,19.22,14100,141
+DTV-Trường Đại Học Lương Thế Vinh,2021,Công lập,Nghệ An,15.95,15.45,19.72,14100,141
+DTV-Trường Đại Học Lương Thế Vinh,2022,Công lập,Nghệ An,15.24,15.0,18.6,14100,141
+DTV-Trường Đại Học Lương Thế Vinh,2023,Công lập,Nghệ An,15.27,15.0,18.91,14100,141
+DTV-Trường Đại Học Lương Thế Vinh,2024,Công lập,Nghệ An,15.32,15.0,19.1,14100,141
+DTV-Trường Đại Học Lương Thế Vinh,2025,Công lập,Nghệ An,15.3,15.0,19.0,14100,141
+DTY-Trường Đại Học Y Dược Thái Nguyên,2020,Công lập,Thái Nguyên,21.83,18.27,26.33,5100,51
+DTY-Trường Đại Học Y Dược Thái Nguyên,2021,Công lập,Thái Nguyên,22.31,18.84,26.67,5100,51
+DTY-Trường Đại Học Y Dược Thái Nguyên,2022,Công lập,Thái Nguyên,21.16,17.57,25.87,5100,51
+DTY-Trường Đại Học Y Dược Thái Nguyên,2023,Công lập,Thái Nguyên,21.46,17.98,26.04,5100,51
+DTY-Trường Đại Học Y Dược Thái Nguyên,2024,Công lập,Thái Nguyên,21.65,18.13,26.19,5100,51
+DTY-Trường Đại Học Y Dược Thái Nguyên,2025,Công lập,Thái Nguyên,21.69,18.3,26.15,5100,51
+DTZ-Trường Đại Học Khoa Học Thái Nguyên,2020,Công lập,Thái Nguyên,17.46,15.62,20.59,29800,298
+DTZ-Trường Đại Học Khoa Học Thái Nguyên,2021,Công lập,Thái Nguyên,17.95,16.11,21.05,29800,298
+DTZ-Trường Đại Học Khoa Học Thái Nguyên,2022,Công lập,Thái Nguyên,16.74,15.0,19.9,29800,298
+DTZ-Trường Đại Học Khoa Học Thái Nguyên,2023,Công lập,Thái Nguyên,17.05,15.27,20.08,29800,298
+DTZ-Trường Đại Học Khoa Học Thái Nguyên,2024,Công lập,Thái Nguyên,17.25,15.43,20.32,29800,298
+DTZ-Trường Đại Học Khoa Học Thái Nguyên,2025,Công lập,Thái Nguyên,17.31,15.65,20.25,29800,298
+DVB-Trường Đại Học Kinh tế công nghệ Thái Nguyên,2020,Công lập,Thái Nguyên,15.14,15.0,15.35,3700,37
+DVB-Trường Đại Học Kinh tế công nghệ Thái Nguyên,2021,Công lập,Thái Nguyên,15.63,15.45,15.83,3700,37
+DVB-Trường Đại Học Kinh tế công nghệ Thái Nguyên,2022,Công lập,Thái Nguyên,15.0,15.0,15.0,3700,37
+DVB-Trường Đại Học Kinh tế công nghệ Thái Nguyên,2023,Công lập,Thái Nguyên,15.0,15.0,15.0,3700,37
+DVB-Trường Đại Học Kinh tế công nghệ Thái Nguyên,2024,Công lập,Thái Nguyên,15.03,15.0,15.14,3700,37
+DVB-Trường Đại Học Kinh tế công nghệ Thái Nguyên,2025,Công lập,Thái Nguyên,15.0,15.0,15.0,3700,37
+"DVD-Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",2020,Công lập,Thanh Hóa,17.18,15.0,27.45,6800,68
+"DVD-Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",2021,Công lập,Thanh Hóa,17.64,15.45,27.76,6800,68
+"DVD-Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",2022,Công lập,Thanh Hóa,16.94,15.0,27.05,6800,68
+"DVD-Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",2023,Công lập,Thanh Hóa,16.99,15.0,27.27,6800,68
+"DVD-Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",2024,Công lập,Thanh Hóa,17.04,15.0,27.35,6800,68
+"DVD-Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",2025,Công lập,Thanh Hóa,17.03,15.0,27.32,6800,68
+DVH-Trường Đại Học Văn Hiến,2020,Công lập,Hà Nội,15.33,15.0,18.21,21300,213
+DVH-Trường Đại Học Văn Hiến,2021,Công lập,Hà Nội,15.83,15.45,18.79,21300,213
+DVH-Trường Đại Học Văn Hiến,2022,Công lập,Hà Nội,15.13,15.0,17.4,21300,213
+DVH-Trường Đại Học Văn Hiến,2023,Công lập,Hà Nội,15.16,15.0,17.86,21300,213
+DVH-Trường Đại Học Văn Hiến,2024,Công lập,Hà Nội,15.21,15.0,17.96,21300,213
+DVH-Trường Đại Học Văn Hiến,2025,Công lập,Hà Nội,15.18,15.0,18.0,21300,213
+DVL-Trường Đại Học Văn Lang,2020,Tư thục,Hà Nội,15.43,15.0,20.8,23000,230
+DVL-Trường Đại Học Văn Lang,2021,Tư thục,Hà Nội,15.93,15.45,21.26,23000,230
+DVL-Trường Đại Học Văn Lang,2022,Tư thục,Hà Nội,15.23,15.0,20.08,23000,230
+DVL-Trường Đại Học Văn Lang,2023,Tư thục,Hà Nội,15.26,15.0,20.45,23000,230
+DVL-Trường Đại Học Văn Lang,2024,Tư thục,Hà Nội,15.3,15.0,20.64,23000,230
+DVL-Trường Đại Học Văn Lang,2025,Tư thục,Hà Nội,15.27,15.0,20.5,23000,230
+DVP-Trường Đại Học Trưng Vương,2020,Công lập,Hà Nội,16.06,15.0,19.31,9600,96
+DVP-Trường Đại Học Trưng Vương,2021,Công lập,Hà Nội,16.55,15.46,19.77,9600,96
+DVP-Trường Đại Học Trưng Vương,2022,Công lập,Hà Nội,15.59,15.0,18.63,9600,96
+DVP-Trường Đại Học Trưng Vương,2023,Công lập,Hà Nội,15.78,15.0,18.93,9600,96
+DVP-Trường Đại Học Trưng Vương,2024,Công lập,Hà Nội,15.89,15.0,19.13,9600,96
+DVP-Trường Đại Học Trưng Vương,2025,Công lập,Hà Nội,15.91,15.0,19.0,9600,96
+DVT-Đại Học Trà Vinh,2020,Công lập,Nghệ An,16.21,15.0,22.66,15700,157
+DVT-Đại Học Trà Vinh,2021,Công lập,Nghệ An,16.62,15.0,23.32,15700,157
+DVT-Đại Học Trà Vinh,2022,Công lập,Nghệ An,15.92,15.0,22.05,15700,157
+DVT-Đại Học Trà Vinh,2023,Công lập,Nghệ An,16.02,15.0,22.44,15700,157
+DVT-Đại Học Trà Vinh,2024,Công lập,Nghệ An,16.09,15.0,22.54,15700,157
+DVT-Đại Học Trà Vinh,2025,Công lập,Nghệ An,15.89,14.0,22.5,15700,157
+DYD-Trường Đại Học Yersin Đà Lạt,2020,Công lập,Lâm Đồng,16.12,15.45,20.78,8600,86
+DYD-Trường Đại Học Yersin Đà Lạt,2021,Công lập,Lâm Đồng,16.62,15.95,21.29,8600,86
+DYD-Trường Đại Học Yersin Đà Lạt,2022,Công lập,Lâm Đồng,15.49,15.0,20.11,8600,86
+DYD-Trường Đại Học Yersin Đà Lạt,2023,Công lập,Lâm Đồng,15.72,15.05,20.43,8600,86
+DYD-Trường Đại Học Yersin Đà Lạt,2024,Công lập,Lâm Đồng,15.88,15.25,20.48,8600,86
+DYD-Trường Đại Học Yersin Đà Lạt,2025,Công lập,Lâm Đồng,15.97,15.5,20.5,8600,86
+EIU-Trường Đại Học Quốc Tế Miền Đông,2020,Tư thục,Hà Nội,15.41,15.0,17.32,7900,79
+EIU-Trường Đại Học Quốc Tế Miền Đông,2021,Tư thục,Hà Nội,15.91,15.45,17.82,7900,79
+EIU-Trường Đại Học Quốc Tế Miền Đông,2022,Tư thục,Hà Nội,15.19,15.0,16.62,7900,79
+EIU-Trường Đại Học Quốc Tế Miền Đông,2023,Tư thục,Hà Nội,15.22,15.0,16.86,7900,79
+EIU-Trường Đại Học Quốc Tế Miền Đông,2024,Tư thục,Hà Nội,15.27,15.0,17.11,7900,79
+EIU-Trường Đại Học Quốc Tế Miền Đông,2025,Tư thục,Hà Nội,15.25,15.0,17.0,7900,79
+ETU-Trường Đại Học Hòa Bình,2020,Công lập,Hà Nội,16.05,15.0,20.84,10100,101
+ETU-Trường Đại Học Hòa Bình,2021,Công lập,Hà Nội,16.53,15.46,21.34,10100,101
+ETU-Trường Đại Học Hòa Bình,2022,Công lập,Hà Nội,15.77,15.0,20.12,10100,101
+ETU-Trường Đại Học Hòa Bình,2023,Công lập,Hà Nội,15.82,15.0,20.35,10100,101
+ETU-Trường Đại Học Hòa Bình,2024,Công lập,Hà Nội,15.9,15.0,20.63,10100,101
+ETU-Trường Đại Học Hòa Bình,2025,Công lập,Hà Nội,15.89,15.0,20.5,10100,101
+FBU-Trường Đại Học Tài Chính Ngân Hàng Hà Nội,2020,Công lập,Hà Nội,20.95,16.96,24.56,4000,40
+FBU-Trường Đại Học Tài Chính Ngân Hàng Hà Nội,2021,Công lập,Hà Nội,21.4,17.48,24.87,4000,40
+FBU-Trường Đại Học Tài Chính Ngân Hàng Hà Nội,2022,Công lập,Hà Nội,20.21,16.36,23.85,4000,40
+FBU-Trường Đại Học Tài Chính Ngân Hàng Hà Nội,2023,Công lập,Hà Nội,20.53,16.55,24.06,4000,40
+FBU-Trường Đại Học Tài Chính Ngân Hàng Hà Nội,2024,Công lập,Hà Nội,20.71,16.77,24.29,4000,40
+FBU-Trường Đại Học Tài Chính Ngân Hàng Hà Nội,2025,Công lập,Hà Nội,20.78,17.0,24.25,4000,40
+GDU-Trường Đại Học Gia Định,2020,Công lập,Hà Nội,15.66,15.0,20.84,16600,166
+GDU-Trường Đại Học Gia Định,2021,Công lập,Hà Nội,16.17,15.45,21.31,16600,166
+GDU-Trường Đại Học Gia Định,2022,Công lập,Hà Nội,15.37,15.0,20.14,16600,166
+GDU-Trường Đại Học Gia Định,2023,Công lập,Hà Nội,15.43,15.0,20.37,16600,166
+GDU-Trường Đại Học Gia Định,2024,Công lập,Hà Nội,15.51,15.0,20.62,16600,166
+GDU-Trường Đại Học Gia Định,2025,Công lập,Hà Nội,15.51,15.0,20.5,16600,166
+GHA-Trường Đại Học Giao Thông Vận Tải,2020,Công lập,Hà Nội,23.02,16.21,27.63,17500,175
+GHA-Trường Đại Học Giao Thông Vận Tải,2021,Công lập,Hà Nội,23.51,16.73,27.99,17500,175
+GHA-Trường Đại Học Giao Thông Vận Tải,2022,Công lập,Hà Nội,22.34,15.44,27.27,17500,175
+GHA-Trường Đại Học Giao Thông Vận Tải,2023,Công lập,Hà Nội,22.61,15.75,27.45,17500,175
+GHA-Trường Đại Học Giao Thông Vận Tải,2024,Công lập,Hà Nội,22.84,15.96,27.57,17500,175
+GHA-Trường Đại Học Giao Thông Vận Tải,2025,Công lập,Hà Nội,22.88,16.19,27.52,17500,175
+GNT-Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương,2020,Công lập,Hà Nội,19.19,17.99,26.05,1200,12
+GNT-Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương,2021,Công lập,Hà Nội,19.62,18.46,26.35,1200,12
+GNT-Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương,2022,Công lập,Hà Nội,18.48,17.35,25.75,1200,12
+GNT-Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương,2023,Công lập,Hà Nội,18.79,17.61,25.93,1200,12
+GNT-Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương,2024,Công lập,Hà Nội,18.95,17.76,25.93,1200,12
+GNT-Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương,2025,Công lập,Hà Nội,19.0,18.0,26.0,1200,12
+GSA-Trường Đại Học Giao Thông Vận Tải (Cơ sở 2),2020,Công lập,Hà Nội,23.21,15.08,27.56,9300,93
+GSA-Trường Đại Học Giao Thông Vận Tải (Cơ sở 2),2021,Công lập,Hà Nội,23.71,15.66,27.76,9300,93
+GSA-Trường Đại Học Giao Thông Vận Tải (Cơ sở 2),2022,Công lập,Hà Nội,22.55,15.0,27.08,9300,93
+GSA-Trường Đại Học Giao Thông Vận Tải (Cơ sở 2),2023,Công lập,Hà Nội,22.8,15.0,27.28,9300,93
+GSA-Trường Đại Học Giao Thông Vận Tải (Cơ sở 2),2024,Công lập,Hà Nội,23.03,15.0,27.41,9300,93
+GSA-Trường Đại Học Giao Thông Vận Tải (Cơ sở 2),2025,Công lập,Hà Nội,23.05,15.06,27.38,9300,93
+GTA-Trường Đại học Công nghệ Giao thông vận tải,2020,Công lập,Hà Nội,19.82,15.95,24.83,40300,403
+GTA-Trường Đại học Công nghệ Giao thông vận tải,2021,Công lập,Hà Nội,20.31,16.45,25.34,40300,403
+GTA-Trường Đại học Công nghệ Giao thông vận tải,2022,Công lập,Hà Nội,19.11,15.25,24.12,40300,403
+GTA-Trường Đại học Công nghệ Giao thông vận tải,2023,Công lập,Hà Nội,19.41,15.56,24.38,40300,403
+GTA-Trường Đại học Công nghệ Giao thông vận tải,2024,Công lập,Hà Nội,19.62,15.75,24.59,40300,403
+GTA-Trường Đại học Công nghệ Giao thông vận tải,2025,Công lập,Hà Nội,19.66,16.0,24.5,40300,403
+HBT-Học viện Báo chí và Tuyên truyền,2020,Công lập,Hà Nội,24.06,22.97,25.19,2600,26
+HBT-Học viện Báo chí và Tuyên truyền,2021,Công lập,Hà Nội,24.57,23.44,25.9,2600,26
+HBT-Học viện Báo chí và Tuyên truyền,2022,Công lập,Hà Nội,23.32,22.36,24.71,2600,26
+HBT-Học viện Báo chí và Tuyên truyền,2023,Công lập,Hà Nội,23.62,22.79,24.85,2600,26
+HBT-Học viện Báo chí và Tuyên truyền,2024,Công lập,Hà Nội,23.82,22.87,25.12,2600,26
+HBT-Học viện Báo chí và Tuyên truyền,2025,Công lập,Hà Nội,23.89,22.96,25.08,2600,26
+HCA-Học Viện Chính Trị Công An Nhân Dân,2020,Quân đội/Công an,Hà Nội,23.38,21.83,25.49,1600,16
+HCA-Học Viện Chính Trị Công An Nhân Dân,2021,Quân đội/Công an,Hà Nội,23.91,22.24,25.85,1600,16
+HCA-Học Viện Chính Trị Công An Nhân Dân,2022,Quân đội/Công an,Hà Nội,22.66,21.06,24.81,1600,16
+HCA-Học Viện Chính Trị Công An Nhân Dân,2023,Quân đội/Công an,Hà Nội,22.99,21.3,24.99,1600,16
+HCA-Học Viện Chính Trị Công An Nhân Dân,2024,Quân đội/Công an,Hà Nội,23.22,21.62,25.25,1600,16
+HCA-Học Viện Chính Trị Công An Nhân Dân,2025,Quân đội/Công an,Hà Nội,23.26,21.74,25.21,1600,16
+HCB-Học viện Kỹ thuật và Công nghệ an ninh (Phía Bắc),2020,Quân đội/Công an,Nghệ An,21.66,19.05,25.53,2000,20
+HCB-Học viện Kỹ thuật và Công nghệ an ninh (Phía Bắc),2021,Quân đội/Công an,Nghệ An,22.18,19.52,25.93,2000,20
+HCB-Học viện Kỹ thuật và Công nghệ an ninh (Phía Bắc),2022,Quân đội/Công an,Nghệ An,21.0,18.34,24.82,2000,20
+HCB-Học viện Kỹ thuật và Công nghệ an ninh (Phía Bắc),2023,Quân đội/Công an,Nghệ An,21.31,18.84,25.13,2000,20
+HCB-Học viện Kỹ thuật và Công nghệ an ninh (Phía Bắc),2024,Quân đội/Công an,Nghệ An,21.46,18.94,25.19,2000,20
+HCB-Học viện Kỹ thuật và Công nghệ an ninh (Phía Bắc),2025,Quân đội/Công an,Nghệ An,21.52,19.05,25.21,2000,20
+HCH-Học Viện Hành Chính và Quản trị công,2020,Công lập,Hà Nội,23.69,16.0,26.87,9100,91
+HCH-Học Viện Hành Chính và Quản trị công,2021,Công lập,Hà Nội,24.18,16.61,27.16,9100,91
+HCH-Học Viện Hành Chính và Quản trị công,2022,Công lập,Hà Nội,23.0,15.42,26.32,9100,91
+HCH-Học Viện Hành Chính và Quản trị công,2023,Công lập,Hà Nội,23.3,15.86,26.63,9100,91
+HCH-Học Viện Hành Chính và Quản trị công,2024,Công lập,Hà Nội,23.51,16.09,26.61,9100,91
+HCH-Học Viện Hành Chính và Quản trị công,2025,Công lập,Hà Nội,23.55,16.0,26.7,9100,91
+HCN-Học viện Kỹ thuật và Công nghệ an ninh (Phía Nam),2020,Quân đội/Công an,Nghệ An,21.69,19.05,25.46,2000,20
+HCN-Học viện Kỹ thuật và Công nghệ an ninh (Phía Nam),2021,Quân đội/Công an,Nghệ An,22.16,19.53,25.77,2000,20
+HCN-Học viện Kỹ thuật và Công nghệ an ninh (Phía Nam),2022,Quân đội/Công an,Nghệ An,20.96,18.35,24.68,2000,20
+HCN-Học viện Kỹ thuật và Công nghệ an ninh (Phía Nam),2023,Quân đội/Công an,Nghệ An,21.25,18.61,25.16,2000,20
+HCN-Học viện Kỹ thuật và Công nghệ an ninh (Phía Nam),2024,Quân đội/Công an,Nghệ An,21.5,18.84,25.26,2000,20
+HCN-Học viện Kỹ thuật và Công nghệ an ninh (Phía Nam),2025,Quân đội/Công an,Nghệ An,21.52,19.05,25.21,2000,20
+HCP-Học Viện Chính Sách và Phát Triển,2020,Công lập,Hà Nội,25.51,22.15,30.0,5600,56
+HCP-Học Viện Chính Sách và Phát Triển,2021,Công lập,Hà Nội,25.88,22.57,30.0,5600,56
+HCP-Học Viện Chính Sách và Phát Triển,2022,Công lập,Hà Nội,24.9,21.27,29.6,5600,56
+HCP-Học Viện Chính Sách và Phát Triển,2023,Công lập,Hà Nội,25.17,21.63,29.83,5600,56
+HCP-Học Viện Chính Sách và Phát Triển,2024,Công lập,Hà Nội,25.32,21.79,29.91,5600,56
+HCP-Học Viện Chính Sách và Phát Triển,2025,Công lập,Hà Nội,25.37,22.0,29.9,5600,56
+HCS-Học Viện Hành Chính Và Quản Trị Công (phía Nam),2020,Công lập,Hà Nội,20.85,16.02,27.97,4400,44
+HCS-Học Viện Hành Chính Và Quản Trị Công (phía Nam),2021,Công lập,Hà Nội,21.36,16.49,28.28,4400,44
+HCS-Học Viện Hành Chính Và Quản Trị Công (phía Nam),2022,Công lập,Hà Nội,20.17,15.26,27.54,4400,44
+HCS-Học Viện Hành Chính Và Quản Trị Công (phía Nam),2023,Công lập,Hà Nội,20.48,15.59,27.84,4400,44
+HCS-Học Viện Hành Chính Và Quản Trị Công (phía Nam),2024,Công lập,Hà Nội,20.64,15.76,27.77,4400,44
+HCS-Học Viện Hành Chính Và Quản Trị Công (phía Nam),2025,Công lập,Hà Nội,20.7,16.0,27.9,4400,44
+HDT-Trường Đại Học Hồng Đức,2020,Công lập,Hà Nội,19.74,15.0,28.55,18200,182
+HDT-Trường Đại Học Hồng Đức,2021,Công lập,Hà Nội,20.21,15.0,28.85,18200,182
+HDT-Trường Đại Học Hồng Đức,2022,Công lập,Hà Nội,19.12,15.0,28.13,18200,182
+HDT-Trường Đại Học Hồng Đức,2023,Công lập,Hà Nội,19.39,15.0,28.33,18200,182
+HDT-Trường Đại Học Hồng Đức,2024,Công lập,Hà Nội,19.57,15.0,28.4,18200,182
+HDT-Trường Đại Học Hồng Đức,2025,Công lập,Hà Nội,19.59,14.25,28.38,18200,182
+HEH-Học Viện Hậu Cần - Hệ Quân sự,2020,Quân đội/Công an,Hà Nội,26.53,23.74,28.46,1200,12
+HEH-Học Viện Hậu Cần - Hệ Quân sự,2021,Quân đội/Công an,Hà Nội,26.9,24.15,28.8,1200,12
+HEH-Học Viện Hậu Cần - Hệ Quân sự,2022,Quân đội/Công an,Hà Nội,26.05,22.92,28.09,1200,12
+HEH-Học Viện Hậu Cần - Hệ Quân sự,2023,Quân đội/Công an,Hà Nội,26.27,23.24,28.22,1200,12
+HEH-Học Viện Hậu Cần - Hệ Quân sự,2024,Quân đội/Công an,Hà Nội,26.44,23.53,28.39,1200,12
+HEH-Học Viện Hậu Cần - Hệ Quân sự,2025,Quân đội/Công an,Hà Nội,26.46,23.67,28.33,1200,12
+HGH-Trường Sĩ Quan Phòng Hóa,2020,Quân đội/Công an,Hà Nội,22.8,22.43,23.27,800,8
+HGH-Trường Sĩ Quan Phòng Hóa,2021,Quân đội/Công an,Hà Nội,23.44,23.13,23.82,800,8
+HGH-Trường Sĩ Quan Phòng Hóa,2022,Quân đội/Công an,Hà Nội,22.13,21.77,22.48,800,8
+HGH-Trường Sĩ Quan Phòng Hóa,2023,Quân đội/Công an,Hà Nội,22.48,22.06,22.84,800,8
+HGH-Trường Sĩ Quan Phòng Hóa,2024,Quân đội/Công an,Hà Nội,22.67,22.25,23.09,800,8
+HGH-Trường Sĩ Quan Phòng Hóa,2025,Quân đội/Công an,Hà Nội,22.72,22.45,22.99,800,8
+HHA-Trường Đại Học Hàng Hải Việt Nam,2020,Công lập,Hà Nội,22.06,19.08,29.18,26500,265
+HHA-Trường Đại Học Hàng Hải Việt Nam,2021,Công lập,Hà Nội,22.55,19.53,29.54,26500,265
+HHA-Trường Đại Học Hàng Hải Việt Nam,2022,Công lập,Hà Nội,21.37,18.27,28.78,26500,265
+HHA-Trường Đại Học Hàng Hải Việt Nam,2023,Công lập,Hà Nội,21.66,18.55,28.95,26500,265
+HHA-Trường Đại Học Hàng Hải Việt Nam,2024,Công lập,Hà Nội,21.87,18.86,29.1,26500,265
+HHA-Trường Đại Học Hàng Hải Việt Nam,2025,Công lập,Hà Nội,21.91,19.0,29.11,26500,265
+HHK-Học Viện Hàng không Việt Nam,2020,Công lập,Hà Nội,21.62,17.95,27.1,67800,678
+HHK-Học Viện Hàng không Việt Nam,2021,Công lập,Hà Nội,22.11,18.45,27.47,67800,678
+HHK-Học Viện Hàng không Việt Nam,2022,Công lập,Hà Nội,20.91,17.25,26.71,67800,678
+HHK-Học Viện Hàng không Việt Nam,2023,Công lập,Hà Nội,21.21,17.55,26.94,67800,678
+HHK-Học Viện Hàng không Việt Nam,2024,Công lập,Hà Nội,21.41,17.75,27.0,67800,678
+HHK-Học Viện Hàng không Việt Nam,2025,Công lập,Hà Nội,21.47,18.0,27.0,67800,678
+HHT-Trường Đại Học Hà Tĩnh,2020,Công lập,Hà Nội,15.88,15.0,26.52,12900,129
+HHT-Trường Đại Học Hà Tĩnh,2021,Công lập,Hà Nội,16.36,15.45,26.77,12900,129
+HHT-Trường Đại Học Hà Tĩnh,2022,Công lập,Hà Nội,15.65,15.0,26.01,12900,129
+HHT-Trường Đại Học Hà Tĩnh,2023,Công lập,Hà Nội,15.69,15.0,26.27,12900,129
+HHT-Trường Đại Học Hà Tĩnh,2024,Công lập,Hà Nội,15.74,15.0,26.3,12900,129
+HHT-Trường Đại Học Hà Tĩnh,2025,Công lập,Hà Nội,15.72,15.0,26.35,12900,129
+HIU-Trường Đại Học Quốc Tế Hồng Bàng,2020,Tư thục,Hà Nội,15.83,15.0,20.78,19900,199
+HIU-Trường Đại Học Quốc Tế Hồng Bàng,2021,Tư thục,Hà Nội,16.31,15.45,21.28,19900,199
+HIU-Trường Đại Học Quốc Tế Hồng Bàng,2022,Tư thục,Hà Nội,15.55,15.0,20.12,19900,199
+HIU-Trường Đại Học Quốc Tế Hồng Bàng,2023,Tư thục,Hà Nội,15.61,15.0,20.4,19900,199
+HIU-Trường Đại Học Quốc Tế Hồng Bàng,2024,Tư thục,Hà Nội,15.67,15.0,20.64,19900,199
+HIU-Trường Đại Học Quốc Tế Hồng Bàng,2025,Tư thục,Hà Nội,15.66,15.0,20.5,19900,199
+HLU-Trường Đại Học Hạ Long,2020,Công lập,Hà Nội,18.71,15.0,27.47,14500,145
+HLU-Trường Đại Học Hạ Long,2021,Công lập,Hà Nội,19.2,15.47,27.78,14500,145
+HLU-Trường Đại Học Hạ Long,2022,Công lập,Hà Nội,18.19,15.0,27.06,14500,145
+HLU-Trường Đại Học Hạ Long,2023,Công lập,Hà Nội,18.39,15.0,27.2,14500,145
+HLU-Trường Đại Học Hạ Long,2024,Công lập,Hà Nội,18.55,15.0,27.35,14500,145
+HLU-Trường Đại Học Hạ Long,2025,Công lập,Hà Nội,18.57,15.0,27.32,14500,145
+HNM-Trường Đại học Thủ Đô Hà Nội,2020,Công lập,Hà Nội,24.88,20.87,28.26,20600,206
+HNM-Trường Đại học Thủ Đô Hà Nội,2021,Công lập,Hà Nội,25.33,21.32,28.6,20600,206
+HNM-Trường Đại học Thủ Đô Hà Nội,2022,Công lập,Hà Nội,24.24,20.12,27.88,20600,206
+HNM-Trường Đại học Thủ Đô Hà Nội,2023,Công lập,Hà Nội,24.53,20.45,28.07,20600,206
+HNM-Trường Đại học Thủ Đô Hà Nội,2024,Công lập,Hà Nội,24.7,20.69,28.19,20600,206
+HNM-Trường Đại học Thủ Đô Hà Nội,2025,Công lập,Hà Nội,24.74,20.86,28.13,20600,206
+HPN-Học Viện Phụ Nữ Việt Nam,2020,Công lập,Hà Nội,24.03,20.66,26.67,5300,53
+HPN-Học Viện Phụ Nữ Việt Nam,2021,Công lập,Hà Nội,24.5,21.19,27.02,5300,53
+HPN-Học Viện Phụ Nữ Việt Nam,2022,Công lập,Hà Nội,23.32,20.01,26.28,5300,53
+HPN-Học Viện Phụ Nữ Việt Nam,2023,Công lập,Hà Nội,23.64,20.27,26.56,5300,53
+HPN-Học Viện Phụ Nữ Việt Nam,2024,Công lập,Hà Nội,23.81,20.64,26.67,5300,53
+HPN-Học Viện Phụ Nữ Việt Nam,2025,Công lập,Hà Nội,23.87,20.68,26.62,5300,53
+HPU-Trường Đại học Quản lý và Công nghệ Hải Phòng,2020,Công lập,Hải Phòng,15.33,15.0,16.44,26600,266
+HPU-Trường Đại học Quản lý và Công nghệ Hải Phòng,2021,Công lập,Hải Phòng,15.82,15.45,16.94,26600,266
+HPU-Trường Đại học Quản lý và Công nghệ Hải Phòng,2022,Công lập,Hải Phòng,15.09,15.0,15.74,26600,266
+HPU-Trường Đại học Quản lý và Công nghệ Hải Phòng,2023,Công lập,Hải Phòng,15.13,15.0,16.04,26600,266
+HPU-Trường Đại học Quản lý và Công nghệ Hải Phòng,2024,Công lập,Hải Phòng,15.19,15.0,16.25,26600,266
+HPU-Trường Đại học Quản lý và Công nghệ Hải Phòng,2025,Công lập,Hải Phòng,15.18,15.0,16.1,26600,266
+HQH-Học Viện Hải Quân,2020,Quân đội/Công an,Hà Nội,23.61,23.03,24.19,600,6
+HQH-Học Viện Hải Quân,2021,Quân đội/Công an,Hà Nội,24.14,23.55,24.67,600,6
+HQH-Học Viện Hải Quân,2022,Quân đội/Công an,Hà Nội,22.93,22.42,23.52,600,6
+HQH-Học Viện Hải Quân,2023,Quân đội/Công an,Hà Nội,23.21,22.64,23.8,600,6
+HQH-Học Viện Hải Quân,2024,Quân đội/Công an,Hà Nội,23.47,22.83,24.1,600,6
+HQH-Học Viện Hải Quân,2025,Quân đội/Công an,Hà Nội,23.52,23.08,23.96,600,6
+HQT-Học Viện Ngoại Giao,2020,Công lập,Hà Nội,25.24,24.19,26.29,11100,111
+HQT-Học Viện Ngoại Giao,2021,Công lập,Hà Nội,25.75,24.67,26.8,11100,111
+HQT-Học Viện Ngoại Giao,2022,Công lập,Hà Nội,24.57,23.43,25.86,11100,111
+HQT-Học Viện Ngoại Giao,2023,Công lập,Hà Nội,24.85,23.73,26.02,11100,111
+HQT-Học Viện Ngoại Giao,2024,Công lập,Hà Nội,25.06,23.93,26.16,11100,111
+HQT-Học Viện Ngoại Giao,2025,Công lập,Hà Nội,25.1,24.17,26.09,11100,111
+HSU-Trường Đại Học Hoa Sen,2020,Tư thục,Hà Nội,15.33,15.0,17.3,13600,136
+HSU-Trường Đại Học Hoa Sen,2021,Tư thục,Hà Nội,15.85,15.45,17.82,13600,136
+HSU-Trường Đại Học Hoa Sen,2022,Tư thục,Hà Nội,15.12,15.0,16.56,13600,136
+HSU-Trường Đại Học Hoa Sen,2023,Tư thục,Hà Nội,15.15,15.0,16.94,13600,136
+HSU-Trường Đại Học Hoa Sen,2024,Tư thục,Hà Nội,15.2,15.0,17.11,13600,136
+HSU-Trường Đại Học Hoa Sen,2025,Tư thục,Hà Nội,15.18,15.0,17.0,13600,136
+HTA-Học viện Tòa án,2020,Công lập,Hà Nội,22.21,21.0,23.3,1600,16
+HTA-Học viện Tòa án,2021,Công lập,Hà Nội,22.7,21.69,23.71,1600,16
+HTA-Học viện Tòa án,2022,Công lập,Hà Nội,21.56,20.45,22.64,1600,16
+HTA-Học viện Tòa án,2023,Công lập,Hà Nội,21.79,20.66,22.84,1600,16
+HTA-Học viện Tòa án,2024,Công lập,Hà Nội,22.02,20.86,23.15,1600,16
+HTA-Học viện Tòa án,2025,Công lập,Hà Nội,22.06,21.03,23.0,1600,16
+HTC-Học Viện Tài chính,2020,Công lập,Hà Nội,23.85,20.99,26.78,12000,120
+HTC-Học Viện Tài chính,2021,Công lập,Hà Nội,24.31,21.45,27.05,12000,120
+HTC-Học Viện Tài chính,2022,Công lập,Hà Nội,23.17,20.27,26.34,12000,120
+HTC-Học Viện Tài chính,2023,Công lập,Hà Nội,23.45,20.57,26.51,12000,120
+HTC-Học Viện Tài chính,2024,Công lập,Hà Nội,23.63,20.77,26.61,12000,120
+HTC-Học Viện Tài chính,2025,Công lập,Hà Nội,23.69,21.0,26.6,12000,120
+HTN-Học Viện Thanh Thiếu Niên Việt Nam,2020,Công lập,Hà Nội,24.01,20.0,26.06,3100,31
+HTN-Học Viện Thanh Thiếu Niên Việt Nam,2021,Công lập,Hà Nội,24.53,20.47,26.6,3100,31
+HTN-Học Viện Thanh Thiếu Niên Việt Nam,2022,Công lập,Hà Nội,23.33,19.42,25.44,3100,31
+HTN-Học Viện Thanh Thiếu Niên Việt Nam,2023,Công lập,Hà Nội,23.63,19.56,25.52,3100,31
+HTN-Học Viện Thanh Thiếu Niên Việt Nam,2024,Công lập,Hà Nội,23.81,19.87,25.83,3100,31
+HTN-Học Viện Thanh Thiếu Niên Việt Nam,2025,Công lập,Hà Nội,23.88,20.0,25.8,3100,31
+HVC-Học viện cán bộ TPHCM,2020,Công lập,TP.HCM,23.28,22.51,24.27,3100,31
+HVC-Học viện cán bộ TPHCM,2021,Công lập,TP.HCM,23.76,22.99,24.8,3100,31
+HVC-Học viện cán bộ TPHCM,2022,Công lập,TP.HCM,22.6,21.84,23.58,3100,31
+HVC-Học viện cán bộ TPHCM,2023,Công lập,TP.HCM,22.86,22.05,23.9,3100,31
+HVC-Học viện cán bộ TPHCM,2024,Công lập,TP.HCM,23.06,22.26,24.04,3100,31
+HVC-Học viện cán bộ TPHCM,2025,Công lập,TP.HCM,23.13,22.5,24.0,3100,31
+HVD-Học Viện Dân Tộc,2020,Công lập,Hà Nội,15.13,15.04,15.34,400,4
+HVD-Học Viện Dân Tộc,2021,Công lập,Hà Nội,15.59,15.49,15.7,400,4
+HVD-Học Viện Dân Tộc,2022,Công lập,Hà Nội,15.0,15.0,15.0,400,4
+HVD-Học Viện Dân Tộc,2023,Công lập,Hà Nội,15.0,15.0,15.0,400,4
+HVD-Học Viện Dân Tộc,2024,Công lập,Hà Nội,15.03,15.0,15.11,400,4
+HVD-Học Viện Dân Tộc,2025,Công lập,Hà Nội,15.0,15.0,15.0,400,4
+HVN-Học Viện Nông Nghiệp Việt Nam,2020,Công lập,Hà Nội,20.51,16.96,24.3,13500,135
+HVN-Học Viện Nông Nghiệp Việt Nam,2021,Công lập,Hà Nội,21.01,17.46,24.92,13500,135
+HVN-Học Viện Nông Nghiệp Việt Nam,2022,Công lập,Hà Nội,19.82,16.27,23.75,13500,135
+HVN-Học Viện Nông Nghiệp Việt Nam,2023,Công lập,Hà Nội,20.12,16.56,24.01,13500,135
+HVN-Học Viện Nông Nghiệp Việt Nam,2024,Công lập,Hà Nội,20.33,16.76,24.14,13500,135
+HVN-Học Viện Nông Nghiệp Việt Nam,2025,Công lập,Hà Nội,20.37,17.0,24.1,13500,135
+HVQ-Học Viện Quản Lý Giáo Dục,2020,Công lập,Hà Nội,23.12,15.13,25.7,2800,28
+HVQ-Học Viện Quản Lý Giáo Dục,2021,Công lập,Hà Nội,23.57,15.51,26.18,2800,28
+HVQ-Học Viện Quản Lý Giáo Dục,2022,Công lập,Hà Nội,22.49,15.0,25.11,2800,28
+HVQ-Học Viện Quản Lý Giáo Dục,2023,Công lập,Hà Nội,22.73,15.0,25.35,2800,28
+HVQ-Học Viện Quản Lý Giáo Dục,2024,Công lập,Hà Nội,22.92,15.0,25.58,2800,28
+HVQ-Học Viện Quản Lý Giáo Dục,2025,Công lập,Hà Nội,22.96,15.0,25.5,2800,28
+HYD-Học Viện Y Dược Học Cổ Truyền Việt Nam,2020,Công lập,Hà Nội,22.35,21.11,24.59,1200,12
+HYD-Học Viện Y Dược Học Cổ Truyền Việt Nam,2021,Công lập,Hà Nội,22.86,21.45,24.95,1200,12
+HYD-Học Viện Y Dược Học Cổ Truyền Việt Nam,2022,Công lập,Hà Nội,21.65,20.27,23.89,1200,12
+HYD-Học Viện Y Dược Học Cổ Truyền Việt Nam,2023,Công lập,Hà Nội,21.97,20.56,24.13,1200,12
+HYD-Học Viện Y Dược Học Cổ Truyền Việt Nam,2024,Công lập,Hà Nội,22.16,20.81,24.39,1200,12
+HYD-Học Viện Y Dược Học Cổ Truyền Việt Nam,2025,Công lập,Hà Nội,22.2,21.0,24.25,1200,12
+IUH-Trường Đại Học Công Nghiệp TPHCM,2020,Công lập,TP.HCM,21.59,15.95,26.63,23300,233
+IUH-Trường Đại Học Công Nghiệp TPHCM,2021,Công lập,TP.HCM,22.09,16.45,26.98,23300,233
+IUH-Trường Đại Học Công Nghiệp TPHCM,2022,Công lập,TP.HCM,20.91,15.3,26.23,23300,233
+IUH-Trường Đại Học Công Nghiệp TPHCM,2023,Công lập,TP.HCM,21.2,15.58,26.44,23300,233
+IUH-Trường Đại Học Công Nghiệp TPHCM,2024,Công lập,TP.HCM,21.39,15.77,26.56,23300,233
+IUH-Trường Đại Học Công Nghiệp TPHCM,2025,Công lập,TP.HCM,21.45,16.0,26.5,23300,233
+KCC-Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ,2020,Công lập,Cần Thơ,22.87,20.14,25.02,10800,108
+KCC-Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ,2021,Công lập,Cần Thơ,23.38,20.67,25.44,10800,108
+KCC-Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ,2022,Công lập,Cần Thơ,22.16,19.46,24.26,10800,108
+KCC-Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ,2023,Công lập,Cần Thơ,22.48,19.71,24.58,10800,108
+KCC-Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ,2024,Công lập,Cần Thơ,22.67,19.92,24.82,10800,108
+KCC-Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ,2025,Công lập,Cần Thơ,22.72,20.15,24.68,10800,108
+KCN-Trường Đại Học Khoa Học Và Công Nghệ Hà Nội,2020,Công lập,Hà Nội,20.47,18.21,25.1,20900,209
+KCN-Trường Đại Học Khoa Học Và Công Nghệ Hà Nội,2021,Công lập,Hà Nội,20.96,18.71,25.64,20900,209
+KCN-Trường Đại Học Khoa Học Và Công Nghệ Hà Nội,2022,Công lập,Hà Nội,19.76,17.51,24.31,20900,209
+KCN-Trường Đại Học Khoa Học Và Công Nghệ Hà Nội,2023,Công lập,Hà Nội,20.08,17.81,24.7,20900,209
+KCN-Trường Đại Học Khoa Học Và Công Nghệ Hà Nội,2024,Công lập,Hà Nội,20.27,18.01,24.93,20900,209
+KCN-Trường Đại Học Khoa Học Và Công Nghệ Hà Nội,2025,Công lập,Hà Nội,20.32,18.25,24.82,20900,209
+KGH-Trường Sĩ Quan Không Quân - Hệ Đại học,2020,Quân đội/Công an,Hà Nội,17.6,16.81,18.89,600,6
+KGH-Trường Sĩ Quan Không Quân - Hệ Đại học,2021,Quân đội/Công an,Hà Nội,18.18,17.51,19.36,600,6
+KGH-Trường Sĩ Quan Không Quân - Hệ Đại học,2022,Quân đội/Công an,Hà Nội,16.88,16.27,18.06,600,6
+KGH-Trường Sĩ Quan Không Quân - Hệ Đại học,2023,Quân đội/Công an,Hà Nội,17.22,16.49,18.37,600,6
+KGH-Trường Sĩ Quan Không Quân - Hệ Đại học,2024,Quân đội/Công an,Hà Nội,17.31,16.61,18.57,600,6
+KGH-Trường Sĩ Quan Không Quân - Hệ Đại học,2025,Quân đội/Công an,Hà Nội,17.43,16.85,18.6,600,6
+KHA-Đại Học Kinh Tế Quốc Dân,2020,Công lập,Hà Nội,26.21,23.06,28.92,34800,348
+KHA-Đại Học Kinh Tế Quốc Dân,2021,Công lập,Hà Nội,26.6,23.62,29.3,34800,348
+KHA-Đại Học Kinh Tế Quốc Dân,2022,Công lập,Hà Nội,25.66,22.26,28.57,34800,348
+KHA-Đại Học Kinh Tế Quốc Dân,2023,Công lập,Hà Nội,25.89,22.56,28.73,34800,348
+KHA-Đại Học Kinh Tế Quốc Dân,2024,Công lập,Hà Nội,26.06,22.76,28.9,34800,348
+KHA-Đại Học Kinh Tế Quốc Dân,2025,Công lập,Hà Nội,26.09,23.0,28.83,34800,348
+KMA-Học Viện Kỹ Thuật Mật Mã,2020,Công lập,Hà Nội,24.11,23.49,24.51,600,6
+KMA-Học Viện Kỹ Thuật Mật Mã,2021,Công lập,Hà Nội,24.64,23.97,25.13,600,6
+KMA-Học Viện Kỹ Thuật Mật Mã,2022,Công lập,Hà Nội,23.49,22.9,23.92,600,6
+KMA-Học Viện Kỹ Thuật Mật Mã,2023,Công lập,Hà Nội,23.71,23.1,24.06,600,6
+KMA-Học Viện Kỹ Thuật Mật Mã,2024,Công lập,Hà Nội,24.09,23.55,24.49,600,6
+KMA-Học Viện Kỹ Thuật Mật Mã,2025,Công lập,Hà Nội,24.02,23.48,24.42,600,6
+KQH-Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự,2020,Quân đội/Công an,Hà Nội,28.16,26.53,29.35,800,8
+KQH-Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự,2021,Quân đội/Công an,Hà Nội,28.46,26.7,29.67,800,8
+KQH-Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự,2022,Quân đội/Công an,Hà Nội,27.74,26.0,29.02,800,8
+KQH-Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự,2023,Quân đội/Công an,Hà Nội,27.95,26.31,29.16,800,8
+KQH-Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự,2024,Quân đội/Công an,Hà Nội,28.03,26.27,29.31,800,8
+KQH-Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự,2025,Quân đội/Công an,Hà Nội,28.06,26.4,29.25,800,8
+KSA-Đại Học Kinh Tế TPHCM,2020,Công lập,TP.HCM,24.62,22.77,27.86,27700,277
+KSA-Đại Học Kinh Tế TPHCM,2021,Công lập,TP.HCM,25.09,23.25,28.17,27700,277
+KSA-Đại Học Kinh Tế TPHCM,2022,Công lập,TP.HCM,23.98,22.11,27.44,27700,277
+KSA-Đại Học Kinh Tế TPHCM,2023,Công lập,TP.HCM,24.25,22.35,27.64,27700,277
+KSA-Đại Học Kinh Tế TPHCM,2024,Công lập,TP.HCM,24.44,22.67,27.76,27700,277
+KSA-Đại Học Kinh Tế TPHCM,2025,Công lập,TP.HCM,24.49,22.8,27.7,27700,277
+KSV-Đại học Kinh Tế TPHCM - Phân hiệu Vĩnh Long,2020,Công lập,TP.HCM,18.84,16.96,22.27,6800,68
+KSV-Đại học Kinh Tế TPHCM - Phân hiệu Vĩnh Long,2021,Công lập,TP.HCM,19.33,17.45,22.82,6800,68
+KSV-Đại học Kinh Tế TPHCM - Phân hiệu Vĩnh Long,2022,Công lập,TP.HCM,18.1,16.26,21.64,6800,68
+KSV-Đại học Kinh Tế TPHCM - Phân hiệu Vĩnh Long,2023,Công lập,TP.HCM,18.44,16.59,21.88,6800,68
+KSV-Đại học Kinh Tế TPHCM - Phân hiệu Vĩnh Long,2024,Công lập,TP.HCM,18.61,16.78,22.1,6800,68
+KSV-Đại học Kinh Tế TPHCM - Phân hiệu Vĩnh Long,2025,Công lập,TP.HCM,18.68,17.0,22.0,6800,68
+KTA-Trường Đại Học Kiến Trúc Hà Nội,2020,Công lập,Hà Nội,19.27,16.06,22.28,6900,69
+KTA-Trường Đại Học Kiến Trúc Hà Nội,2021,Công lập,Hà Nội,19.76,16.56,22.81,6900,69
+KTA-Trường Đại Học Kiến Trúc Hà Nội,2022,Công lập,Hà Nội,18.59,15.35,21.51,6900,69
+KTA-Trường Đại Học Kiến Trúc Hà Nội,2023,Công lập,Hà Nội,18.88,15.65,21.94,6900,69
+KTA-Trường Đại Học Kiến Trúc Hà Nội,2024,Công lập,Hà Nội,19.09,15.87,22.12,6900,69
+KTA-Trường Đại Học Kiến Trúc Hà Nội,2025,Công lập,Hà Nội,19.13,16.1,22.0,6900,69
+KTD-Trường Đại Học Kiến Trúc Đà Nẵng,2020,Công lập,Đà Nẵng,16.23,15.96,18.16,5500,55
+KTD-Trường Đại Học Kiến Trúc Đà Nẵng,2021,Công lập,Đà Nẵng,16.69,16.45,18.73,5500,55
+KTD-Trường Đại Học Kiến Trúc Đà Nẵng,2022,Công lập,Đà Nẵng,15.46,15.25,17.55,5500,55
+KTD-Trường Đại Học Kiến Trúc Đà Nẵng,2023,Công lập,Đà Nẵng,15.8,15.55,17.69,5500,55
+KTD-Trường Đại Học Kiến Trúc Đà Nẵng,2024,Công lập,Đà Nẵng,16.01,15.75,18.0,5500,55
+KTD-Trường Đại Học Kiến Trúc Đà Nẵng,2025,Công lập,Đà Nẵng,16.04,16.0,18.0,5500,55
+KTS-Trường Đại Học Kiến Trúc TPHCM,2020,Công lập,TP.HCM,20.54,17.24,24.54,3200,32
+KTS-Trường Đại Học Kiến Trúc TPHCM,2021,Công lập,TP.HCM,21.03,17.85,24.98,3200,32
+KTS-Trường Đại Học Kiến Trúc TPHCM,2022,Công lập,TP.HCM,19.86,16.59,23.76,3200,32
+KTS-Trường Đại Học Kiến Trúc TPHCM,2023,Công lập,TP.HCM,20.17,16.77,24.15,3200,32
+KTS-Trường Đại Học Kiến Trúc TPHCM,2024,Công lập,TP.HCM,20.33,17.15,24.35,3200,32
+KTS-Trường Đại Học Kiến Trúc TPHCM,2025,Công lập,TP.HCM,20.4,17.01,24.43,3200,32
+LAH-Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn,2020,Quân đội/Công an,Hà Nội,20.51,16.09,24.3,700,7
+LAH-Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn,2021,Quân đội/Công an,Hà Nội,21.02,16.57,24.96,700,7
+LAH-Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn,2022,Quân đội/Công an,Hà Nội,19.86,15.38,23.7,700,7
+LAH-Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn,2023,Quân đội/Công an,Hà Nội,20.08,15.72,23.92,700,7
+LAH-Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn,2024,Quân đội/Công an,Hà Nội,20.32,15.91,24.13,700,7
+LAH-Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn,2025,Quân đội/Công an,Hà Nội,20.39,15.85,24.2,700,7
+LBH-Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ,2020,Quân đội/Công an,Hà Nội,22.45,21.74,24.01,1200,12
+LBH-Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ,2021,Quân đội/Công an,Hà Nội,22.99,22.34,24.54,1200,12
+LBH-Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ,2022,Quân đội/Công an,Hà Nội,21.73,21.09,23.24,1200,12
+LBH-Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ,2023,Quân đội/Công an,Hà Nội,22.06,21.44,23.5,1200,12
+LBH-Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ,2024,Quân đội/Công an,Hà Nội,22.25,21.51,23.85,1200,12
+LBH-Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ,2025,Quân đội/Công an,Hà Nội,22.29,21.75,23.72,1200,12
+LCH-Trường Sĩ Quan Chính Trị - Đại Học Chính Trị,2020,Quân đội/Công an,Hà Nội,28.36,26.91,29.25,700,7
+LCH-Trường Sĩ Quan Chính Trị - Đại Học Chính Trị,2021,Quân đội/Công an,Hà Nội,28.66,27.27,29.58,700,7
+LCH-Trường Sĩ Quan Chính Trị - Đại Học Chính Trị,2022,Quân đội/Công an,Hà Nội,27.96,26.53,28.93,700,7
+LCH-Trường Sĩ Quan Chính Trị - Đại Học Chính Trị,2023,Quân đội/Công an,Hà Nội,28.11,26.66,29.08,700,7
+LCH-Trường Sĩ Quan Chính Trị - Đại Học Chính Trị,2024,Quân đội/Công an,Hà Nội,28.26,26.86,29.22,700,7
+LCH-Trường Sĩ Quan Chính Trị - Đại Học Chính Trị,2025,Quân đội/Công an,Hà Nội,28.26,26.82,29.16,700,7
+LDA-Trường Đại Học Công Đoàn,2020,Công lập,Hà Nội,22.26,18.22,25.58,8500,85
+LDA-Trường Đại Học Công Đoàn,2021,Công lập,Hà Nội,22.75,18.77,26.04,8500,85
+LDA-Trường Đại Học Công Đoàn,2022,Công lập,Hà Nội,21.55,17.6,24.88,8500,85
+LDA-Trường Đại Học Công Đoàn,2023,Công lập,Hà Nội,21.86,17.89,25.19,8500,85
+LDA-Trường Đại Học Công Đoàn,2024,Công lập,Hà Nội,22.08,18.07,25.27,8500,85
+LDA-Trường Đại Học Công Đoàn,2025,Công lập,Hà Nội,22.11,18.2,25.25,8500,85
+LNH-Trường Đại Học Lâm nghiệp,2020,Công lập,Hà Nội,16.19,15.0,20.41,14800,148
+LNH-Trường Đại Học Lâm nghiệp,2021,Công lập,Hà Nội,16.69,15.51,20.92,14800,148
+LNH-Trường Đại Học Lâm nghiệp,2022,Công lập,Hà Nội,15.67,15.0,19.62,14800,148
+LNH-Trường Đại Học Lâm nghiệp,2023,Công lập,Hà Nội,15.85,15.0,19.98,14800,148
+LNH-Trường Đại Học Lâm nghiệp,2024,Công lập,Hà Nội,16.0,15.0,20.22,14800,148
+LNH-Trường Đại Học Lâm nghiệp,2025,Công lập,Hà Nội,16.05,15.0,20.1,14800,148
+LNS-Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai,2020,Công lập,Hà Nội,15.52,15.0,16.34,6000,60
+LNS-Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai,2021,Công lập,Hà Nội,16.01,15.46,16.84,6000,60
+LNS-Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai,2022,Công lập,Hà Nội,15.16,15.0,15.64,6000,60
+LNS-Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai,2023,Công lập,Hà Nội,15.25,15.0,15.94,6000,60
+LNS-Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai,2024,Công lập,Hà Nội,15.32,15.0,16.12,6000,60
+LNS-Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai,2025,Công lập,Hà Nội,15.33,15.0,16.0,6000,60
+LPH-Trường Đại Học Luật Hà Nội,2020,Công lập,Hà Nội,23.87,19.73,28.82,3100,31
+LPH-Trường Đại Học Luật Hà Nội,2021,Công lập,Hà Nội,24.32,20.21,29.27,3100,31
+LPH-Trường Đại Học Luật Hà Nội,2022,Công lập,Hà Nội,23.17,19.08,28.38,3100,31
+LPH-Trường Đại Học Luật Hà Nội,2023,Công lập,Hà Nội,23.47,19.3,28.7,3100,31
+LPH-Trường Đại Học Luật Hà Nội,2024,Công lập,Hà Nội,23.66,19.53,28.75,3100,31
+LPH-Trường Đại Học Luật Hà Nội,2025,Công lập,Hà Nội,23.71,19.75,28.79,3100,31
+LPS-Trường Đại Học Luật TPHCM,2020,Công lập,TP.HCM,21.06,18.15,25.65,2800,28
+LPS-Trường Đại Học Luật TPHCM,2021,Công lập,TP.HCM,21.55,18.77,25.91,2800,28
+LPS-Trường Đại Học Luật TPHCM,2022,Công lập,TP.HCM,20.37,17.58,24.87,2800,28
+LPS-Trường Đại Học Luật TPHCM,2023,Công lập,TP.HCM,20.68,17.98,25.22,2800,28
+LPS-Trường Đại Học Luật TPHCM,2024,Công lập,TP.HCM,20.88,18.19,25.45,2800,28
+LPS-Trường Đại Học Luật TPHCM,2025,Công lập,TP.HCM,20.92,18.12,25.35,2800,28
+MBS-Trường Đại Học Mở TPHCM,2020,Công lập,TP.HCM,20.06,15.0,25.3,56800,568
+MBS-Trường Đại Học Mở TPHCM,2021,Công lập,TP.HCM,20.55,15.45,25.82,56800,568
+MBS-Trường Đại Học Mở TPHCM,2022,Công lập,TP.HCM,19.43,15.0,24.65,56800,568
+MBS-Trường Đại Học Mở TPHCM,2023,Công lập,TP.HCM,19.69,15.0,24.93,56800,568
+MBS-Trường Đại Học Mở TPHCM,2024,Công lập,TP.HCM,19.87,15.0,25.15,56800,568
+MBS-Trường Đại Học Mở TPHCM,2025,Công lập,TP.HCM,19.91,15.0,25.0,56800,568
+MDA-Trường Đại Học Mỏ Địa Chất,2020,Công lập,Hà Nội,18.56,15.0,25.8,32600,326
+MDA-Trường Đại Học Mỏ Địa Chất,2021,Công lập,Hà Nội,19.05,15.45,26.34,32600,326
+MDA-Trường Đại Học Mỏ Địa Chất,2022,Công lập,Hà Nội,17.95,15.0,25.12,32600,326
+MDA-Trường Đại Học Mỏ Địa Chất,2023,Công lập,Hà Nội,18.19,15.0,25.45,32600,326
+MDA-Trường Đại Học Mỏ Địa Chất,2024,Công lập,Hà Nội,18.37,15.0,25.56,32600,326
+MDA-Trường Đại Học Mỏ Địa Chất,2025,Công lập,Hà Nội,18.4,15.0,25.5,32600,326
+MHN-Trường Đại Học Mở Hà Nội,2020,Công lập,Hà Nội,20.39,17.2,25.46,5300,53
+MHN-Trường Đại Học Mở Hà Nội,2021,Công lập,Hà Nội,20.87,17.53,25.62,5300,53
+MHN-Trường Đại Học Mở Hà Nội,2022,Công lập,Hà Nội,19.68,16.35,24.65,5300,53
+MHN-Trường Đại Học Mở Hà Nội,2023,Công lập,Hà Nội,19.99,16.69,24.94,5300,53
+MHN-Trường Đại Học Mở Hà Nội,2024,Công lập,Hà Nội,20.15,16.84,25.01,5300,53
+MHN-Trường Đại Học Mở Hà Nội,2025,Công lập,Hà Nội,20.23,17.03,25.17,5300,53
+MIT-Trường Đại học Công nghệ Miền Đông,2020,Công lập,Hà Nội,15.55,15.0,19.33,13000,130
+MIT-Trường Đại học Công nghệ Miền Đông,2021,Công lập,Hà Nội,16.07,15.46,19.84,13000,130
+MIT-Trường Đại học Công nghệ Miền Đông,2022,Công lập,Hà Nội,15.34,15.0,18.65,13000,130
+MIT-Trường Đại học Công nghệ Miền Đông,2023,Công lập,Hà Nội,15.37,15.0,18.93,13000,130
+MIT-Trường Đại học Công nghệ Miền Đông,2024,Công lập,Hà Nội,15.42,15.0,19.15,13000,130
+MIT-Trường Đại học Công nghệ Miền Đông,2025,Công lập,Hà Nội,15.4,15.0,19.0,13000,130
+MTC-Trường Đại Học Mỹ Thuật Công Nghiệp,2020,Công lập,Hà Nội,23.31,22.55,24.47,700,7
+MTC-Trường Đại Học Mỹ Thuật Công Nghiệp,2021,Công lập,Hà Nội,23.79,23.07,25.1,700,7
+MTC-Trường Đại Học Mỹ Thuật Công Nghiệp,2022,Công lập,Hà Nội,22.57,21.85,23.78,700,7
+MTC-Trường Đại Học Mỹ Thuật Công Nghiệp,2023,Công lập,Hà Nội,22.84,22.28,23.82,700,7
+MTC-Trường Đại Học Mỹ Thuật Công Nghiệp,2024,Công lập,Hà Nội,23.03,22.4,24.14,700,7
+MTC-Trường Đại Học Mỹ Thuật Công Nghiệp,2025,Công lập,Hà Nội,23.13,22.54,24.26,700,7
+MTH-Trường Đại Học Mỹ Thuật Việt Nam,2020,Công lập,Hà Nội,27.88,27.88,27.88,100,1
+MTH-Trường Đại Học Mỹ Thuật Việt Nam,2021,Công lập,Hà Nội,28.23,28.23,28.23,100,1
+MTH-Trường Đại Học Mỹ Thuật Việt Nam,2022,Công lập,Hà Nội,27.53,27.53,27.53,100,1
+MTH-Trường Đại Học Mỹ Thuật Việt Nam,2023,Công lập,Hà Nội,27.6,27.6,27.6,100,1
+MTH-Trường Đại Học Mỹ Thuật Việt Nam,2024,Công lập,Hà Nội,27.68,27.68,27.68,100,1
+MTH-Trường Đại Học Mỹ Thuật Việt Nam,2025,Công lập,Hà Nội,27.8,27.8,27.8,100,1
+MTS-Trường Đại Học Mỹ Thuật TPHCM,2020,Công lập,TP.HCM,22.32,18.5,24.58,500,5
+MTS-Trường Đại Học Mỹ Thuật TPHCM,2021,Công lập,TP.HCM,22.72,18.96,24.99,500,5
+MTS-Trường Đại Học Mỹ Thuật TPHCM,2022,Công lập,TP.HCM,21.64,18.13,23.82,500,5
+MTS-Trường Đại Học Mỹ Thuật TPHCM,2023,Công lập,TP.HCM,21.8,18.22,24.1,500,5
+MTS-Trường Đại Học Mỹ Thuật TPHCM,2024,Công lập,TP.HCM,22.08,18.64,24.35,500,5
+MTS-Trường Đại Học Mỹ Thuật TPHCM,2025,Công lập,TP.HCM,22.1,18.5,24.25,500,5
+MTU-Trường Đại Học Xây Dựng Miền Tây,2020,Công lập,Hà Nội,15.16,15.0,15.34,8300,83
+MTU-Trường Đại Học Xây Dựng Miền Tây,2021,Công lập,Hà Nội,15.68,15.45,15.85,8300,83
+MTU-Trường Đại Học Xây Dựng Miền Tây,2022,Công lập,Hà Nội,15.0,15.0,15.0,8300,83
+MTU-Trường Đại Học Xây Dựng Miền Tây,2023,Công lập,Hà Nội,15.0,15.0,15.0,8300,83
+MTU-Trường Đại Học Xây Dựng Miền Tây,2024,Công lập,Hà Nội,15.04,15.0,15.14,8300,83
+MTU-Trường Đại Học Xây Dựng Miền Tây,2025,Công lập,Hà Nội,15.0,15.0,15.0,8300,83
+NHB-Học Viện Ngân Hàng (Phân Viện Bắc Ninh),2020,Công lập,Hà Nội,20.89,20.43,21.56,1600,16
+NHB-Học Viện Ngân Hàng (Phân Viện Bắc Ninh),2021,Công lập,Hà Nội,21.46,21.04,22.05,1600,16
+NHB-Học Viện Ngân Hàng (Phân Viện Bắc Ninh),2022,Công lập,Hà Nội,20.22,19.77,20.8,1600,16
+NHB-Học Viện Ngân Hàng (Phân Viện Bắc Ninh),2023,Công lập,Hà Nội,20.53,20.06,21.19,1600,16
+NHB-Học Viện Ngân Hàng (Phân Viện Bắc Ninh),2024,Công lập,Hà Nội,20.75,20.22,21.36,1600,16
+NHB-Học Viện Ngân Hàng (Phân Viện Bắc Ninh),2025,Công lập,Hà Nội,20.76,20.35,21.25,1600,16
+NHF-Trường Đại Học Hà Nội,2020,Công lập,Hà Nội,26.22,22.28,29.17,3100,31
+NHF-Trường Đại Học Hà Nội,2021,Công lập,Hà Nội,26.63,22.89,29.32,3100,31
+NHF-Trường Đại Học Hà Nội,2022,Công lập,Hà Nội,25.73,21.72,28.65,3100,31
+NHF-Trường Đại Học Hà Nội,2023,Công lập,Hà Nội,25.96,21.91,28.91,3100,31
+NHF-Trường Đại Học Hà Nội,2024,Công lập,Hà Nội,26.1,21.91,29.05,3100,31
+NHF-Trường Đại Học Hà Nội,2025,Công lập,Hà Nội,26.15,22.1,29.0,3100,31
+NHH-Học Viện Ngân Hàng,2020,Công lập,Hà Nội,23.25,20.96,27.03,14400,144
+NHH-Học Viện Ngân Hàng,2021,Công lập,Hà Nội,23.76,21.45,27.34,14400,144
+NHH-Học Viện Ngân Hàng,2022,Công lập,Hà Nội,22.58,20.36,26.72,14400,144
+NHH-Học Viện Ngân Hàng,2023,Công lập,Hà Nội,22.86,20.56,26.78,14400,144
+NHH-Học Viện Ngân Hàng,2024,Công lập,Hà Nội,23.06,20.75,26.96,14400,144
+NHH-Học Viện Ngân Hàng,2025,Công lập,Hà Nội,23.12,21.0,26.97,14400,144
+NHP-Học Viện Ngân Hàng (Phân Viện Phú Yên),2020,Công lập,Hà Nội,15.12,15.0,15.33,2000,20
+NHP-Học Viện Ngân Hàng (Phân Viện Phú Yên),2021,Công lập,Hà Nội,15.66,15.47,15.85,2000,20
+NHP-Học Viện Ngân Hàng (Phân Viện Phú Yên),2022,Công lập,Hà Nội,15.0,15.0,15.0,2000,20
+NHP-Học Viện Ngân Hàng (Phân Viện Phú Yên),2023,Công lập,Hà Nội,15.0,15.0,15.0,2000,20
+NHP-Học Viện Ngân Hàng (Phân Viện Phú Yên),2024,Công lập,Hà Nội,15.03,15.0,15.15,2000,20
+NHP-Học Viện Ngân Hàng (Phân Viện Phú Yên),2025,Công lập,Hà Nội,15.0,15.0,15.0,2000,20
+NHS-Trường Đại Học Ngân Hàng TPHCM,2020,Công lập,TP.HCM,21.47,18.49,23.89,10300,103
+NHS-Trường Đại Học Ngân Hàng TPHCM,2021,Công lập,TP.HCM,21.95,18.91,24.4,10300,103
+NHS-Trường Đại Học Ngân Hàng TPHCM,2022,Công lập,TP.HCM,20.77,17.8,23.23,10300,103
+NHS-Trường Đại Học Ngân Hàng TPHCM,2023,Công lập,TP.HCM,21.06,18.13,23.5,10300,103
+NHS-Trường Đại Học Ngân Hàng TPHCM,2024,Công lập,TP.HCM,21.27,18.24,23.73,10300,103
+NHS-Trường Đại Học Ngân Hàng TPHCM,2025,Công lập,TP.HCM,21.3,18.35,23.6,10300,103
+NLG-Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai,2020,Công lập,TP.HCM,18.11,15.99,21.18,2000,20
+NLG-Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai,2021,Công lập,TP.HCM,18.57,16.46,21.65,2000,20
+NLG-Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai,2022,Công lập,TP.HCM,17.49,15.44,20.61,2000,20
+NLG-Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai,2023,Công lập,TP.HCM,17.7,15.56,20.8,2000,20
+NLG-Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai,2024,Công lập,TP.HCM,17.91,15.76,21.14,2000,20
+NLG-Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai,2025,Công lập,TP.HCM,18.0,16.0,21.0,2000,20
+NLN-Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận,2020,Công lập,TP.HCM,16.82,15.99,18.24,3100,31
+NLN-Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận,2021,Công lập,TP.HCM,17.35,16.45,18.84,3100,31
+NLN-Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận,2022,Công lập,TP.HCM,16.11,15.26,17.42,3100,31
+NLN-Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận,2023,Công lập,TP.HCM,16.42,15.55,17.9,3100,31
+NLN-Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận,2024,Công lập,TP.HCM,16.63,15.81,18.12,3100,31
+NLN-Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận,2025,Công lập,TP.HCM,16.68,16.0,18.0,3100,31
+NLS-Trường Đại Học Nông Lâm TPHCM,2020,Công lập,TP.HCM,21.92,15.96,25.16,22700,227
+NLS-Trường Đại Học Nông Lâm TPHCM,2021,Công lập,TP.HCM,22.43,16.48,25.71,22700,227
+NLS-Trường Đại Học Nông Lâm TPHCM,2022,Công lập,TP.HCM,21.22,15.28,24.47,22700,227
+NLS-Trường Đại Học Nông Lâm TPHCM,2023,Công lập,TP.HCM,21.53,15.56,24.84,22700,227
+NLS-Trường Đại Học Nông Lâm TPHCM,2024,Công lập,TP.HCM,21.73,15.77,25.02,22700,227
+NLS-Trường Đại Học Nông Lâm TPHCM,2025,Công lập,TP.HCM,21.79,16.0,24.9,22700,227
+NQH-Học Viện Khoa Học Quân Sự - Hệ Quân sự,2020,Quân đội/Công an,Hà Nội,27.04,24.32,30.0,1600,16
+NQH-Học Viện Khoa Học Quân Sự - Hệ Quân sự,2021,Quân đội/Công an,Hà Nội,27.38,24.74,30.0,1600,16
+NQH-Học Viện Khoa Học Quân Sự - Hệ Quân sự,2022,Quân đội/Công an,Hà Nội,26.52,23.47,29.64,1600,16
+NQH-Học Viện Khoa Học Quân Sự - Hệ Quân sự,2023,Quân đội/Công an,Hà Nội,26.73,23.83,29.77,1600,16
+NQH-Học Viện Khoa Học Quân Sự - Hệ Quân sự,2024,Quân đội/Công an,Hà Nội,26.92,24.12,29.95,1600,16
+NQH-Học Viện Khoa Học Quân Sự - Hệ Quân sự,2025,Quân đội/Công an,Hà Nội,26.92,24.19,30.0,1600,16
+NTH-Trường Đại học Ngoại thương,2020,Công lập,Hà Nội,26.5,24.02,30.0,9800,98
+NTH-Trường Đại học Ngoại thương,2021,Công lập,Hà Nội,26.86,24.5,30.0,9800,98
+NTH-Trường Đại học Ngoại thương,2022,Công lập,Hà Nội,25.95,23.29,29.76,9800,98
+NTH-Trường Đại học Ngoại thương,2023,Công lập,Hà Nội,26.19,23.61,29.93,9800,98
+NTH-Trường Đại học Ngoại thương,2024,Công lập,Hà Nội,26.35,23.76,29.95,9800,98
+NTH-Trường Đại học Ngoại thương,2025,Công lập,Hà Nội,26.38,24.0,30.0,9800,98
+NTS-Trường Đại học Ngoại thương (Cơ sở II),2020,Công lập,Hà Nội,26.71,25.56,28.45,3400,34
+NTS-Trường Đại học Ngoại thương (Cơ sở II),2021,Công lập,Hà Nội,27.05,26.01,28.74,3400,34
+NTS-Trường Đại học Ngoại thương (Cơ sở II),2022,Công lập,Hà Nội,26.2,24.85,28.06,3400,34
+NTS-Trường Đại học Ngoại thương (Cơ sở II),2023,Công lập,Hà Nội,26.4,25.14,28.23,3400,34
+NTS-Trường Đại học Ngoại thương (Cơ sở II),2024,Công lập,Hà Nội,26.54,25.24,28.29,3400,34
+NTS-Trường Đại học Ngoại thương (Cơ sở II),2025,Công lập,Hà Nội,26.59,25.45,28.3,3400,34
+NTT-Trường Đại Học Nguyễn Tất Thành,2020,Công lập,Hà Nội,15.54,15.0,20.74,31800,318
+NTT-Trường Đại Học Nguyễn Tất Thành,2021,Công lập,Hà Nội,16.03,15.45,21.17,31800,318
+NTT-Trường Đại Học Nguyễn Tất Thành,2022,Công lập,Hà Nội,15.31,15.0,20.14,31800,318
+NTT-Trường Đại Học Nguyễn Tất Thành,2023,Công lập,Hà Nội,15.34,15.0,20.4,31800,318
+NTT-Trường Đại Học Nguyễn Tất Thành,2024,Công lập,Hà Nội,15.39,15.0,20.62,31800,318
+NTT-Trường Đại Học Nguyễn Tất Thành,2025,Công lập,Hà Nội,15.37,15.0,20.5,31800,318
+NTU-Trường Đại Học Nguyễn Trãi,2020,Công lập,Hà Nội,15.53,15.0,18.03,6800,68
+NTU-Trường Đại Học Nguyễn Trãi,2021,Công lập,Hà Nội,16.05,15.45,18.53,6800,68
+NTU-Trường Đại Học Nguyễn Trãi,2022,Công lập,Hà Nội,15.28,15.0,17.23,6800,68
+NTU-Trường Đại Học Nguyễn Trãi,2023,Công lập,Hà Nội,15.34,15.0,17.62,6800,68
+NTU-Trường Đại Học Nguyễn Trãi,2024,Công lập,Hà Nội,15.4,15.0,17.82,6800,68
+NTU-Trường Đại Học Nguyễn Trãi,2025,Công lập,Hà Nội,15.38,15.0,17.7,6800,68
+PBH-Trường Sĩ Quan Pháo Binh,2020,Quân đội/Công an,Hà Nội,23.51,22.23,24.72,600,6
+PBH-Trường Sĩ Quan Pháo Binh,2021,Quân đội/Công an,Hà Nội,24.04,22.93,25.14,600,6
+PBH-Trường Sĩ Quan Pháo Binh,2022,Quân đội/Công an,Hà Nội,22.83,21.54,24.03,600,6
+PBH-Trường Sĩ Quan Pháo Binh,2023,Quân đội/Công an,Hà Nội,23.04,21.83,24.21,600,6
+PBH-Trường Sĩ Quan Pháo Binh,2024,Quân đội/Công an,Hà Nội,23.16,22.01,24.47,600,6
+PBH-Trường Sĩ Quan Pháo Binh,2025,Quân đội/Công an,Hà Nội,23.32,22.25,24.4,600,6
+PCH-Trường Đại Học Phòng Cháy Chữa Cháy (Phía Bắc),2020,Công lập,Hà Nội,22.83,21.05,24.55,800,8
+PCH-Trường Đại Học Phòng Cháy Chữa Cháy (Phía Bắc),2021,Công lập,Hà Nội,23.3,21.64,25.03,800,8
+PCH-Trường Đại Học Phòng Cháy Chữa Cháy (Phía Bắc),2022,Công lập,Hà Nội,22.05,20.37,23.71,800,8
+PCH-Trường Đại Học Phòng Cháy Chữa Cháy (Phía Bắc),2023,Công lập,Hà Nội,22.4,20.74,24.13,800,8
+PCH-Trường Đại Học Phòng Cháy Chữa Cháy (Phía Bắc),2024,Công lập,Hà Nội,22.66,21.03,24.31,800,8
+PCH-Trường Đại Học Phòng Cháy Chữa Cháy (Phía Bắc),2025,Công lập,Hà Nội,22.66,21.1,24.23,800,8
+PCS-Trường Đại Học Phòng Cháy Chữa Cháy (phía Nam),2020,Công lập,Hà Nội,21.84,19.83,23.89,800,8
+PCS-Trường Đại Học Phòng Cháy Chữa Cháy (phía Nam),2021,Công lập,Hà Nội,22.32,20.26,24.4,800,8
+PCS-Trường Đại Học Phòng Cháy Chữa Cháy (phía Nam),2022,Công lập,Hà Nội,21.12,19.01,23.23,800,8
+PCS-Trường Đại Học Phòng Cháy Chữa Cháy (phía Nam),2023,Công lập,Hà Nội,21.4,19.36,23.55,800,8
+PCS-Trường Đại Học Phòng Cháy Chữa Cháy (phía Nam),2024,Công lập,Hà Nội,21.69,19.68,23.75,800,8
+PCS-Trường Đại Học Phòng Cháy Chữa Cháy (phía Nam),2025,Công lập,Hà Nội,21.68,19.75,23.62,800,8
+PKA-Đại Học Phenikaa,2020,Tư thục,Hà Nội,19.43,16.97,25.84,31700,317
+PKA-Đại Học Phenikaa,2021,Tư thục,Hà Nội,19.93,17.46,26.34,31700,317
+PKA-Đại Học Phenikaa,2022,Tư thục,Hà Nội,18.74,16.25,25.13,31700,317
+PKA-Đại Học Phenikaa,2023,Tư thục,Hà Nội,19.04,16.57,25.35,31700,317
+PKA-Đại Học Phenikaa,2024,Tư thục,Hà Nội,19.24,16.76,25.57,31700,317
+PKA-Đại Học Phenikaa,2025,Tư thục,Hà Nội,19.28,17.0,25.5,31700,317
+PKH-Học Viện Phòng Không – Không Quân,2020,Quân đội/Công an,Hà Nội,25.08,23.39,26.68,1200,12
+PKH-Học Viện Phòng Không – Không Quân,2021,Quân đội/Công an,Hà Nội,25.52,23.7,26.96,1200,12
+PKH-Học Viện Phòng Không – Không Quân,2022,Quân đội/Công an,Hà Nội,24.41,22.56,26.22,1200,12
+PKH-Học Viện Phòng Không – Không Quân,2023,Quân đội/Công an,Hà Nội,24.74,22.92,26.44,1200,12
+PKH-Học Viện Phòng Không – Không Quân,2024,Quân đội/Công an,Hà Nội,24.9,23.04,26.55,1200,12
+PKH-Học Viện Phòng Không – Không Quân,2025,Quân đội/Công an,Hà Nội,24.91,23.25,26.5,1200,12
+PVU-Trường Đại Học Dầu Khí Việt Nam,2020,Công lập,Hà Nội,20.14,19.97,20.34,2100,21
+PVU-Trường Đại Học Dầu Khí Việt Nam,2021,Công lập,Hà Nội,20.65,20.46,20.83,2100,21
+PVU-Trường Đại Học Dầu Khí Việt Nam,2022,Công lập,Hà Nội,19.46,19.25,19.65,2100,21
+PVU-Trường Đại Học Dầu Khí Việt Nam,2023,Công lập,Hà Nội,19.73,19.56,19.95,2100,21
+PVU-Trường Đại Học Dầu Khí Việt Nam,2024,Công lập,Hà Nội,19.94,19.8,20.13,2100,21
+PVU-Trường Đại Học Dầu Khí Việt Nam,2025,Công lập,Hà Nội,20.0,20.0,20.0,2100,21
+QHD-Trường Quản Trị và Kinh Doanh - ĐHQG Hà Nội,2020,Công lập,Hà Nội,19.92,18.96,21.84,3600,36
+QHD-Trường Quản Trị và Kinh Doanh - ĐHQG Hà Nội,2021,Công lập,Hà Nội,20.42,19.51,22.34,3600,36
+QHD-Trường Quản Trị và Kinh Doanh - ĐHQG Hà Nội,2022,Công lập,Hà Nội,19.19,18.26,21.14,3600,36
+QHD-Trường Quản Trị và Kinh Doanh - ĐHQG Hà Nội,2023,Công lập,Hà Nội,19.52,18.62,21.4,3600,36
+QHD-Trường Quản Trị và Kinh Doanh - ĐHQG Hà Nội,2024,Công lập,Hà Nội,19.71,18.78,21.53,3600,36
+QHD-Trường Quản Trị và Kinh Doanh - ĐHQG Hà Nội,2025,Công lập,Hà Nội,19.75,19.0,21.5,3600,36
+QHE-Trường Đại Học Kinh Tế - ĐHQG Hà Nội,2020,Công lập,Hà Nội,24.74,24.17,26.04,4200,42
+QHE-Trường Đại Học Kinh Tế - ĐHQG Hà Nội,2021,Công lập,Hà Nội,25.25,24.66,26.55,4200,42
+QHE-Trường Đại Học Kinh Tế - ĐHQG Hà Nội,2022,Công lập,Hà Nội,24.04,23.49,25.3,4200,42
+QHE-Trường Đại Học Kinh Tế - ĐHQG Hà Nội,2023,Công lập,Hà Nội,24.35,23.81,25.61,4200,42
+QHE-Trường Đại Học Kinh Tế - ĐHQG Hà Nội,2024,Công lập,Hà Nội,24.54,23.95,25.81,4200,42
+QHE-Trường Đại Học Kinh Tế - ĐHQG Hà Nội,2025,Công lập,Hà Nội,24.6,24.2,25.72,4200,42
+QHF-Trường Đại Học Ngoại Ngữ - Đại học Quốc gia Hà Nội,2020,Công lập,Hà Nội,25.24,15.02,30.0,13200,132
+QHF-Trường Đại Học Ngoại Ngữ - Đại học Quốc gia Hà Nội,2021,Công lập,Hà Nội,25.62,15.6,30.0,13200,132
+QHF-Trường Đại Học Ngoại Ngữ - Đại học Quốc gia Hà Nội,2022,Công lập,Hà Nội,24.68,15.0,29.77,13200,132
+QHF-Trường Đại Học Ngoại Ngữ - Đại học Quốc gia Hà Nội,2023,Công lập,Hà Nội,24.91,15.0,29.94,13200,132
+QHF-Trường Đại Học Ngoại Ngữ - Đại học Quốc gia Hà Nội,2024,Công lập,Hà Nội,25.09,15.0,30.0,13200,132
+QHF-Trường Đại Học Ngoại Ngữ - Đại học Quốc gia Hà Nội,2025,Công lập,Hà Nội,25.13,15.06,30.0,13200,132
+QHI-Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội,2020,Công lập,Hà Nội,25.74,21.99,28.25,6200,62
+QHI-Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội,2021,Công lập,Hà Nội,26.13,22.46,28.67,6200,62
+QHI-Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội,2022,Công lập,Hà Nội,25.19,21.29,27.91,6200,62
+QHI-Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội,2023,Công lập,Hà Nội,25.45,21.7,28.05,6200,62
+QHI-Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội,2024,Công lập,Hà Nội,25.6,21.91,28.25,6200,62
+QHI-Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội,2025,Công lập,Hà Nội,25.63,22.0,28.19,6200,62
+QHK-Trường Khoa học liên ngành và Nghệ thuật Hà Nội,2020,Công lập,Hà Nội,24.6,21.58,27.24,8900,89
+QHK-Trường Khoa học liên ngành và Nghệ thuật Hà Nội,2021,Công lập,Hà Nội,25.09,22.22,27.46,8900,89
+QHK-Trường Khoa học liên ngành và Nghệ thuật Hà Nội,2022,Công lập,Hà Nội,23.94,21.16,26.81,8900,89
+QHK-Trường Khoa học liên ngành và Nghệ thuật Hà Nội,2023,Công lập,Hà Nội,24.23,21.38,27.0,8900,89
+QHK-Trường Khoa học liên ngành và Nghệ thuật Hà Nội,2024,Công lập,Hà Nội,24.43,21.39,27.0,8900,89
+QHK-Trường Khoa học liên ngành và Nghệ thuật Hà Nội,2025,Công lập,Hà Nội,24.46,21.6,27.1,8900,89
+QHL-Trường Đại học Luật – ĐHQG Hà Nội,2020,Công lập,Hà Nội,24.19,23.71,24.53,2400,24
+QHL-Trường Đại học Luật – ĐHQG Hà Nội,2021,Công lập,Hà Nội,24.61,24.17,24.99,2400,24
+QHL-Trường Đại học Luật – ĐHQG Hà Nội,2022,Công lập,Hà Nội,23.5,23.01,23.84,2400,24
+QHL-Trường Đại học Luật – ĐHQG Hà Nội,2023,Công lập,Hà Nội,23.79,23.4,24.06,2400,24
+QHL-Trường Đại học Luật – ĐHQG Hà Nội,2024,Công lập,Hà Nội,23.97,23.5,24.32,2400,24
+QHL-Trường Đại học Luật – ĐHQG Hà Nội,2025,Công lập,Hà Nội,24.03,23.72,24.2,2400,24
+QHQ-Trường Quốc Tế - ĐHQG Hà Nội,2020,Tư thục,Hà Nội,20.3,18.95,22.32,9300,93
+QHQ-Trường Quốc Tế - ĐHQG Hà Nội,2021,Tư thục,Hà Nội,20.77,19.51,22.81,9300,93
+QHQ-Trường Quốc Tế - ĐHQG Hà Nội,2022,Tư thục,Hà Nội,19.6,18.28,21.64,9300,93
+QHQ-Trường Quốc Tế - ĐHQG Hà Nội,2023,Tư thục,Hà Nội,19.89,18.57,21.94,9300,93
+QHQ-Trường Quốc Tế - ĐHQG Hà Nội,2024,Tư thục,Hà Nội,20.1,18.82,22.14,9300,93
+QHQ-Trường Quốc Tế - ĐHQG Hà Nội,2025,Tư thục,Hà Nội,20.13,19.0,22.0,9300,93
+QHS-Trường Đại Học Giáo Dục - ĐHQG Hà Nội,2020,Công lập,Hà Nội,27.77,25.42,29.91,5000,50
+QHS-Trường Đại Học Giáo Dục - ĐHQG Hà Nội,2021,Công lập,Hà Nội,28.12,25.84,30.0,5000,50
+QHS-Trường Đại Học Giáo Dục - ĐHQG Hà Nội,2022,Công lập,Hà Nội,27.27,24.68,29.57,5000,50
+QHS-Trường Đại Học Giáo Dục - ĐHQG Hà Nội,2023,Công lập,Hà Nội,27.48,24.95,29.77,5000,50
+QHS-Trường Đại Học Giáo Dục - ĐHQG Hà Nội,2024,Công lập,Hà Nội,27.63,25.17,29.77,5000,50
+QHS-Trường Đại Học Giáo Dục - ĐHQG Hà Nội,2025,Công lập,Hà Nội,27.67,25.37,29.84,5000,50
+QHT-Trường Đại Học Khoa Học Tự Nhiên Hà Nội,2020,Công lập,Hà Nội,22.88,20.03,26.21,25900,259
+QHT-Trường Đại Học Khoa Học Tự Nhiên Hà Nội,2021,Công lập,Hà Nội,23.37,20.51,26.73,25900,259
+QHT-Trường Đại Học Khoa Học Tự Nhiên Hà Nội,2022,Công lập,Hà Nội,22.18,19.3,25.71,25900,259
+QHT-Trường Đại Học Khoa Học Tự Nhiên Hà Nội,2023,Công lập,Hà Nội,22.48,19.61,25.91,25900,259
+QHT-Trường Đại Học Khoa Học Tự Nhiên Hà Nội,2024,Công lập,Hà Nội,22.69,19.86,26.03,25900,259
+QHT-Trường Đại Học Khoa Học Tự Nhiên Hà Nội,2025,Công lập,Hà Nội,22.74,20.05,26.0,25900,259
+QHX-Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội,2020,Công lập,Hà Nội,25.37,21.84,29.13,19100,191
+QHX-Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội,2021,Công lập,Hà Nội,25.83,22.24,29.41,19100,191
+QHX-Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội,2022,Công lập,Hà Nội,24.73,21.07,28.64,19100,191
+QHX-Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội,2023,Công lập,Hà Nội,25.01,21.44,28.93,19100,191
+QHX-Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội,2024,Công lập,Hà Nội,25.17,21.65,29.0,19100,191
+QHX-Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội,2025,Công lập,Hà Nội,25.22,21.75,29.0,19100,191
+QHY-Trường Đại học Y Dược - ĐHQG Hà Nội,2020,Công lập,Hà Nội,22.69,17.92,27.43,1200,12
+QHY-Trường Đại học Y Dược - ĐHQG Hà Nội,2021,Công lập,Hà Nội,23.16,18.46,27.9,1200,12
+QHY-Trường Đại học Y Dược - ĐHQG Hà Nội,2022,Công lập,Hà Nội,22.06,17.28,27.01,1200,12
+QHY-Trường Đại học Y Dược - ĐHQG Hà Nội,2023,Công lập,Hà Nội,22.32,17.57,27.36,1200,12
+QHY-Trường Đại học Y Dược - ĐHQG Hà Nội,2024,Công lập,Hà Nội,22.54,17.81,27.42,1200,12
+QHY-Trường Đại học Y Dược - ĐHQG Hà Nội,2025,Công lập,Hà Nội,22.54,17.75,27.43,1200,12
+QSA-Trường Đại Học An Giang,2020,Công lập,Hà Nội,19.74,15.95,28.91,87400,874
+QSA-Trường Đại Học An Giang,2021,Công lập,Hà Nội,20.22,16.45,29.14,87400,874
+QSA-Trường Đại Học An Giang,2022,Công lập,Hà Nội,19.05,15.25,28.44,87400,874
+QSA-Trường Đại Học An Giang,2023,Công lập,Hà Nội,19.34,15.55,28.53,87400,874
+QSA-Trường Đại Học An Giang,2024,Công lập,Hà Nội,19.54,15.75,28.7,87400,874
+QSA-Trường Đại Học An Giang,2025,Công lập,Hà Nội,19.59,16.0,28.75,87400,874
+QSC-Trường Đại Học Công Nghệ Thông Tin - ĐHQG TPHCM,2020,Công lập,TP.HCM,25.94,24.01,29.75,5600,56
+QSC-Trường Đại Học Công Nghệ Thông Tin - ĐHQG TPHCM,2021,Công lập,TP.HCM,26.37,24.58,30.0,5600,56
+QSC-Trường Đại Học Công Nghệ Thông Tin - ĐHQG TPHCM,2022,Công lập,TP.HCM,25.39,23.35,29.33,5600,56
+QSC-Trường Đại Học Công Nghệ Thông Tin - ĐHQG TPHCM,2023,Công lập,TP.HCM,25.64,23.78,29.45,5600,56
+QSC-Trường Đại Học Công Nghệ Thông Tin - ĐHQG TPHCM,2024,Công lập,TP.HCM,25.79,23.82,29.65,5600,56
+QSC-Trường Đại Học Công Nghệ Thông Tin - ĐHQG TPHCM,2025,Công lập,TP.HCM,25.83,24.0,29.6,5600,56
+QSK-Trường Đại học Kinh Tế Luật TPHCM,2020,Công lập,TP.HCM,25.76,23.54,28.24,14000,140
+QSK-Trường Đại học Kinh Tế Luật TPHCM,2021,Công lập,TP.HCM,26.19,24.08,28.54,14000,140
+QSK-Trường Đại học Kinh Tế Luật TPHCM,2022,Công lập,TP.HCM,25.17,22.76,27.79,14000,140
+QSK-Trường Đại học Kinh Tế Luật TPHCM,2023,Công lập,TP.HCM,25.44,23.25,27.87,14000,140
+QSK-Trường Đại học Kinh Tế Luật TPHCM,2024,Công lập,TP.HCM,25.6,23.44,28.11,14000,140
+QSK-Trường Đại học Kinh Tế Luật TPHCM,2025,Công lập,TP.HCM,25.64,23.5,28.08,14000,140
+QSQ-Trường Đại Học Quốc Tế - ĐHQG TPHCM,2020,Tư thục,TP.HCM,20.51,17.64,26.13,4500,45
+QSQ-Trường Đại Học Quốc Tế - ĐHQG TPHCM,2021,Tư thục,TP.HCM,20.99,18.05,26.49,4500,45
+QSQ-Trường Đại Học Quốc Tế - ĐHQG TPHCM,2022,Tư thục,TP.HCM,19.84,16.76,25.75,4500,45
+QSQ-Trường Đại Học Quốc Tế - ĐHQG TPHCM,2023,Tư thục,TP.HCM,20.11,17.08,25.94,4500,45
+QSQ-Trường Đại Học Quốc Tế - ĐHQG TPHCM,2024,Tư thục,TP.HCM,20.31,17.34,26.02,4500,45
+QSQ-Trường Đại Học Quốc Tế - ĐHQG TPHCM,2025,Tư thục,TP.HCM,20.34,17.5,26.0,4500,45
+QST-Trường Đại Học Khoa Học Tự Nhiên TPHCM,2020,Công lập,TP.HCM,23.64,17.06,29.99,20000,200
+QST-Trường Đại Học Khoa Học Tự Nhiên TPHCM,2021,Công lập,TP.HCM,24.09,17.55,30.0,20000,200
+QST-Trường Đại Học Khoa Học Tự Nhiên TPHCM,2022,Công lập,TP.HCM,23.0,16.47,29.64,20000,200
+QST-Trường Đại Học Khoa Học Tự Nhiên TPHCM,2023,Công lập,TP.HCM,23.27,16.81,29.72,20000,200
+QST-Trường Đại Học Khoa Học Tự Nhiên TPHCM,2024,Công lập,TP.HCM,23.46,17.06,29.87,20000,200
+QST-Trường Đại Học Khoa Học Tự Nhiên TPHCM,2025,Công lập,TP.HCM,23.5,17.0,29.92,20000,200
+QSX-Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM,2020,Công lập,TP.HCM,23.51,20.15,28.55,16800,168
+QSX-Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM,2021,Công lập,TP.HCM,24.0,20.54,28.9,16800,168
+QSX-Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM,2022,Công lập,TP.HCM,22.84,19.44,28.17,16800,168
+QSX-Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM,2023,Công lập,TP.HCM,23.13,19.7,28.37,16800,168
+QSX-Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM,2024,Công lập,TP.HCM,23.32,19.87,28.43,16800,168
+QSX-Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM,2025,Công lập,TP.HCM,23.37,20.0,28.55,16800,168
+QSY-Trường Đại học Khoa học sức khỏe TPHCM,2020,Công lập,TP.HCM,22.24,18.19,25.91,1000,10
+QSY-Trường Đại học Khoa học sức khỏe TPHCM,2021,Công lập,TP.HCM,22.7,18.56,26.17,1000,10
+QSY-Trường Đại học Khoa học sức khỏe TPHCM,2022,Công lập,TP.HCM,21.46,17.28,25.15,1000,10
+QSY-Trường Đại học Khoa học sức khỏe TPHCM,2023,Công lập,TP.HCM,21.76,17.63,25.28,1000,10
+QSY-Trường Đại học Khoa học sức khỏe TPHCM,2024,Công lập,TP.HCM,22.03,17.77,25.73,1000,10
+QSY-Trường Đại học Khoa học sức khỏe TPHCM,2025,Công lập,TP.HCM,22.04,18.0,25.6,1000,10
+SDU-Trường Đại học Sao Đỏ,2020,Công lập,Hà Nội,16.19,15.0,26.2,8600,86
+SDU-Trường Đại học Sao Đỏ,2021,Công lập,Hà Nội,16.69,15.46,26.53,8600,86
+SDU-Trường Đại học Sao Đỏ,2022,Công lập,Hà Nội,15.95,15.0,25.85,8600,86
+SDU-Trường Đại học Sao Đỏ,2023,Công lập,Hà Nội,16.01,15.0,26.02,8600,86
+SDU-Trường Đại học Sao Đỏ,2024,Công lập,Hà Nội,16.07,15.0,26.16,8600,86
+SDU-Trường Đại học Sao Đỏ,2025,Công lập,Hà Nội,16.04,15.0,26.1,8600,86
+SGD-Trường Đại Học Sài Gòn,2020,Công lập,TP.HCM,22.41,18.08,29.37,62500,625
+SGD-Trường Đại Học Sài Gòn,2021,Công lập,TP.HCM,22.88,18.65,29.61,62500,625
+SGD-Trường Đại Học Sài Gòn,2022,Công lập,TP.HCM,21.76,17.48,28.96,62500,625
+SGD-Trường Đại Học Sài Gòn,2023,Công lập,TP.HCM,22.05,17.61,29.13,62500,625
+SGD-Trường Đại Học Sài Gòn,2024,Công lập,TP.HCM,22.23,18.02,29.28,62500,625
+SGD-Trường Đại Học Sài Gòn,2025,Công lập,TP.HCM,22.28,18.02,29.27,62500,625
+SIU-Trường Đại học Tư thục Quốc Tế Sài Gòn,2020,Tư thục,TP.HCM,15.86,15.0,18.28,7500,75
+SIU-Trường Đại học Tư thục Quốc Tế Sài Gòn,2021,Tư thục,TP.HCM,16.39,15.46,18.69,7500,75
+SIU-Trường Đại học Tư thục Quốc Tế Sài Gòn,2022,Tư thục,TP.HCM,15.43,15.0,17.65,7500,75
+SIU-Trường Đại học Tư thục Quốc Tế Sài Gòn,2023,Tư thục,TP.HCM,15.58,15.0,17.87,7500,75
+SIU-Trường Đại học Tư thục Quốc Tế Sài Gòn,2024,Tư thục,TP.HCM,15.71,15.0,18.15,7500,75
+SIU-Trường Đại học Tư thục Quốc Tế Sài Gòn,2025,Tư thục,TP.HCM,15.73,15.0,18.0,7500,75
+SKD-Trường Đại Học Sân Khấu Điện Ảnh Hà Nội,2020,Công lập,Hà Nội,18.68,15.98,22.63,2700,27
+SKD-Trường Đại Học Sân Khấu Điện Ảnh Hà Nội,2021,Công lập,Hà Nội,19.15,16.63,23.03,2700,27
+SKD-Trường Đại Học Sân Khấu Điện Ảnh Hà Nội,2022,Công lập,Hà Nội,17.95,15.31,21.9,2700,27
+SKD-Trường Đại Học Sân Khấu Điện Ảnh Hà Nội,2023,Công lập,Hà Nội,18.18,15.66,22.04,2700,27
+SKD-Trường Đại Học Sân Khấu Điện Ảnh Hà Nội,2024,Công lập,Hà Nội,18.43,16.1,22.17,2700,27
+SKD-Trường Đại Học Sân Khấu Điện Ảnh Hà Nội,2025,Công lập,Hà Nội,18.49,16.0,22.4,2700,27
+SKH-Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên,2020,Công lập,Hà Nội,17.31,15.0,26.86,10000,100
+SKH-Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên,2021,Công lập,Hà Nội,17.79,15.46,27.15,10000,100
+SKH-Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên,2022,Công lập,Hà Nội,16.82,15.0,26.39,10000,100
+SKH-Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên,2023,Công lập,Hà Nội,17.0,15.0,26.61,10000,100
+SKH-Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên,2024,Công lập,Hà Nội,17.13,15.0,26.73,10000,100
+SKH-Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên,2025,Công lập,Hà Nội,17.15,15.0,26.7,10000,100
+SKN-Trường Đại Học Sư Phạm Kỹ Thuật Nam Định,2020,Công lập,Nam Định,15.0,15.0,15.0,35200,352
+SKN-Trường Đại Học Sư Phạm Kỹ Thuật Nam Định,2021,Công lập,Nam Định,15.0,15.0,15.0,35200,352
+SKN-Trường Đại Học Sư Phạm Kỹ Thuật Nam Định,2022,Công lập,Nam Định,15.0,15.0,15.0,35200,352
+SKN-Trường Đại Học Sư Phạm Kỹ Thuật Nam Định,2023,Công lập,Nam Định,15.0,15.0,15.0,35200,352
+SKN-Trường Đại Học Sư Phạm Kỹ Thuật Nam Định,2024,Công lập,Nam Định,15.0,15.0,15.0,35200,352
+SKN-Trường Đại Học Sư Phạm Kỹ Thuật Nam Định,2025,Công lập,Nam Định,14.0,14.0,14.0,35200,352
+SKV-Trường Đại Học Sư Phạm Kỹ Thuật Vinh,2020,Công lập,Nghệ An,17.3,15.95,19.83,7900,79
+SKV-Trường Đại Học Sư Phạm Kỹ Thuật Vinh,2021,Công lập,Nghệ An,17.8,16.45,20.34,7900,79
+SKV-Trường Đại Học Sư Phạm Kỹ Thuật Vinh,2022,Công lập,Nghệ An,16.59,15.26,19.14,7900,79
+SKV-Trường Đại Học Sư Phạm Kỹ Thuật Vinh,2023,Công lập,Nghệ An,16.88,15.56,19.43,7900,79
+SKV-Trường Đại Học Sư Phạm Kỹ Thuật Vinh,2024,Công lập,Nghệ An,17.1,15.76,19.59,7900,79
+SKV-Trường Đại Học Sư Phạm Kỹ Thuật Vinh,2025,Công lập,Nghệ An,17.14,16.0,19.5,7900,79
+SP2-Trường Đại Học Sư Phạm Hà Nội 2,2020,Công lập,Hà Nội,25.44,20.52,28.69,7600,76
+SP2-Trường Đại Học Sư Phạm Hà Nội 2,2021,Công lập,Hà Nội,25.87,21.03,28.92,7600,76
+SP2-Trường Đại Học Sư Phạm Hà Nội 2,2022,Công lập,Hà Nội,24.9,19.68,28.16,7600,76
+SP2-Trường Đại Học Sư Phạm Hà Nội 2,2023,Công lập,Hà Nội,25.13,19.94,28.35,7600,76
+SP2-Trường Đại Học Sư Phạm Hà Nội 2,2024,Công lập,Hà Nội,25.31,20.23,28.49,7600,76
+SP2-Trường Đại Học Sư Phạm Hà Nội 2,2025,Công lập,Hà Nội,25.33,20.25,28.52,7600,76
+SPD-Trường Đại Học Đồng Tháp,2020,Công lập,Hà Nội,22.36,15.0,30.0,26100,261
+SPD-Trường Đại Học Đồng Tháp,2021,Công lập,Hà Nội,22.81,15.19,30.0,26100,261
+SPD-Trường Đại Học Đồng Tháp,2022,Công lập,Hà Nội,21.77,15.0,29.52,26100,261
+SPD-Trường Đại Học Đồng Tháp,2023,Công lập,Hà Nội,22.03,15.0,29.74,26100,261
+SPD-Trường Đại Học Đồng Tháp,2024,Công lập,Hà Nội,22.19,15.0,29.82,26100,261
+SPD-Trường Đại Học Đồng Tháp,2025,Công lập,Hà Nội,22.22,14.57,29.95,26100,261
+SPH-Trường Đại Học Sư Phạm Hà Nội,2020,Công lập,Hà Nội,25.33,18.96,29.14,8700,87
+SPH-Trường Đại Học Sư Phạm Hà Nội,2021,Công lập,Hà Nội,25.75,19.7,29.51,8700,87
+SPH-Trường Đại Học Sư Phạm Hà Nội,2022,Công lập,Hà Nội,24.75,18.27,28.82,8700,87
+SPH-Trường Đại Học Sư Phạm Hà Nội,2023,Công lập,Hà Nội,25.01,18.88,29.0,8700,87
+SPH-Trường Đại Học Sư Phạm Hà Nội,2024,Công lập,Hà Nội,25.16,18.92,29.12,8700,87
+SPH-Trường Đại Học Sư Phạm Hà Nội,2025,Công lập,Hà Nội,25.2,19.0,29.06,8700,87
+SPK-Trường Đại Học Công nghệ Kỹ thuật TP.HCM,2020,Công lập,TP.HCM,25.0,20.56,29.98,32900,329
+SPK-Trường Đại Học Công nghệ Kỹ thuật TP.HCM,2021,Công lập,TP.HCM,25.43,21.1,30.0,32900,329
+SPK-Trường Đại Học Công nghệ Kỹ thuật TP.HCM,2022,Công lập,TP.HCM,24.37,19.6,29.59,32900,329
+SPK-Trường Đại Học Công nghệ Kỹ thuật TP.HCM,2023,Công lập,TP.HCM,24.64,20.07,29.76,32900,329
+SPK-Trường Đại Học Công nghệ Kỹ thuật TP.HCM,2024,Công lập,TP.HCM,24.82,20.29,30.0,32900,329
+SPK-Trường Đại Học Công nghệ Kỹ thuật TP.HCM,2025,Công lập,TP.HCM,24.86,20.32,29.93,32900,329
+SPS-Trường Đại Học Sư Phạm TPHCM,2020,Công lập,TP.HCM,25.11,17.7,29.58,12900,129
+SPS-Trường Đại Học Sư Phạm TPHCM,2021,Công lập,TP.HCM,25.52,18.25,29.94,12900,129
+SPS-Trường Đại Học Sư Phạm TPHCM,2022,Công lập,TP.HCM,24.57,16.92,29.27,12900,129
+SPS-Trường Đại Học Sư Phạm TPHCM,2023,Công lập,TP.HCM,24.8,17.3,29.49,12900,129
+SPS-Trường Đại Học Sư Phạm TPHCM,2024,Công lập,TP.HCM,24.97,17.47,29.52,12900,129
+SPS-Trường Đại Học Sư Phạm TPHCM,2025,Công lập,TP.HCM,25.0,17.5,29.57,12900,129
+STS-Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM,2020,Công lập,TP.HCM,24.66,22.82,26.15,300,3
+STS-Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM,2021,Công lập,TP.HCM,25.05,23.61,26.32,300,3
+STS-Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM,2022,Công lập,TP.HCM,23.98,22.3,25.6,300,3
+STS-Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM,2023,Công lập,TP.HCM,24.24,22.74,25.76,300,3
+STS-Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM,2024,Công lập,TP.HCM,24.42,22.81,25.98,300,3
+STS-Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM,2025,Công lập,TP.HCM,24.5,22.85,26.0,300,3
+TBD-Trường Đại Học Thái Bình Dương,2020,Công lập,Thái Bình,15.24,15.0,18.21,13300,133
+TBD-Trường Đại Học Thái Bình Dương,2021,Công lập,Thái Bình,15.73,15.45,18.79,13300,133
+TBD-Trường Đại Học Thái Bình Dương,2022,Công lập,Thái Bình,15.07,15.0,17.6,13300,133
+TBD-Trường Đại Học Thái Bình Dương,2023,Công lập,Thái Bình,15.08,15.0,17.85,13300,133
+TBD-Trường Đại Học Thái Bình Dương,2024,Công lập,Thái Bình,15.12,15.0,18.13,13300,133
+TBD-Trường Đại Học Thái Bình Dương,2025,Công lập,Thái Bình,15.09,15.0,18.0,13300,133
+TCT-Đại Học Cần Thơ,2020,Công lập,Cần Thơ,21.17,15.0,28.79,42200,422
+TCT-Đại Học Cần Thơ,2021,Công lập,Cần Thơ,21.65,15.45,29.05,42200,422
+TCT-Đại Học Cần Thơ,2022,Công lập,Cần Thơ,20.63,15.0,28.37,42200,422
+TCT-Đại Học Cần Thơ,2023,Công lập,Cần Thơ,20.85,15.0,28.54,42200,422
+TCT-Đại Học Cần Thơ,2024,Công lập,Cần Thơ,21.01,15.0,28.66,42200,422
+TCT-Đại Học Cần Thơ,2025,Công lập,Cần Thơ,21.04,15.0,28.61,42200,422
+TDB-Trường Đại Học Thể Dục Thể Thao Bắc Ninh,2020,Công lập,Hà Nội,22.18,18.25,27.58,400,4
+TDB-Trường Đại Học Thể Dục Thể Thao Bắc Ninh,2021,Công lập,Hà Nội,22.54,18.55,27.76,400,4
+TDB-Trường Đại Học Thể Dục Thể Thao Bắc Ninh,2022,Công lập,Hà Nội,21.53,17.37,27.12,400,4
+TDB-Trường Đại Học Thể Dục Thể Thao Bắc Ninh,2023,Công lập,Hà Nội,21.68,17.59,27.18,400,4
+TDB-Trường Đại Học Thể Dục Thể Thao Bắc Ninh,2024,Công lập,Hà Nội,21.89,17.84,27.45,400,4
+TDB-Trường Đại Học Thể Dục Thể Thao Bắc Ninh,2025,Công lập,Hà Nội,21.97,18.0,27.39,400,4
+TDD-Trường Đại học Thành Đô,2020,Công lập,Hà Nội,16.48,15.95,19.35,7800,78
+TDD-Trường Đại học Thành Đô,2021,Công lập,Hà Nội,16.96,16.45,19.83,7800,78
+TDD-Trường Đại học Thành Đô,2022,Công lập,Hà Nội,15.74,15.25,18.61,7800,78
+TDD-Trường Đại học Thành Đô,2023,Công lập,Hà Nội,16.04,15.56,18.69,7800,78
+TDD-Trường Đại học Thành Đô,2024,Công lập,Hà Nội,16.26,15.75,19.11,7800,78
+TDD-Trường Đại học Thành Đô,2025,Công lập,Hà Nội,16.31,16.0,19.0,7800,78
+TDL-Trường Đại Học Đà Lạt,2020,Công lập,Lâm Đồng,20.62,16.09,28.65,18400,184
+TDL-Trường Đại Học Đà Lạt,2021,Công lập,Lâm Đồng,21.07,16.64,28.99,18400,184
+TDL-Trường Đại Học Đà Lạt,2022,Công lập,Lâm Đồng,19.96,15.38,28.27,18400,184
+TDL-Trường Đại Học Đà Lạt,2023,Công lập,Lâm Đồng,20.24,15.56,28.42,18400,184
+TDL-Trường Đại Học Đà Lạt,2024,Công lập,Lâm Đồng,20.43,15.87,28.55,18400,184
+TDL-Trường Đại Học Đà Lạt,2025,Công lập,Lâm Đồng,20.47,16.0,28.5,18400,184
+TDM-Trường Đại học Thủ Dầu Một,2020,Công lập,Hà Nội,20.72,15.0,27.02,25400,254
+TDM-Trường Đại học Thủ Dầu Một,2021,Công lập,Hà Nội,21.2,15.46,27.28,25400,254
+TDM-Trường Đại học Thủ Dầu Một,2022,Công lập,Hà Nội,20.15,15.0,26.63,25400,254
+TDM-Trường Đại học Thủ Dầu Một,2023,Công lập,Hà Nội,20.37,15.0,26.81,25400,254
+TDM-Trường Đại học Thủ Dầu Một,2024,Công lập,Hà Nội,20.55,15.0,26.93,25400,254
+TDM-Trường Đại học Thủ Dầu Một,2025,Công lập,Hà Nội,20.57,15.0,26.86,25400,254
+TDS-Trường Đại Học Thể Dục Thể Thao TPHCM,2020,Công lập,TP.HCM,21.09,21.07,21.13,300,3
+TDS-Trường Đại Học Thể Dục Thể Thao TPHCM,2021,Công lập,TP.HCM,21.61,21.47,21.69,300,3
+TDS-Trường Đại Học Thể Dục Thể Thao TPHCM,2022,Công lập,TP.HCM,20.39,20.31,20.48,300,3
+TDS-Trường Đại Học Thể Dục Thể Thao TPHCM,2023,Công lập,TP.HCM,20.69,20.6,20.78,300,3
+TDS-Trường Đại Học Thể Dục Thể Thao TPHCM,2024,Công lập,TP.HCM,21.05,20.93,21.14,300,3
+TDS-Trường Đại Học Thể Dục Thể Thao TPHCM,2025,Công lập,TP.HCM,21.0,21.0,21.0,300,3
+TDV-Trường Đại Học Vinh,2020,Công lập,Nghệ An,20.82,15.96,28.58,24600,246
+TDV-Trường Đại Học Vinh,2021,Công lập,Nghệ An,21.3,16.46,28.87,24600,246
+TDV-Trường Đại Học Vinh,2022,Công lập,Nghệ An,20.16,15.28,28.16,24600,246
+TDV-Trường Đại Học Vinh,2023,Công lập,Nghệ An,20.45,15.56,28.3,24600,246
+TDV-Trường Đại Học Vinh,2024,Công lập,Nghệ An,20.64,15.78,28.46,24600,246
+TDV-Trường Đại Học Vinh,2025,Công lập,Nghệ An,20.68,16.0,28.4,24600,246
+TGH-Trường Sĩ Quan Tăng - Thiết Giáp,2020,Công lập,Hà Nội,23.34,22.38,24.31,600,6
+TGH-Trường Sĩ Quan Tăng - Thiết Giáp,2021,Công lập,Hà Nội,23.74,22.81,24.62,600,6
+TGH-Trường Sĩ Quan Tăng - Thiết Giáp,2022,Công lập,Hà Nội,22.64,21.77,23.47,600,6
+TGH-Trường Sĩ Quan Tăng - Thiết Giáp,2023,Công lập,Hà Nội,22.92,22.1,23.8,600,6
+TGH-Trường Sĩ Quan Tăng - Thiết Giáp,2024,Công lập,Hà Nội,23.26,22.21,24.19,600,6
+TGH-Trường Sĩ Quan Tăng - Thiết Giáp,2025,Công lập,Hà Nội,23.2,22.36,24.05,600,6
+THP-Trường Đại Học Hải Phòng,2020,Công lập,Hải Phòng,21.91,16.95,27.16,18400,184
+THP-Trường Đại Học Hải Phòng,2021,Công lập,Hải Phòng,22.39,17.57,27.43,18400,184
+THP-Trường Đại Học Hải Phòng,2022,Công lập,Hải Phòng,21.24,16.29,26.72,18400,184
+THP-Trường Đại Học Hải Phòng,2023,Công lập,Hải Phòng,21.53,16.57,26.89,18400,184
+THP-Trường Đại Học Hải Phòng,2024,Công lập,Hải Phòng,21.71,16.77,27.06,18400,184
+THP-Trường Đại Học Hải Phòng,2025,Công lập,Hải Phòng,21.76,17.0,27.0,18400,184
+THU-Trường Đại học Y khoa Tokyo Việt Nam,2020,Công lập,Hà Nội,17.17,16.96,17.34,3300,33
+THU-Trường Đại học Y khoa Tokyo Việt Nam,2021,Công lập,Hà Nội,17.67,17.45,17.82,3300,33
+THU-Trường Đại học Y khoa Tokyo Việt Nam,2022,Công lập,Hà Nội,16.47,16.3,16.63,3300,33
+THU-Trường Đại học Y khoa Tokyo Việt Nam,2023,Công lập,Hà Nội,16.77,16.58,16.95,3300,33
+THU-Trường Đại học Y khoa Tokyo Việt Nam,2024,Công lập,Hà Nội,16.95,16.76,17.13,3300,33
+THU-Trường Đại học Y khoa Tokyo Việt Nam,2025,Công lập,Hà Nội,17.0,17.0,17.0,3300,33
+THV-Trường Đại Học Hùng Vương,2020,Công lập,Hà Nội,22.33,17.98,28.04,4200,42
+THV-Trường Đại Học Hùng Vương,2021,Công lập,Hà Nội,22.83,18.57,28.39,4200,42
+THV-Trường Đại Học Hùng Vương,2022,Công lập,Hà Nội,21.71,17.32,27.63,4200,42
+THV-Trường Đại Học Hùng Vương,2023,Công lập,Hà Nội,22.0,17.56,27.81,4200,42
+THV-Trường Đại Học Hùng Vương,2024,Công lập,Hà Nội,22.21,17.86,27.96,4200,42
+THV-Trường Đại Học Hùng Vương,2025,Công lập,Hà Nội,22.22,18.0,27.9,4200,42
+TKG-Trường Đại học Kiên Giang,2020,Công lập,Kiên Giang,17.12,15.0,25.18,14400,144
+TKG-Trường Đại học Kiên Giang,2021,Công lập,Kiên Giang,17.63,15.45,25.68,14400,144
+TKG-Trường Đại học Kiên Giang,2022,Công lập,Kiên Giang,16.73,15.0,24.44,14400,144
+TKG-Trường Đại học Kiên Giang,2023,Công lập,Kiên Giang,16.86,15.0,24.78,14400,144
+TKG-Trường Đại học Kiên Giang,2024,Công lập,Kiên Giang,16.97,15.0,24.91,14400,144
+TKG-Trường Đại học Kiên Giang,2025,Công lập,Kiên Giang,16.97,15.0,24.85,14400,144
+TLA-Trường Đại Học Thủy Lợi,2020,Công lập,Hà Nội,21.17,16.97,25.81,23100,231
+TLA-Trường Đại Học Thủy Lợi,2021,Công lập,Hà Nội,21.66,17.52,26.3,23100,231
+TLA-Trường Đại Học Thủy Lợi,2022,Công lập,Hà Nội,20.47,16.29,25.09,23100,231
+TLA-Trường Đại Học Thủy Lợi,2023,Công lập,Hà Nội,20.77,16.6,25.3,23100,231
+TLA-Trường Đại Học Thủy Lợi,2024,Công lập,Hà Nội,20.98,16.77,25.63,23100,231
+TLA-Trường Đại Học Thủy Lợi,2025,Công lập,Hà Nội,21.02,17.0,25.5,23100,231
+TLS-Trường Đại Học Thủy Lợi (Cơ sở 2),2020,Công lập,Hà Nội,16.72,15.0,21.35,9200,92
+TLS-Trường Đại Học Thủy Lợi (Cơ sở 2),2021,Công lập,Hà Nội,17.21,15.45,21.82,9200,92
+TLS-Trường Đại Học Thủy Lợi (Cơ sở 2),2022,Công lập,Hà Nội,16.33,15.0,20.63,9200,92
+TLS-Trường Đại Học Thủy Lợi (Cơ sở 2),2023,Công lập,Hà Nội,16.43,15.0,20.81,9200,92
+TLS-Trường Đại Học Thủy Lợi (Cơ sở 2),2024,Công lập,Hà Nội,16.54,15.0,21.09,9200,92
+TLS-Trường Đại Học Thủy Lợi (Cơ sở 2),2025,Công lập,Hà Nội,16.56,15.0,21.0,9200,92
+TMU-Trường Đại Học Thương Mại,2020,Công lập,Hà Nội,25.65,22.49,27.93,18900,189
+TMU-Trường Đại Học Thương Mại,2021,Công lập,Hà Nội,26.07,23.01,28.24,18900,189
+TMU-Trường Đại Học Thương Mại,2022,Công lập,Hà Nội,25.06,21.8,27.51,18900,189
+TMU-Trường Đại Học Thương Mại,2023,Công lập,Hà Nội,25.33,22.19,27.73,18900,189
+TMU-Trường Đại Học Thương Mại,2024,Công lập,Hà Nội,25.47,22.26,27.84,18900,189
+TMU-Trường Đại Học Thương Mại,2025,Công lập,Hà Nội,25.52,22.5,27.8,18900,189
+TQU-Trường Đại học Tân Trào,2020,Công lập,Hà Nội,19.6,15.97,23.84,7500,75
+TQU-Trường Đại học Tân Trào,2021,Công lập,Hà Nội,20.11,16.46,24.24,7500,75
+TQU-Trường Đại học Tân Trào,2022,Công lập,Hà Nội,18.91,15.26,23.12,7500,75
+TQU-Trường Đại học Tân Trào,2023,Công lập,Hà Nội,19.23,15.55,23.3,7500,75
+TQU-Trường Đại học Tân Trào,2024,Công lập,Hà Nội,19.41,15.75,23.59,7500,75
+TQU-Trường Đại học Tân Trào,2025,Công lập,Hà Nội,19.47,16.0,23.5,7500,75
+TSN-Trường Đại Học Nha Trang,2020,Công lập,Khánh Hòa,20.72,18.82,25.76,14400,144
+TSN-Trường Đại Học Nha Trang,2021,Công lập,Khánh Hòa,21.22,19.34,26.3,14400,144
+TSN-Trường Đại Học Nha Trang,2022,Công lập,Khánh Hòa,20.01,18.12,25.06,14400,144
+TSN-Trường Đại Học Nha Trang,2023,Công lập,Khánh Hòa,20.33,18.42,25.37,14400,144
+TSN-Trường Đại Học Nha Trang,2024,Công lập,Khánh Hòa,20.51,18.62,25.53,14400,144
+TSN-Trường Đại Học Nha Trang,2025,Công lập,Khánh Hòa,20.57,18.87,25.47,14400,144
+TTB-Trường Đại Học Tây Bắc,2020,Công lập,Hà Nội,21.44,15.0,28.28,12000,120
+TTB-Trường Đại Học Tây Bắc,2021,Công lập,Hà Nội,21.9,15.46,28.56,12000,120
+TTB-Trường Đại Học Tây Bắc,2022,Công lập,Hà Nội,21.02,15.0,27.87,12000,120
+TTB-Trường Đại Học Tây Bắc,2023,Công lập,Hà Nội,21.17,15.0,28.02,12000,120
+TTB-Trường Đại Học Tây Bắc,2024,Công lập,Hà Nội,21.28,15.0,28.16,12000,120
+TTB-Trường Đại Học Tây Bắc,2025,Công lập,Hà Nội,21.3,15.0,28.11,12000,120
+TTD-Trường Đại Học Thể Dục Thể Thao Đà Nẵng,2020,Công lập,Đà Nẵng,22.9,21.67,24.22,800,8
+TTD-Trường Đại Học Thể Dục Thể Thao Đà Nẵng,2021,Công lập,Đà Nẵng,23.34,22.09,24.59,800,8
+TTD-Trường Đại Học Thể Dục Thể Thao Đà Nẵng,2022,Công lập,Đà Nẵng,22.2,20.88,23.57,800,8
+TTD-Trường Đại Học Thể Dục Thể Thao Đà Nẵng,2023,Công lập,Đà Nẵng,22.48,21.07,23.75,800,8
+TTD-Trường Đại Học Thể Dục Thể Thao Đà Nẵng,2024,Công lập,Đà Nẵng,22.64,21.32,24.06,800,8
+TTD-Trường Đại Học Thể Dục Thể Thao Đà Nẵng,2025,Công lập,Đà Nẵng,22.72,21.5,23.93,800,8
+TTG-Trường Đại Học Tiền Giang,2020,Công lập,Hà Nội,15.33,15.0,18.34,11900,119
+TTG-Trường Đại Học Tiền Giang,2021,Công lập,Hà Nội,15.84,15.45,18.83,11900,119
+TTG-Trường Đại Học Tiền Giang,2022,Công lập,Hà Nội,15.15,15.0,17.6,11900,119
+TTG-Trường Đại Học Tiền Giang,2023,Công lập,Hà Nội,15.16,15.0,17.85,11900,119
+TTG-Trường Đại Học Tiền Giang,2024,Công lập,Hà Nội,15.2,15.0,18.14,11900,119
+TTG-Trường Đại Học Tiền Giang,2025,Công lập,Hà Nội,15.18,15.0,18.0,11900,119
+TTH-Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,2020,Quân đội/Công an,Hà Nội,23.36,22.77,24.06,600,6
+TTH-Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,2021,Quân đội/Công an,Hà Nội,23.89,23.3,24.46,600,6
+TTH-Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,2022,Quân đội/Công an,Hà Nội,22.77,22.22,23.41,600,6
+TTH-Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,2023,Quân đội/Công an,Hà Nội,23.02,22.43,23.61,600,6
+TTH-Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,2024,Quân đội/Công an,Hà Nội,23.29,22.55,23.93,600,6
+TTH-Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,2025,Quân đội/Công an,Hà Nội,23.3,22.75,23.84,600,6
+TTN-Trường Đại Học Tây Nguyên,2020,Công lập,Đắk Lắk,22.17,15.0,28.03,13100,131
+TTN-Trường Đại Học Tây Nguyên,2021,Công lập,Đắk Lắk,22.62,15.46,28.39,13100,131
+TTN-Trường Đại Học Tây Nguyên,2022,Công lập,Đắk Lắk,21.61,15.0,27.67,13100,131
+TTN-Trường Đại Học Tây Nguyên,2023,Công lập,Đắk Lắk,21.85,15.0,27.83,13100,131
+TTN-Trường Đại Học Tây Nguyên,2024,Công lập,Đắk Lắk,22.0,15.0,27.97,13100,131
+TTN-Trường Đại Học Tây Nguyên,2025,Công lập,Đắk Lắk,22.04,15.0,27.91,13100,131
+TTU-Trường Đại học Tân Tạo,2020,Công lập,Hà Nội,15.78,15.0,20.85,5800,58
+TTU-Trường Đại học Tân Tạo,2021,Công lập,Hà Nội,16.28,15.46,21.28,5800,58
+TTU-Trường Đại học Tân Tạo,2022,Công lập,Hà Nội,15.49,15.0,19.97,5800,58
+TTU-Trường Đại học Tân Tạo,2023,Công lập,Hà Nội,15.57,15.0,20.15,5800,58
+TTU-Trường Đại học Tân Tạo,2024,Công lập,Hà Nội,15.65,15.0,20.58,5800,58
+TTU-Trường Đại học Tân Tạo,2025,Công lập,Hà Nội,15.63,15.0,20.5,5800,58
+TYS-Trường Đại Học Y Khoa Phạm Ngọc Thạch,2020,Công lập,Hà Nội,20.48,17.96,25.63,2500,25
+TYS-Trường Đại Học Y Khoa Phạm Ngọc Thạch,2021,Công lập,Hà Nội,21.0,18.5,26.37,2500,25
+TYS-Trường Đại Học Y Khoa Phạm Ngọc Thạch,2022,Công lập,Hà Nội,19.82,17.38,25.04,2500,25
+TYS-Trường Đại Học Y Khoa Phạm Ngọc Thạch,2023,Công lập,Hà Nội,20.12,17.61,25.15,2500,25
+TYS-Trường Đại Học Y Khoa Phạm Ngọc Thạch,2024,Công lập,Hà Nội,20.31,17.79,25.38,2500,25
+TYS-Trường Đại Học Y Khoa Phạm Ngọc Thạch,2025,Công lập,Hà Nội,20.35,18.0,25.55,2500,25
+UEF-Trường Đại Học Kinh Tế Tài Chính TPHCM,2020,Công lập,TP.HCM,15.32,15.0,16.35,18000,180
+UEF-Trường Đại Học Kinh Tế Tài Chính TPHCM,2021,Công lập,TP.HCM,15.83,15.45,16.84,18000,180
+UEF-Trường Đại Học Kinh Tế Tài Chính TPHCM,2022,Công lập,TP.HCM,15.08,15.0,15.64,18000,180
+UEF-Trường Đại Học Kinh Tế Tài Chính TPHCM,2023,Công lập,TP.HCM,15.13,15.0,15.94,18000,180
+UEF-Trường Đại Học Kinh Tế Tài Chính TPHCM,2024,Công lập,TP.HCM,15.19,15.0,16.14,18000,180
+UEF-Trường Đại Học Kinh Tế Tài Chính TPHCM,2025,Công lập,TP.HCM,15.17,15.0,16.0,18000,180
+UFA-Trường Đại học Tài Chính Kế Toán,2020,Công lập,Hà Nội,16.0,15.0,19.16,2500,25
+UFA-Trường Đại học Tài Chính Kế Toán,2021,Công lập,Hà Nội,16.55,15.56,19.81,2500,25
+UFA-Trường Đại học Tài Chính Kế Toán,2022,Công lập,Hà Nội,15.6,15.0,18.38,2500,25
+UFA-Trường Đại học Tài Chính Kế Toán,2023,Công lập,Hà Nội,15.77,15.0,18.83,2500,25
+UFA-Trường Đại học Tài Chính Kế Toán,2024,Công lập,Hà Nội,15.85,15.0,19.1,2500,25
+UFA-Trường Đại học Tài Chính Kế Toán,2025,Công lập,Hà Nội,15.84,15.0,19.0,2500,25
+UKH-Trường Đại học Khánh Hòa,2020,Công lập,Khánh Hòa,21.75,15.0,26.59,10100,101
+UKH-Trường Đại học Khánh Hòa,2021,Công lập,Khánh Hòa,22.21,15.47,26.87,10100,101
+UKH-Trường Đại học Khánh Hòa,2022,Công lập,Khánh Hòa,21.16,15.0,26.16,10100,101
+UKH-Trường Đại học Khánh Hòa,2023,Công lập,Khánh Hòa,21.4,15.0,26.35,10100,101
+UKH-Trường Đại học Khánh Hòa,2024,Công lập,Khánh Hòa,21.56,15.0,26.47,10100,101
+UKH-Trường Đại học Khánh Hòa,2025,Công lập,Khánh Hòa,21.6,15.0,26.41,10100,101
+UMT-Trường Đại học Quản lý và công nghệ TPHCM,2020,Công lập,TP.HCM,16.34,15.0,25.34,10000,100
+UMT-Trường Đại học Quản lý và công nghệ TPHCM,2021,Công lập,TP.HCM,16.85,15.45,25.83,10000,100
+UMT-Trường Đại học Quản lý và công nghệ TPHCM,2022,Công lập,TP.HCM,16.13,15.0,24.64,10000,100
+UMT-Trường Đại học Quản lý và công nghệ TPHCM,2023,Công lập,TP.HCM,16.17,15.0,24.91,10000,100
+UMT-Trường Đại học Quản lý và công nghệ TPHCM,2024,Công lập,TP.HCM,16.22,15.0,25.14,10000,100
+UMT-Trường Đại học Quản lý và công nghệ TPHCM,2025,Công lập,TP.HCM,16.2,15.0,25.0,10000,100
+VGU-Trường Đại Học Việt Đức,2020,Công lập,Hà Nội,20.33,17.95,26.69,24300,243
+VGU-Trường Đại Học Việt Đức,2021,Công lập,Hà Nội,20.79,18.48,26.96,24300,243
+VGU-Trường Đại Học Việt Đức,2022,Công lập,Hà Nội,19.64,17.31,26.27,24300,243
+VGU-Trường Đại Học Việt Đức,2023,Công lập,Hà Nội,19.92,17.58,26.44,24300,243
+VGU-Trường Đại Học Việt Đức,2024,Công lập,Hà Nội,20.13,17.76,26.56,24300,243
+VGU-Trường Đại Học Việt Đức,2025,Công lập,Hà Nội,20.16,18.0,26.5,24300,243
+VHD-Trường Đại Học Công Nghiệp Việt - Hung,2020,Công lập,Hà Nội,16.46,15.95,18.74,18200,182
+VHD-Trường Đại Học Công Nghiệp Việt - Hung,2021,Công lập,Hà Nội,16.97,16.46,19.07,18200,182
+VHD-Trường Đại Học Công Nghiệp Việt - Hung,2022,Công lập,Hà Nội,15.78,15.25,18.03,18200,182
+VHD-Trường Đại Học Công Nghiệp Việt - Hung,2023,Công lập,Hà Nội,16.08,15.55,18.32,18200,182
+VHD-Trường Đại Học Công Nghiệp Việt - Hung,2024,Công lập,Hà Nội,16.29,15.76,18.5,18200,182
+VHD-Trường Đại Học Công Nghiệp Việt - Hung,2025,Công lập,Hà Nội,16.33,16.0,18.4,18200,182
+VHH-Trường Đại Học Văn Hóa Hà Nội,2020,Công lập,Hà Nội,25.22,23.06,27.62,11400,114
+VHH-Trường Đại Học Văn Hóa Hà Nội,2021,Công lập,Hà Nội,25.71,23.41,28.04,11400,114
+VHH-Trường Đại Học Văn Hóa Hà Nội,2022,Công lập,Hà Nội,24.58,22.21,27.14,11400,114
+VHH-Trường Đại Học Văn Hóa Hà Nội,2023,Công lập,Hà Nội,24.85,22.57,27.41,11400,114
+VHH-Trường Đại Học Văn Hóa Hà Nội,2024,Công lập,Hà Nội,25.04,22.63,27.6,11400,114
+VHH-Trường Đại Học Văn Hóa Hà Nội,2025,Công lập,Hà Nội,25.09,22.8,27.55,11400,114
+VHS-Trường Đại Học Văn Hóa TPHCM,2020,Công lập,TP.HCM,25.66,24.42,26.92,7000,70
+VHS-Trường Đại Học Văn Hóa TPHCM,2021,Công lập,TP.HCM,26.08,24.64,27.24,7000,70
+VHS-Trường Đại Học Văn Hóa TPHCM,2022,Công lập,TP.HCM,25.02,23.48,26.47,7000,70
+VHS-Trường Đại Học Văn Hóa TPHCM,2023,Công lập,TP.HCM,25.31,23.77,26.63,7000,70
+VHS-Trường Đại Học Văn Hóa TPHCM,2024,Công lập,TP.HCM,25.48,24.13,26.78,7000,70
+VHS-Trường Đại Học Văn Hóa TPHCM,2025,Công lập,TP.HCM,25.53,24.1,26.75,7000,70
+VJU-Trường Đại học Việt Nhật - ĐHQG Hà Nội,2020,Công lập,Hà Nội,20.63,19.96,22.35,8500,85
+VJU-Trường Đại học Việt Nhật - ĐHQG Hà Nội,2021,Công lập,Hà Nội,21.14,20.45,22.84,8500,85
+VJU-Trường Đại học Việt Nhật - ĐHQG Hà Nội,2022,Công lập,Hà Nội,19.93,19.25,21.65,8500,85
+VJU-Trường Đại học Việt Nhật - ĐHQG Hà Nội,2023,Công lập,Hà Nội,20.23,19.55,21.87,8500,85
+VJU-Trường Đại học Việt Nhật - ĐHQG Hà Nội,2024,Công lập,Hà Nội,20.42,19.77,22.09,8500,85
+VJU-Trường Đại học Việt Nhật - ĐHQG Hà Nội,2025,Công lập,Hà Nội,20.49,20.0,22.0,8500,85
+VKU-Trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng,2020,Công lập,Đà Nẵng,20.8,17.95,24.22,7400,74
+VKU-Trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng,2021,Công lập,Đà Nẵng,21.31,18.58,24.8,7400,74
+VKU-Trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng,2022,Công lập,Đà Nẵng,20.11,17.31,23.58,7400,74
+VKU-Trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng,2023,Công lập,Đà Nẵng,20.43,17.63,23.9,7400,74
+VKU-Trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng,2024,Công lập,Đà Nẵng,20.61,17.85,24.01,7400,74
+VKU-Trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng,2025,Công lập,Đà Nẵng,20.66,18.0,24.0,7400,74
+VLU-Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long,2020,Công lập,Hà Nội,15.29,15.0,22.29,20500,205
+VLU-Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long,2021,Công lập,Hà Nội,15.33,15.0,22.82,20500,205
+VLU-Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long,2022,Công lập,Hà Nội,15.26,15.0,21.59,20500,205
+VLU-Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long,2023,Công lập,Hà Nội,15.27,15.0,21.95,20500,205
+VLU-Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long,2024,Công lập,Hà Nội,15.29,15.0,22.13,20500,205
+VLU-Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long,2025,Công lập,Hà Nội,14.35,14.0,22.0,20500,205
+VUI-Trường Đại Học Công Nghiệp Việt Trì,2020,Công lập,Hà Nội,15.16,15.0,15.34,4500,45
+VUI-Trường Đại Học Công Nghiệp Việt Trì,2021,Công lập,Hà Nội,15.67,15.46,15.85,4500,45
+VUI-Trường Đại Học Công Nghiệp Việt Trì,2022,Công lập,Hà Nội,15.0,15.0,15.0,4500,45
+VUI-Trường Đại Học Công Nghiệp Việt Trì,2023,Công lập,Hà Nội,15.0,15.0,15.0,4500,45
+VUI-Trường Đại Học Công Nghiệp Việt Trì,2024,Công lập,Hà Nội,15.02,15.0,15.15,4500,45
+VUI-Trường Đại Học Công Nghiệp Việt Trì,2025,Công lập,Hà Nội,15.0,15.0,15.0,4500,45
+XDA-Trường Đại Học Xây Dựng Hà Nội,2020,Công lập,Hà Nội,24.17,20.7,27.16,17900,179
+XDA-Trường Đại Học Xây Dựng Hà Nội,2021,Công lập,Hà Nội,24.67,21.25,27.41,17900,179
+XDA-Trường Đại Học Xây Dựng Hà Nội,2022,Công lập,Hà Nội,23.47,19.65,26.74,17900,179
+XDA-Trường Đại Học Xây Dựng Hà Nội,2023,Công lập,Hà Nội,23.77,20.19,26.88,17900,179
+XDA-Trường Đại Học Xây Dựng Hà Nội,2024,Công lập,Hà Nội,23.97,20.27,27.06,17900,179
+XDA-Trường Đại Học Xây Dựng Hà Nội,2025,Công lập,Hà Nội,24.01,20.4,27.0,17900,179
+XDN-Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng,2020,Công lập,Đà Nẵng,15.14,15.0,15.34,5600,56
+XDN-Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng,2021,Công lập,Đà Nẵng,15.68,15.46,15.85,5600,56
+XDN-Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng,2022,Công lập,Đà Nẵng,15.0,15.0,15.0,5600,56
+XDN-Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng,2023,Công lập,Đà Nẵng,15.0,15.0,15.0,5600,56
+XDN-Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng,2024,Công lập,Đà Nẵng,15.03,15.0,15.14,5600,56
+XDN-Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng,2025,Công lập,Đà Nẵng,15.0,15.0,15.0,5600,56
+XDT-Trường Đại Học Xây Dựng Miền Trung,2020,Công lập,Hà Nội,15.16,15.0,15.34,7100,71
+XDT-Trường Đại Học Xây Dựng Miền Trung,2021,Công lập,Hà Nội,15.64,15.45,15.84,7100,71
+XDT-Trường Đại Học Xây Dựng Miền Trung,2022,Công lập,Hà Nội,15.0,15.0,15.0,7100,71
+XDT-Trường Đại Học Xây Dựng Miền Trung,2023,Công lập,Hà Nội,15.0,15.0,15.0,7100,71
+XDT-Trường Đại Học Xây Dựng Miền Trung,2024,Công lập,Hà Nội,15.04,15.0,15.15,7100,71
+XDT-Trường Đại Học Xây Dựng Miền Trung,2025,Công lập,Hà Nội,15.0,15.0,15.0,7100,71
+YCT-Trường Đại Học Y Dược Cần Thơ,2020,Công lập,Cần Thơ,19.53,17.06,23.99,1400,14
+YCT-Trường Đại Học Y Dược Cần Thơ,2021,Công lập,Cần Thơ,19.95,17.51,24.42,1400,14
+YCT-Trường Đại Học Y Dược Cần Thơ,2022,Công lập,Cần Thơ,18.83,16.32,23.5,1400,14
+YCT-Trường Đại Học Y Dược Cần Thơ,2023,Công lập,Cần Thơ,19.17,16.67,23.82,1400,14
+YCT-Trường Đại Học Y Dược Cần Thơ,2024,Công lập,Cần Thơ,19.31,16.86,23.88,1400,14
+YCT-Trường Đại Học Y Dược Cần Thơ,2025,Công lập,Cần Thơ,19.35,17.0,23.88,1400,14
+YDD-Trường Đại Học Điều Dưỡng Nam Định,2020,Công lập,Nam Định,17.76,15.0,21.22,2400,24
+YDD-Trường Đại Học Điều Dưỡng Nam Định,2021,Công lập,Nam Định,18.32,15.48,21.77,2400,24
+YDD-Trường Đại Học Điều Dưỡng Nam Định,2022,Công lập,Nam Định,17.28,15.0,20.64,2400,24
+YDD-Trường Đại Học Điều Dưỡng Nam Định,2023,Công lập,Nam Định,17.48,15.0,20.85,2400,24
+YDD-Trường Đại Học Điều Dưỡng Nam Định,2024,Công lập,Nam Định,17.6,15.0,21.03,2400,24
+YDD-Trường Đại Học Điều Dưỡng Nam Định,2025,Công lập,Nam Định,17.67,15.0,21.0,2400,24
+YDN-Trường Đại học Kỹ thuật Y Dược Đà Nẵng,2020,Công lập,Đà Nẵng,20.27,15.22,23.17,3600,36
+YDN-Trường Đại học Kỹ thuật Y Dược Đà Nẵng,2021,Công lập,Đà Nẵng,20.73,15.69,23.58,3600,36
+YDN-Trường Đại học Kỹ thuật Y Dược Đà Nẵng,2022,Công lập,Đà Nẵng,19.57,15.0,22.35,3600,36
+YDN-Trường Đại học Kỹ thuật Y Dược Đà Nẵng,2023,Công lập,Đà Nẵng,19.86,15.0,22.71,3600,36
+YDN-Trường Đại học Kỹ thuật Y Dược Đà Nẵng,2024,Công lập,Đà Nẵng,20.03,15.0,22.88,3600,36
+YDN-Trường Đại học Kỹ thuật Y Dược Đà Nẵng,2025,Công lập,Đà Nẵng,20.08,15.0,22.85,3600,36
+YDS-Đại Học Y Dược TPHCM,2020,Công lập,TP.HCM,20.72,17.0,27.42,3100,31
+YDS-Đại Học Y Dược TPHCM,2021,Công lập,TP.HCM,21.18,17.7,27.74,3100,31
+YDS-Đại Học Y Dược TPHCM,2022,Công lập,TP.HCM,20.01,16.36,26.95,3100,31
+YDS-Đại Học Y Dược TPHCM,2023,Công lập,TP.HCM,20.33,16.65,27.11,3100,31
+YDS-Đại Học Y Dược TPHCM,2024,Công lập,TP.HCM,20.55,16.96,27.34,3100,31
+YDS-Đại Học Y Dược TPHCM,2025,Công lập,TP.HCM,20.56,17.0,27.34,3100,31
+YHB-Trường Đại Học Y Hà Nội,2020,Công lập,Hà Nội,21.48,17.01,28.78,3600,36
+YHB-Trường Đại Học Y Hà Nội,2021,Công lập,Hà Nội,21.92,17.5,29.13,3600,36
+YHB-Trường Đại Học Y Hà Nội,2022,Công lập,Hà Nội,20.82,16.25,28.34,3600,36
+YHB-Trường Đại Học Y Hà Nội,2023,Công lập,Hà Nội,21.08,16.61,28.57,3600,36
+YHB-Trường Đại Học Y Hà Nội,2024,Công lập,Hà Nội,21.24,16.77,28.59,3600,36
+YHB-Trường Đại Học Y Hà Nội,2025,Công lập,Hà Nội,21.31,17.0,28.7,3600,36
+YKV-Trường Đại Học Y Khoa Vinh,2020,Công lập,Nghệ An,19.14,17.28,22.41,1400,14
+YKV-Trường Đại Học Y Khoa Vinh,2021,Công lập,Nghệ An,19.59,17.9,22.82,1400,14
+YKV-Trường Đại Học Y Khoa Vinh,2022,Công lập,Nghệ An,18.44,16.52,21.61,1400,14
+YKV-Trường Đại Học Y Khoa Vinh,2023,Công lập,Nghệ An,18.76,16.85,22.04,1400,14
+YKV-Trường Đại Học Y Khoa Vinh,2024,Công lập,Nghệ An,18.91,17.08,22.16,1400,14
+YKV-Trường Đại Học Y Khoa Vinh,2025,Công lập,Nghệ An,18.96,17.25,22.1,1400,14
+YPB-Trường Đại Học Y Dược Hải Phòng,2020,Công lập,Hải Phòng,22.68,19.43,25.51,1500,15
+YPB-Trường Đại Học Y Dược Hải Phòng,2021,Công lập,Hải Phòng,23.12,19.82,26.16,1500,15
+YPB-Trường Đại Học Y Dược Hải Phòng,2022,Công lập,Hải Phòng,21.96,18.72,24.93,1500,15
+YPB-Trường Đại Học Y Dược Hải Phòng,2023,Công lập,Hải Phòng,22.25,19.21,25.11,1500,15
+YPB-Trường Đại Học Y Dược Hải Phòng,2024,Công lập,Hải Phòng,22.41,19.1,25.34,1500,15
+YPB-Trường Đại Học Y Dược Hải Phòng,2025,Công lập,Hải Phòng,22.51,19.35,25.33,1500,15
+YQH-Học Viện Quân Y - Hệ Quân sự,2020,Quân đội/Công an,Hà Nội,27.96,24.8,30.0,2000,20
+YQH-Học Viện Quân Y - Hệ Quân sự,2021,Quân đội/Công an,Hà Nội,28.26,25.43,30.0,2000,20
+YQH-Học Viện Quân Y - Hệ Quân sự,2022,Quân đội/Công an,Hà Nội,27.51,24.21,29.71,2000,20
+YQH-Học Viện Quân Y - Hệ Quân sự,2023,Quân đội/Công an,Hà Nội,27.68,24.43,29.94,2000,20
+YQH-Học Viện Quân Y - Hệ Quân sự,2024,Quân đội/Công an,Hà Nội,27.85,24.86,30.0,2000,20
+YQH-Học Viện Quân Y - Hệ Quân sự,2025,Quân đội/Công an,Hà Nội,27.87,24.81,30.0,2000,20
+YTB-Trường Đại Học Y Dược Thái Bình,2020,Công lập,Thái Bình,20.0,17.08,24.87,1400,14
+YTB-Trường Đại Học Y Dược Thái Bình,2021,Công lập,Thái Bình,20.49,17.62,25.31,1400,14
+YTB-Trường Đại Học Y Dược Thái Bình,2022,Công lập,Thái Bình,19.26,16.39,24.16,1400,14
+YTB-Trường Đại Học Y Dược Thái Bình,2023,Công lập,Thái Bình,19.55,16.61,24.5,1400,14
+YTB-Trường Đại Học Y Dược Thái Bình,2024,Công lập,Thái Bình,19.74,16.82,24.6,1400,14
+YTB-Trường Đại Học Y Dược Thái Bình,2025,Công lập,Thái Bình,19.81,17.0,24.6,1400,14
+YTC-Trường Đại Học Y Tế Công Cộng,2020,Công lập,Hà Nội,20.78,18.34,23.8,3500,35
+YTC-Trường Đại Học Y Tế Công Cộng,2021,Công lập,Hà Nội,21.31,18.77,24.33,3500,35
+YTC-Trường Đại Học Y Tế Công Cộng,2022,Công lập,Hà Nội,20.12,17.56,23.14,3500,35
+YTC-Trường Đại Học Y Tế Công Cộng,2023,Công lập,Hà Nội,20.41,17.94,23.39,3500,35
+YTC-Trường Đại Học Y Tế Công Cộng,2024,Công lập,Hà Nội,20.6,18.09,23.64,3500,35
+YTC-Trường Đại Học Y Tế Công Cộng,2025,Công lập,Hà Nội,20.65,18.3,23.5,3500,35

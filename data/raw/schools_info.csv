@@ -1,0 +1,272 @@
+﻿school_code,school_name,province,school_type,website,established_year,region
+KHA,Đại Học Kinh Tế Quốc Dân,Hà Nội,Công lập,,,Miền Bắc
+BKA,Đại Học Bách Khoa Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+HTC,Học Viện Tài chính,Hà Nội,Công lập,,,Miền Bắc
+NHH,Học Viện Ngân Hàng,Hà Nội,Công lập,,,Miền Bắc
+NTH,Trường Đại học Ngoại thương,Hà Nội,Công lập,,,Miền Bắc
+YHB,Trường Đại Học Y Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+BVH,Học Viện Công Nghệ Bưu Chính Viễn Thông,Hà Nội,Công lập,,,Miền Bắc
+SPH,Trường Đại Học Sư Phạm Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+TMU,Trường Đại Học Thương Mại,Hà Nội,Công lập,,,Miền Bắc
+SPS,Trường Đại Học Sư Phạm TPHCM,TP.HCM,Công lập,,,Miền Nam
+YDS,Đại Học Y Dược TPHCM,TP.HCM,Công lập,,,Miền Nam
+QHI,Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+HNM,Trường Đại học Thủ Đô Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+GHA,Trường Đại Học Giao Thông Vận Tải,Hà Nội,Công lập,,,Miền Bắc
+YTB,Trường Đại Học Y Dược Thái Bình,Thái Bình,Công lập,,,Miền Bắc
+KMA,Học Viện Kỹ Thuật Mật Mã,Hà Nội,Công lập,,,Miền Bắc
+DCN,Đại Học Công Nghiệp Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+YPB,Trường Đại Học Y Dược Hải Phòng,Hải Phòng,Công lập,,,Miền Bắc
+IUH,Trường Đại Học Công Nghiệp TPHCM,TP.HCM,Công lập,,,Miền Nam
+HPN,Học Viện Phụ Nữ Việt Nam,Hà Nội,Công lập,,,Miền Bắc
+DKH,Trường Đại Học Dược Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+ANH,Học Viện An Ninh Nhân Dân,Hà Nội,Quân đội/Công an,,,Miền Bắc
+DKY,Trường Đại Học Kỹ Thuật Y Tế Hải Dương,Hải Dương,Công lập,,,Miền Bắc
+HYD,Học Viện Y Dược Học Cổ Truyền Việt Nam,Hà Nội,Công lập,,,Miền Bắc
+CSH,Học Viện Cảnh Sát Nhân Dân,Hà Nội,Quân đội/Công an,,,Miền Bắc
+DKK,Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp,Hà Nội,Công lập,,,Miền Bắc
+DCT,Trường Đại Học Công Thương TPHCM,TP.HCM,Công lập,,,Miền Nam
+LAH,Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn,Hà Nội,Quân đội/Công an,,,Miền Bắc
+HQH,Học Viện Hải Quân,Hà Nội,Quân đội/Công an,,,Miền Bắc
+HHK,Học Viện Hàng không Việt Nam,Hà Nội,Công lập,,,Miền Bắc
+PKA,Đại Học Phenikaa,Hà Nội,Tư thục,,,Miền Bắc
+PKH,Học Viện Phòng Không – Không Quân,Hà Nội,Quân đội/Công an,,,Miền Bắc
+CSS,Trường Đại Học Cảnh Sát Nhân Dân,Hà Nội,Quân đội/Công an,,,Miền Bắc
+TTH,Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,Hà Nội,Quân đội/Công an,,,Miền Bắc
+NHF,Trường Đại Học Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+KQH,Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự,Hà Nội,Quân đội/Công an,,,Miền Bắc
+YTC,Trường Đại Học Y Tế Công Cộng,Hà Nội,Công lập,,,Miền Bắc
+HQT,Học Viện Ngoại Giao,Hà Nội,Công lập,,,Miền Bắc
+ANS,Trường Đại Học An Ninh Nhân Dân,Hà Nội,Quân đội/Công an,,,Miền Bắc
+YCT,Trường Đại Học Y Dược Cần Thơ,Cần Thơ,Công lập,,,Miền Nam
+TDM,Trường Đại học Thủ Dầu Một,Hà Nội,Công lập,,,Miền Bắc
+TYS,Trường Đại Học Y Khoa Phạm Ngọc Thạch,Hà Nội,Công lập,,,Miền Bắc
+DTL,Trường Đại Học Thăng Long,Hà Nội,Công lập,,,Miền Bắc
+TLA,Trường Đại Học Thủy Lợi,Hà Nội,Công lập,,,Miền Bắc
+QST,Trường Đại Học Khoa Học Tự Nhiên TPHCM,TP.HCM,Công lập,,,Miền Nam
+VHH,Trường Đại Học Văn Hóa Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+DTT,Trường Đại Học Tôn Đức Thắng,Hà Nội,Công lập,,,Miền Bắc
+HVN,Học Viện Nông Nghiệp Việt Nam,Hà Nội,Công lập,,,Miền Bắc
+QHX,Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+LPH,Trường Đại Học Luật Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+QHF,Trường Đại Học Ngoại Ngữ - ĐH Quốc gia Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+HBT,Học viện Báo chí và Tuyên truyền,Hà Nội,Công lập,,,Miền Bắc
+QHT,Trường Đại Học Khoa Học Tự Nhiên Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+QHE,Trường Đại Học Kinh Tế - ĐHQG Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+QSX,Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM,TP.HCM,Công lập,,,Miền Nam
+DTS,Đại Học Sư Phạm Thái Nguyên,Thái Nguyên,Công lập,,,Miền Bắc
+LCH,Trường Sĩ Quan Chính Trị - Đại Học Chính Trị,Hà Nội,Quân đội/Công an,,,Miền Bắc
+TCT,Đại Học Cần Thơ,Cần Thơ,Công lập,,,Miền Nam
+DKS,Trường Đại học Kiểm Sát,Hà Nội,Công lập,,,Miền Bắc
+BPH,Học Viện Biên Phòng,Hà Nội,Công lập,,,Miền Bắc
+QHL,Trường Đại học Luật – ĐHQG Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+DHS,Trường Đại Học Sư Phạm Huế,Huế,Công lập,,,Miền Trung
+QSC,Trường Đại Học Công Nghệ Thông Tin - ĐHQG TPHCM,TP.HCM,Công lập,,,Miền Nam
+SGD,Trường Đại Học Sài Gòn,TP.HCM,Công lập,,,Miền Nam
+NQH,Học Viện Khoa Học Quân Sự - Hệ Quân sự,Hà Nội,Quân đội/Công an,,,Miền Bắc
+NTS,Trường Đại học Ngoại thương (Cơ sở II),Hà Nội,Công lập,,,Miền Bắc
+HTA,Học viện Tòa án,Hà Nội,Công lập,,,Miền Bắc
+DDS,Trường Đại Học Sư Phạm - Đại Học Đà Nẵng,Đà Nẵng,Công lập,,,Miền Trung
+SP2,Trường Đại Học Sư Phạm Hà Nội 2,Hà Nội,Công lập,,,Miền Bắc
+QHS,Trường Đại Học Giáo Dục - ĐHQG Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+VHS,Trường Đại Học Văn Hóa TPHCM,TP.HCM,Công lập,,,Miền Nam
+SPK,Trường Đại Học Công nghệ Kỹ thuật TP HCM,TP.HCM,Công lập,,,Miền Nam
+HTN,Học Viện Thanh Thiếu Niên Việt Nam,Hà Nội,Công lập,,,Miền Bắc
+YQH,Học Viện Quân Y - Hệ Quân sự,Hà Nội,Quân đội/Công an,,,Miền Bắc
+QSK,Trường Đại học Kinh Tế Luật TPHCM,TP.HCM,Công lập,,,Miền Nam
+HEH,Học Viện Hậu Cần - Hệ Quân sự,Hà Nội,Quân đội/Công an,,,Miền Bắc
+LPS,Trường Đại Học Luật TPHCM,TP.HCM,Công lập,,,Miền Nam
+DDF,Trường Đại Học Ngoại Ngữ Đà Nẵng,Đà Nẵng,Công lập,,,Miền Trung
+KSA,Đại Học Kinh Tế TPHCM,TP.HCM,Công lập,,,Miền Nam
+QHY,Trường Đại học Y Dược - ĐHQG Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+DDK,Trường Đại Học Bách Khoa Đà Nẵng,Đà Nẵng,Công lập,,,Miền Trung
+DHF,Trường Đại Học Ngoại Ngữ Huế,Huế,Công lập,,,Miền Trung
+DMS,Trường Đại Học Tài Chính Marketing,Hà Nội,Công lập,,,Miền Bắc
+GSA,Trường Đại Học Giao Thông Vận Tải (Cơ sở 2),Hà Nội,Công lập,,,Miền Bắc
+TSN,Trường Đại Học Nha Trang,Khánh Hòa,Công lập,,,Miền Trung
+LBH,Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ,Hà Nội,Quân đội/Công an,,,Miền Bắc
+BVS,Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM),TP.HCM,Công lập,,,Miền Nam
+YKV,Trường Đại Học Y Khoa Vinh,Nghệ An,Công lập,,,Miền Trung
+YDN,Trường Đại học Kỹ thuật Y Dược Đà Nẵng,Đà Nẵng,Công lập,,,Miền Trung
+DTY,Trường Đại Học Y Dược Thái Nguyên,Thái Nguyên,Công lập,,,Miền Bắc
+DHY,Trường Đại Học Y Dược Huế,Huế,Công lập,,,Miền Trung
+DDY,Trường Y Dược Đà Nẵng,Đà Nẵng,Công lập,,,Miền Trung
+KTS,Trường Đại Học Kiến Trúc TPHCM,TP.HCM,Công lập,,,Miền Nam
+HCA,Học Viện Chính Trị Công An Nhân Dân,Hà Nội,Quân đội/Công an,,,Miền Bắc
+QSY,Trường Đại học Khoa học sức khỏe TPHCM,TP.HCM,Công lập,,,Miền Nam
+QSQ,Trường Đại Học Quốc Tế - ĐHQG TPHCM,TP.HCM,Tư thục,,,Miền Nam
+THV,Trường Đại Học Hùng Vương,Hà Nội,Công lập,,,Miền Bắc
+THP,Trường Đại Học Hải Phòng,Hải Phòng,Công lập,,,Miền Bắc
+HCP,Học Viện Chính Sách và Phát Triển,Hà Nội,Công lập,,,Miền Bắc
+MHN,Trường Đại Học Mở Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+LDA,Trường Đại Học Công Đoàn,Hà Nội,Công lập,,,Miền Bắc
+HHA,Trường Đại Học Hàng Hải Việt Nam,Hà Nội,Công lập,,,Miền Bắc
+KTA,Trường Đại Học Kiến Trúc Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+TDV,Trường Đại Học Vinh,Nghệ An,Công lập,,,Miền Trung
+QSA,Trường Đại Học An Giang,Hà Nội,Công lập,,,Miền Bắc
+HCH,Học Viện Hành Chính và Quản trị công,Hà Nội,Công lập,,,Miền Bắc
+SPD,Trường Đại Học Đồng Tháp,Hà Nội,Công lập,,,Miền Bắc
+QHK,Trường Khoa học liên ngành và Nghệ thuật Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+TTN,Trường Đại Học Tây Nguyên,Đắk Lắk,Công lập,,,Miền Nam
+DQN,Trường Đại Học Quy Nhơn,Bình Định,Công lập,,,Miền Trung
+DHC,Khoa Giáo Dục Thể Chất Huế,Huế,Công lập,,,Miền Trung
+GNT,Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương,Hà Nội,Công lập,,,Miền Bắc
+DDQ,Trường Đại Học Kinh Tế – Đại Học Đà Nẵng,Đà Nẵng,Công lập,,,Miền Trung
+DTF,Trường Ngoại Ngữ Thái Nguyên,Thái Nguyên,Công lập,,,Miền Bắc
+HLU,Trường Đại Học Hạ Long,Hà Nội,Công lập,,,Miền Bắc
+DKT,Trường Đại Học Hải Dương,Hải Dương,Công lập,,,Miền Bắc
+DQB,Trường Đại Học Quảng Bình,Hà Nội,Công lập,,,Miền Bắc
+DPQ,Trường Đại Học Phạm Văn Đồng,Hà Nội,Công lập,,,Miền Bắc
+HHT,Trường Đại Học Hà Tĩnh,Hà Nội,Công lập,,,Miền Bắc
+DMT,Trường Đại học Tài Nguyên và Môi Trường Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+HCS,Học Viện Hành Chính Và Quản Trị Công (phía Nam),Hà Nội,Công lập,,,Miền Bắc
+NHS,Trường Đại Học Ngân Hàng TPHCM,TP.HCM,Công lập,,,Miền Nam
+DLX,Trường Đại Học Lao Động – Xã Hội,Hà Nội,Công lập,,,Miền Bắc
+DBL,Trường Đại Học Bạc Liêu,Hà Nội,Công lập,,,Miền Bắc
+DQU,Trường Đại Học Quảng Nam,Quảng Nam,Công lập,,,Miền Trung
+DLS,Trường Đại Học Lao Động – Xã Hội (Cơ sở II),Hà Nội,Công lập,,,Miền Bắc
+DPY,Trường Đại Học Phú Yên,Hà Nội,Công lập,,,Miền Bắc
+DDP,Phân Hiệu Đại Học Đà Nẵng tại Kon Tum,Đà Nẵng,Công lập,,,Miền Trung
+KCC,Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ,Cần Thơ,Công lập,,,Miền Nam
+QHQ,Trường Quốc Tế  - ĐHQG Hà Nội,Hà Nội,Tư thục,,,Miền Bắc
+KCN,Trường Đại Học Khoa Học Và Công Nghệ Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+DCV,Trường Đại học Công nghiệp Vinh,Nghệ An,Công lập,,,Miền Trung
+DVT,Đại Học Trà Vinh,Nghệ An,Công lập,,,Miền Trung
+NLS,Trường Đại Học Nông Lâm TPHCM,TP.HCM,Công lập,,,Miền Nam
+HVC,Học viện cán bộ TPHCM,TP.HCM,Công lập,,,Miền Nam
+XDA,Trường Đại Học Xây Dựng Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+SKH,Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên,Hà Nội,Công lập,,,Miền Bắc
+MBS,Trường Đại Học Mở TPHCM,TP.HCM,Công lập,,,Miền Nam
+FBU,Trường Đại Học Tài Chính Ngân Hàng Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+GTA,Trường Đại học Công nghệ Giao thông vận tải,Hà Nội,Công lập,,,Miền Bắc
+MDA,Trường Đại Học Mỏ Địa Chất,Hà Nội,Công lập,,,Miền Bắc
+DDL,Trường Đại Học Điện Lực,Hà Nội,Công lập,,,Miền Bắc
+TDS,Trường Đại Học Thể Dục Thể Thao TPHCM,TP.HCM,Công lập,,,Miền Nam
+DPD,Trường Đại Học Phương Đông,Hà Nội,Công lập,,,Miền Bắc
+VLU,Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long,Hà Nội,Công lập,,,Miền Bắc
+KTD,Trường Đại Học Kiến Trúc Đà Nẵng,Đà Nẵng,Công lập,,,Miền Trung
+DQK,Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+DTK,Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên,Thái Nguyên,Công lập,,,Miền Bắc
+STS,Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM,TP.HCM,Công lập,,,Miền Nam
+UKH,Trường Đại học Khánh Hòa,Khánh Hòa,Công lập,,,Miền Trung
+DSK,Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng,Đà Nẵng,Công lập,,,Miền Trung
+NHB,Học Viện Ngân Hàng (Phân Viện Bắc Ninh),Hà Nội,Công lập,,,Miền Bắc
+DHI,Khoa Quốc tế - Đại học Huế,Huế,Tư thục,,,Miền Trung
+CMC,Trường Đại Học CMC,Hà Nội,Công lập,,,Miền Bắc
+NTT,Trường Đại Học Nguyễn Tất Thành,Hà Nội,Công lập,,,Miền Bắc
+DHK,Trường Đại Học Kinh Tế - Đại Học Huế,Huế,Công lập,,,Miền Trung
+DHD,Trường Du Lịch - Đại Học Huế,Huế,Công lập,,,Miền Trung
+KGH,Trường Sĩ Quan Không Quân - Hệ Đại học,Hà Nội,Quân đội/Công an,,,Miền Bắc
+DTC,Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên,Thái Nguyên,Công lập,,,Miền Bắc
+HGH,Trường Sĩ Quan Phòng Hóa,Hà Nội,Quân đội/Công an,,,Miền Bắc
+TGH,Trường Sĩ Quan Tăng - Thiết Giáp,Hà Nội,Công lập,,,Miền Bắc
+HVQ,Học Viện Quản Lý Giáo Dục,Hà Nội,Công lập,,,Miền Bắc
+DDT,Đại Học Duy Tân,Hà Nội,Công lập,,,Miền Bắc
+DNC,Trường Đại học Nam Cần Thơ,Cần Thơ,Công lập,,,Miền Nam
+HIU,Trường Đại Học Quốc Tế Hồng Bàng,Hà Nội,Tư thục,,,Miền Bắc
+TTU,Trường Đại học Tân Tạo,Hà Nội,Công lập,,,Miền Bắc
+TTD,Trường Đại Học Thể Dục Thể Thao Đà Nẵng,Đà Nẵng,Công lập,,,Miền Trung
+DCL,Trường Đại Học Cửu Long,Hà Nội,Công lập,,,Miền Bắc
+DVL,Trường Đại Học Văn Lang,Hà Nội,Tư thục,,,Miền Bắc
+DPC,Trường Đại Học Phan Châu Trinh,Hà Nội,Công lập,,,Miền Bắc
+ETU,Trường Đại Học Hòa Bình,Hà Nội,Công lập,,,Miền Bắc
+DDN,Trường Đại Học Đại Nam,Hà Nội,Công lập,,,Miền Bắc
+DAD,Trường Đại Học Đông Á,Hà Nội,Tư thục,,,Miền Bắc
+DCH,Trường Sĩ Quan Đặc Công,Hà Nội,Quân đội/Công an,,,Miền Bắc
+HCB,Học viện Kỹ thuật và Công nghệ an ninh (Phía Bắc),Nghệ An,Quân đội/Công an,,,Miền Trung
+HCN,Học viện Kỹ thuật và Công nghệ an ninh (Phía Nam),Nghệ An,Quân đội/Công an,,,Miền Trung
+PBH,Trường Sĩ Quan Pháo Binh,Hà Nội,Quân đội/Công an,,,Miền Bắc
+KSV,Đại học Kinh Tế TPHCM - Phân hiệu Vĩnh Long,TP.HCM,Công lập,,,Miền Nam
+QHD,Trường Quản Trị và Kinh Doanh - ĐHQG Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+VGU,Trường Đại Học Việt Đức,Hà Nội,Công lập,,,Miền Bắc
+TLS,Trường Đại Học Thủy Lợi (Cơ sở 2),Hà Nội,Công lập,,,Miền Bắc
+SDU,Trường Đại học Sao Đỏ,Hà Nội,Công lập,,,Miền Bắc
+PCS,Trường Đại Học Phòng Cháy Chữa Cháy (phía Nam),Hà Nội,Công lập,,,Miền Bắc
+PCH,Trường Đại Học Phòng Cháy Chữa Cháy (Phía Bắc),Hà Nội,Công lập,,,Miền Bắc
+NLN,Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận,TP.HCM,Công lập,,,Miền Nam
+DTD,Trường Đại Học Tây Đô,Hà Nội,Công lập,,,Miền Bắc
+DKC,Trường Đại học Công Nghệ TPHCM,TP.HCM,Công lập,,,Miền Nam
+DDU,Trường Đại Học Đông Đô,Hà Nội,Công lập,,,Miền Bắc
+DLH,Trường Đại Học Lạc Hồng,Hà Nội,Công lập,,,Miền Bắc
+DHA,Trường Đại học Luật Huế,Huế,Công lập,,,Miền Trung
+DYD,Trường Đại Học Yersin Đà Lạt,Lâm Đồng,Công lập,,,Miền Nam
+TDD,Trường Đại học Thành Đô,Hà Nội,Công lập,,,Miền Bắc
+DBD,Trường Đại Học Bình Dương,Bình Dương,Công lập,,,Miền Nam
+DTV,Trường Đại Học Lương Thế Vinh,Nghệ An,Công lập,,,Miền Trung
+VJU,Trường Đại học Việt Nhật - ĐHQG Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+BVU,Trường Đại Học Bà Rịa – Vũng Tàu,Hà Nội,Công lập,,,Miền Bắc
+DHN,Trường Đại Học Nghệ Thuật Huế,Huế,Công lập,,,Miền Trung
+MIT,Trường Đại học Công nghệ Miền Đông,Hà Nội,Công lập,,,Miền Bắc
+DKB,Trường Đại Học Kinh Tế Kỹ Thuật Bình Dương,Bình Dương,Công lập,,,Miền Nam
+UEF,Trường Đại Học Kinh Tế Tài Chính TPHCM,TP.HCM,Công lập,,,Miền Nam
+DFA,Trường Đại học Tài chính Quản trị kinh doanh,Hà Nội,Công lập,,,Miền Bắc
+TTG,Trường Đại Học Tiền Giang,Hà Nội,Công lập,,,Miền Bắc
+DTE,Trường Đại học Kinh tế và Quản trị kinh doanh Thái Nguyên,Thái Nguyên,Công lập,,,Miền Bắc
+PVU,Trường Đại Học Dầu Khí Việt Nam,Hà Nội,Công lập,,,Miền Bắc
+DNT,Trường Đại Học Ngoại Ngữ Tin Học TPHCM,TP.HCM,Công lập,,,Miền Nam
+SKV,Trường Đại Học Sư Phạm Kỹ Thuật Vinh,Nghệ An,Công lập,,,Miền Trung
+CEA,Trường Đại học Nghệ An,Nghệ An,Công lập,,,Miền Trung
+LNH,Trường Đại Học Lâm nghiệp,Hà Nội,Công lập,,,Miền Bắc
+DVH,Trường Đại Học Văn Hiến,Hà Nội,Công lập,,,Miền Bắc
+DQT,Trường Đại Học Quang Trung,Hà Nội,Công lập,,,Miền Bắc
+HSU,Trường Đại Học Hoa Sen,Hà Nội,Tư thục,,,Miền Bắc
+DPT,Trường Đại Học Phan Thiết,Hà Nội,Công lập,,,Miền Bắc
+DVP,Trường Đại Học Trưng Vương,Hà Nội,Công lập,,,Miền Bắc
+YDD,Trường Đại Học Điều Dưỡng Nam Định,Nam Định,Công lập,,,Miền Bắc
+THU,Trường Đại học Y khoa Tokyo Việt Nam,Hà Nội,Công lập,,,Miền Bắc
+DCD,Trường Đại Học Công Nghệ Đồng Nai,Hà Nội,Công lập,,,Miền Bắc
+EIU,Trường Đại Học Quốc Tế Miền Đông,Hà Nội,Tư thục,,,Miền Bắc
+DDV,Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng,Đà Nẵng,Công lập,,,Miền Trung
+TDB,Trường Đại Học Thể Dục Thể Thao Bắc Ninh,Hà Nội,Công lập,,,Miền Bắc
+DHE,Khoa Kỹ thuật và Công nghệ - Đại học Huế,Huế,Công lập,,,Miền Trung
+DTB,Trường Đại Học Thái Bình,Thái Bình,Công lập,,,Miền Bắc
+HVD,Học Viện Dân Tộc,Hà Nội,Công lập,,,Miền Bắc
+DHT,Trường Đại Học Khoa Học Huế,Huế,Công lập,,,Miền Trung
+DTZ,Trường Đại Học Khoa Học Thái Nguyên,Thái Nguyên,Công lập,,,Miền Bắc
+HDT,Trường Đại Học Hồng Đức,Hà Nội,Công lập,,,Miền Bắc
+DNU,Trường Đại Học Đồng Nai,Hà Nội,Công lập,,,Miền Bắc
+LNS,Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai,Hà Nội,Công lập,,,Miền Bắc
+DTM,Trường Đại học Tài Nguyên và Môi Trường TPHCM,TP.HCM,Công lập,,,Miền Nam
+CCM,Trường Đại học Công nghiệp và Thương mại Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+NTU,Trường Đại Học Nguyễn Trãi,Hà Nội,Công lập,,,Miền Bắc
+VUI,Trường Đại Học Công Nghiệp Việt Trì,Hà Nội,Công lập,,,Miền Bắc
+DHL,Trường Đại Học Nông Lâm Huế,Huế,Công lập,,,Miền Trung
+DTQ,Khoa Quốc Tế - Đại Học Thái Nguyên,Thái Nguyên,Tư thục,,,Miền Bắc
+SIU,Trường Đại học Tư thục Quốc Tế Sài Gòn,TP.HCM,Tư thục,,,Miền Nam
+DLA,Trường Đại Học Kinh Tế Công Nghiệp Long An,Hà Nội,Công lập,,,Miền Bắc
+SKN,Trường Đại Học Sư Phạm Kỹ Thuật Nam Định,Nam Định,Công lập,,,Miền Bắc
+NLG,Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai,TP.HCM,Công lập,,,Miền Nam
+DTN,Trường Đại Học Nông Lâm Thái Nguyên,Thái Nguyên,Công lập,,,Miền Bắc
+UMT,Trường Đại học Quản lý và công nghệ TPHCM,TP.HCM,Công lập,,,Miền Nam
+DCQ,Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị,Hà Nội,Công lập,,,Miền Bắc
+DHQ,Phân Hiệu Đại Học Huế tại Quảng Trị,Huế,Công lập,,,Miền Trung
+TBD,Trường Đại Học Thái Bình Dương,Thái Bình,Công lập,,,Miền Bắc
+DHV,Trường Đại học Hùng Vương TPHCM,TP.HCM,Công lập,,,Miền Nam
+DVB,Trường Đại Học Kinh tế công nghệ Thái Nguyên,Thái Nguyên,Công lập,,,Miền Bắc
+DPX,Trường Đại Học Phú Xuân,Hà Nội,Công lập,,,Miền Bắc
+HPU,Trường Đại học Quản lý và Công nghệ Hải Phòng,Hải Phòng,Công lập,,,Miền Bắc
+MTU,Trường Đại Học Xây Dựng Miền Tây,Hà Nội,Công lập,,,Miền Bắc
+VHD,Trường Đại Học Công Nghiệp Việt - Hung,Hà Nội,Công lập,,,Miền Bắc
+NHP,Học Viện Ngân Hàng (Phân Viện Phú Yên),Hà Nội,Công lập,,,Miền Bắc
+UFA,Trường Đại học Tài Chính Kế Toán,Hà Nội,Công lập,,,Miền Bắc
+GDU,Trường Đại Học Gia Định,Hà Nội,Công lập,,,Miền Bắc
+DDM,Trường Đại Học Công Nghiệp Quảng Ninh,Quảng Ninh,Công lập,,,Miền Bắc
+XDT,Trường Đại Học Xây Dựng Miền Trung,Hà Nội,Công lập,,,Miền Bắc
+DSG,Trường Đại Học Công Nghệ Sài Gòn,TP.HCM,Tư thục,,,Miền Nam
+XDN,Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng,Đà Nẵng,Công lập,,,Miền Trung
+DBG,Trường Đại học Nông Lâm Bắc Giang,Bắc Giang,Công lập,,,Miền Bắc
+TTB,Trường Đại Học Tây Bắc,Hà Nội,Công lập,,,Miền Bắc
+TDL,Trường Đại Học Đà Lạt,Lâm Đồng,Công lập,,,Miền Nam
+DTP,Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai,Thái Nguyên,Công lập,,,Miền Bắc
+TQU,Trường Đại học Tân Trào,Hà Nội,Công lập,,,Miền Bắc
+TKG,Trường Đại học Kiên Giang,Kiên Giang,Công lập,,,Miền Nam
+DVD,"Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",Thanh Hóa,Công lập,,,Miền Trung
+DTG,Phân hiệu Đại học Thái Nguyên tại Hà Giang,Thái Nguyên,Công lập,,,Miền Bắc
+DNB,Trường Đại Học Hoa Lư,Hà Nội,Công lập,,,Miền Bắc
+MTC,Trường Đại Học Mỹ Thuật Công Nghiệp,Hà Nội,Công lập,,,Miền Bắc
+MTS,Trường Đại Học Mỹ Thuật TPHCM,TP.HCM,Công lập,,,Miền Nam
+MTH,Trường Đại Học Mỹ Thuật Việt Nam,Hà Nội,Công lập,,,Miền Bắc
+SKD,Trường Đại Học Sân Khấu Điện Ảnh Hà Nội,Hà Nội,Công lập,,,Miền Bắc
+DSD,Trường Đại Học Sân Khấu Điện Ảnh TPHCM,TP.HCM,Công lập,,,Miền Nam
+BMU,Trường Đại học Y Dược Buôn Ma Thuột,Đắk Lắk,Công lập,,,Miền Nam
+VKU,Trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng,Đà Nẵng,Công lập,,,Miền Trung
