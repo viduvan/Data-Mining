@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large data files (>50MB) — GitHub warning threshold
+data/processed/admission_processed.csv
+data/cleaned/admission_cleaned.csv
+data/warehouse/admission_main.csv
