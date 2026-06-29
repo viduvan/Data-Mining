@@ -61,6 +61,47 @@ class ScoreForecaster:
         self.forecasts_ = {}
         self.metrics_ = {}
 
+    def forecast_school_major(self, school_name: str, major_name: str, forecast_year: int = 2026) -> dict:
+        """Dự báo cho một trường và ngành cụ thể (tương thích notebook)."""
+        # So khớp tương đối vì tên trường có mã prefix (ví dụ BKA-Đại học...)
+        mask = self.df["school_name"].str.contains(school_name, case=False, na=False) & \
+               self.df["major_name"].str.contains(major_name, case=False, na=False)
+        sub_df = self.df[mask].sort_values("year")[["year", "admission_score"]].dropna()
+        
+        if sub_df.empty:
+            mask = (self.df["school_name"] == school_name) & (self.df["major_name"] == major_name)
+            sub_df = self.df[mask].sort_values("year")[["year", "admission_score"]].dropna()
+            
+        if sub_df.empty:
+            logger.warning(f"Không tìm thấy dữ liệu cho {school_name} - {major_name}")
+            return {"history": {}, "predicted_score": 0.0, "model_used": "N/A"}
+            
+        # Nhóm theo năm (lấy trung bình điểm chuẩn các tổ hợp)
+        ts = sub_df.groupby("year")["admission_score"].mean().reset_index()
+        years = ts["year"].values
+        scores = ts["admission_score"].values
+        
+        pred, lower, upper, model = self._forecast_single(years, scores, forecast_year)
+        history = dict(zip(years.astype(int), scores))
+        
+        return {
+            "history": history,
+            "predicted_score": round(float(pred), 2) if pred is not None else 0.0,
+            "lower_bound": round(float(lower), 2) if lower is not None else None,
+            "upper_bound": round(float(upper), 2) if upper is not None else None,
+            "model_used": model
+        }
+
+    def evaluate_forecasting_models(self) -> dict:
+        """Đánh giá mô hình dự báo tổng thể (tương thích notebook)."""
+        metrics = self.evaluate_model()
+        # Trả về các chỉ số MAE, RMSE, MAPE chính
+        return {
+            "MAE": metrics.get("MAE", 0.0),
+            "RMSE": metrics.get("RMSE", 0.0),
+            "MAPE": metrics.get("MAPE", 0.0)
+        }
+
     def forecast_all(
         self,
         forecast_year: int = 2026,
@@ -141,14 +182,13 @@ class ScoreForecaster:
         Returns:
             (predicted_score, lower_bound, upper_bound, model_name)
         """
-        # Linear Regression luôn chạy được
+        # Linear Regression luôn chạy được và cực kỳ nhanh, ổn định trên chuỗi thời gian ngắn
         lr_pred, lr_ci = self._linear_regression_forecast(years, scores, forecast_year)
 
-        # Thử ARIMA nếu có đủ dữ liệu và statsmodels
-        if STATSMODELS_AVAILABLE and len(scores) >= 5:
+        # Thử ARIMA nếu có đủ dữ liệu (tối thiểu 8 năm) để tránh solver không hội tụ gây chậm
+        if STATSMODELS_AVAILABLE and len(scores) >= 8:
             try:
                 arima_pred, arima_ci = self._arima_forecast(scores, steps=forecast_year - years[-1])
-                # So sánh: dùng ARIMA nếu có
                 return arima_pred, arima_ci[0], arima_ci[1], "ARIMA"
             except Exception:
                 pass
@@ -205,7 +245,17 @@ class ScoreForecaster:
         group_cols = ["school_name", "major_name", "subject_group"]
         all_mae, all_rmse, all_mape = [], [], []
 
-        for _, group_df in self.df.groupby(group_cols):
+        # Lấy ngẫu nhiên tối đa 30 nhóm để đánh giá nhằm tối ưu hóa thời gian chạy trên tập dữ liệu lớn
+        groups = list(self.df.groupby(group_cols))
+        import random
+        random.seed(42)
+        random.shuffle(groups)
+
+        evaluated_count = 0
+        for _, group_df in groups:
+            if evaluated_count >= 30:
+                break
+                
             ts = group_df.sort_values("year")[["year", "admission_score"]].dropna()
             if len(ts) < 4:
                 continue
@@ -227,6 +277,8 @@ class ScoreForecaster:
             all_rmse.append((pred - actual) ** 2)
             if actual != 0:
                 all_mape.append(abs(pred - actual) / abs(actual) * 100)
+                
+            evaluated_count += 1
 
         metrics = {
             "MAE": round(np.mean(all_mae), 3) if all_mae else None,
@@ -296,3 +348,42 @@ class ScoreForecaster:
         self.forecasts_.to_csv(path, index=False, encoding="utf-8-sig")
         logger.info(f"Dự báo đã lưu: {path}")
         return path
+
+
+if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description="Chạy dự báo điểm chuẩn")
+    parser.add_argument("--evaluate", action="store_true", help="Đánh giá mô hình")
+    args = parser.parse_args()
+
+    processed_file = PROJECT_ROOT / "data" / "processed" / "admission_processed.csv"
+    if not processed_file.exists():
+        logger.error(f"Không tìm thấy file: {processed_file}")
+        import sys
+        sys.exit(1)
+        
+    df = pd.read_csv(processed_file, encoding="utf-8-sig")
+    forecaster = ScoreForecaster(df)
+    
+    # Dự báo 2026
+    logger.info("Chạy dự báo điểm chuẩn cho toàn bộ trường/ngành...")
+    forecast_df = forecaster.forecast_all(forecast_year=2026)
+    if not forecast_df.empty:
+        forecaster.save_forecasts()
+        
+    # Đánh giá nếu có cờ --evaluate
+    if args.evaluate:
+        forecaster.evaluate_forecasting_models()
+        
+    # Vẽ biểu đồ mẫu cho Đại học Bách Khoa Hà Nội
+    try:
+        # Tìm trường bách khoa trong df
+        bk_name = [name for name in df["school_name"].unique() if "Bách Khoa" in name]
+        if bk_name:
+            forecaster.plot_forecast(bk_name[0], "Khoa học máy tính (IT2)")
+            logger.success(f"Đã vẽ biểu đồ dự báo mẫu cho {bk_name[0]}")
+    except Exception as e:
+        logger.warning(f"Không vẽ được biểu đồ mẫu: {e}")
+        
+    logger.success("Hoàn thành quy trình dự báo điểm chuẩn!")
+

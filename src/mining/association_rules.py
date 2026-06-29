@@ -43,14 +43,33 @@ class AssociationRuleMiner:
     """
 
     # Cấu hình mặc định
-    DEFAULT_MIN_SUPPORT = 0.05      # ≥5% transactions chứa itemset
-    DEFAULT_MIN_CONFIDENCE = 0.5    # ≥50% confidence
-    DEFAULT_MIN_LIFT = 1.2          # Lift ≥ 1.2 (có ý nghĩa thống kê)
+    DEFAULT_MIN_SUPPORT = 0.005     # ≥0.5% transactions chứa itemset
+    DEFAULT_MIN_CONFIDENCE = 0.3    # ≥30% confidence
+    DEFAULT_MIN_LIFT = 1.1          # Lift ≥ 1.1 (có ý nghĩa thống kê)
 
     def __init__(self, df: pd.DataFrame):
         self.df = df
         self.rules_ = None
         self.frequent_itemsets_ = None
+
+    def prepare_transaction_data(self) -> pd.DataFrame:
+        """
+        Chuyển đổi dữ liệu tuyển sinh thành dạng giao dịch phục vụ hiển thị (tương thích notebook).
+        """
+        transactions = self._prepare_transactions()
+        return pd.DataFrame({"items": [", ".join(t) for t in transactions]})
+
+    def print_rules(self, rules: pd.DataFrame = None, top_n: int = 20) -> None:
+        """
+        In ra các luật kết hợp (tương thích notebook).
+        """
+        if rules is None:
+            rules = self.rules_
+        if rules is not None and not rules.empty:
+            top = rules.head(top_n)
+            print(top.to_string(index=False))
+        else:
+            print("Không có luật kết hợp nào để hiển thị.")
 
     def mine_rules(
         self,
@@ -256,3 +275,30 @@ class AssociationRuleMiner:
             print(f"  {row['rule']}")
             print(f"    Support={row['support']:.3f}  Confidence={row['confidence']:.3f}  Lift={row['lift']:.3f}")
             print()
+
+
+if __name__ == "__main__":
+    processed_file = PROJECT_ROOT / "data" / "processed" / "admission_processed.csv"
+    if not processed_file.exists():
+        logger.error(f"Không tìm thấy file: {processed_file}")
+        import sys
+        sys.exit(1)
+        
+    df = pd.read_csv(processed_file, encoding="utf-8-sig")
+    miner = AssociationRuleMiner(df)
+    
+    # Khai phá luật kết hợp
+    logger.info("Chạy khai phá luật kết hợp Apriori...")
+    rules = miner.mine_rules()
+    
+    if not rules.empty:
+        # Lưu kết quả
+        miner.save_rules()
+        # In các luật tiêu biểu
+        miner.print_top_rules(n=10)
+        # Vẽ biểu đồ
+        miner.plot_rules_scatter()
+        logger.success("Đã hoàn thành khai phá luật kết hợp thành công!")
+    else:
+        logger.warning("Không tìm thấy luật nào.")
+

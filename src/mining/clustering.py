@@ -60,6 +60,64 @@ class ClusteringAnalyzer:
         self.school_clusters_ = None
         self.major_clusters_ = None
 
+    def plot_elbow(self, max_k: int = 8) -> None:
+        """
+        Vẽ biểu đồ Elbow + Silhouette để tìm K tối ưu (tương thích notebook).
+        """
+        school_features = self._prepare_school_features()
+        if school_features.empty:
+            logger.error("Không có features để vẽ Elbow")
+            return
+        feature_cols = ["avg_score", "max_score", "std_score", "num_majors", "avg_delta"]
+        available_features = [c for c in feature_cols if c in school_features.columns]
+        X = school_features[available_features].fillna(0).values
+        X_scaled = self.scaler.fit_transform(X)
+        self._find_optimal_k(X_scaled, max_k=max_k, entity="schools")
+
+    def plot_clusters_2d(self) -> None:
+        """
+        Vẽ lại biểu đồ phân cụm 2D PCA của trường (tương thích notebook).
+        """
+        if self.school_clusters_ is None:
+            logger.info("Chưa phân cụm trường, tiến hành phân cụm tự động...")
+            self.cluster_schools(auto_k=True)
+            
+        school_features = self.school_clusters_
+        feature_cols = ["avg_score", "max_score", "std_score", "num_majors", "avg_delta"]
+        available_features = [c for c in feature_cols if c in school_features.columns]
+        X = school_features[available_features].fillna(0).values
+        X_scaled = self.scaler.fit_transform(X)
+        
+        self._plot_clusters_2d(
+            X_scaled, 
+            school_features["cluster"].values, 
+            school_features["school_name"].values,
+            title="Phân cụm Trường Đại học", 
+            filename="school_clusters_2d.png"
+        )
+        # Đồng thời hiển thị biểu đồ nếu chạy trong môi trường Jupyter notebook
+        try:
+            fig, ax = plt.subplots(figsize=(12, 8))
+            pca = PCA(n_components=2, random_state=42)
+            X_2d = pca.fit_transform(X_scaled)
+            labels = school_features["cluster"].values
+            palette = sns.color_palette("husl", len(np.unique(labels)))
+            for cluster_id in np.unique(labels):
+                mask = labels == cluster_id
+                ax.scatter(
+                    X_2d[mask, 0], X_2d[mask, 1],
+                    c=[palette[cluster_id]], label=f"Cluster {cluster_id}",
+                    alpha=0.7, s=80, edgecolors="white", linewidths=0.5
+                )
+            ax.set_title("Phân cụm Trường Đại học (Jupyter View)", fontsize=14, fontweight="bold")
+            ax.set_xlabel(f"PCA Component 1 ({pca.explained_variance_ratio_[0]*100:.1f}%)")
+            ax.set_ylabel(f"PCA Component 2 ({pca.explained_variance_ratio_[1]*100:.1f}%)")
+            ax.legend(loc="best")
+            ax.grid(True, alpha=0.3)
+            plt.show()
+        except Exception:
+            pass
+
     # ================================================================
     # Cluster Schools (Phân cụm trường)
     # ================================================================
@@ -69,6 +127,7 @@ class ClusteringAnalyzer:
         n_clusters: int = 4,
         max_k: int = 10,
         auto_k: bool = True,
+        k: int = None,
     ) -> pd.DataFrame:
         """
         Phân cụm trường đại học.
@@ -84,10 +143,15 @@ class ClusteringAnalyzer:
             n_clusters: Số cluster (nếu auto_k=False)
             max_k: K tối đa để thử khi auto_k=True
             auto_k: Tự động chọn K tối ưu
+            k: Tham số alias cho n_clusters (tương thích notebook)
 
         Returns:
             DataFrame trường với cột 'cluster' và 'cluster_label'
         """
+        if k is not None:
+            n_clusters = k
+            auto_k = False
+
         logger.info("Bắt đầu phân cụm trường...")
 
         # Tạo feature matrix
@@ -376,3 +440,47 @@ class ClusteringAnalyzer:
                 "scaler": self.scaler,
             }, f)
         logger.info(f"Mô hình clustering đã lưu: {filepath}")
+
+
+if __name__ == "__main__":
+    # Điểm kích hoạt khi chạy script trực tiếp
+    import argparse
+    parser = argparse.ArgumentParser(description="Chạy phân cụm trường và ngành")
+    parser.add_argument("--evaluate", action="store_true", help="Đánh giá mô hình")
+    args = parser.parse_args()
+
+    processed_file = PROJECT_ROOT / "data" / "processed" / "admission_processed.csv"
+    if not processed_file.exists():
+        logger.error(f"Không tìm thấy file: {processed_file}")
+        import sys
+        sys.exit(1)
+        
+    df = pd.read_csv(processed_file, encoding="utf-8-sig")
+    analyzer = ClusteringAnalyzer(df)
+    
+    # Phân cụm trường
+    logger.info("Chạy phân cụm trường...")
+    schools_df = analyzer.cluster_schools(auto_k=True)
+    if not schools_df.empty:
+        # Lưu kết quả cluster label vào csv processed để lưu trữ
+        schools_df[["school_name", "cluster", "cluster_label"]].to_csv(
+            PROJECT_ROOT / "data" / "processed" / "school_clusters.csv", 
+            index=False, 
+            encoding="utf-8-sig"
+        )
+        logger.success("Đã lưu kết quả phân cụm trường vào school_clusters.csv")
+        
+    # Phân cụm ngành
+    logger.info("Chạy phân cụm ngành...")
+    majors_df = analyzer.cluster_majors(auto_k=True)
+    if not majors_df.empty:
+        majors_df[["major_name", "cluster", "cluster_label"]].to_csv(
+            PROJECT_ROOT / "data" / "processed" / "major_clusters.csv", 
+            index=False, 
+            encoding="utf-8-sig"
+        )
+        logger.success("Đã lưu kết quả phân cụm ngành vào major_clusters.csv")
+        
+    # Lưu model pkl
+    analyzer.save_model()
+

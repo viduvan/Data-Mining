@@ -1,0 +1,101 @@
+﻿rule,antecedents,consequents,support,confidence,lift
+Ngành:Sư phạm - Giáo dục + Xu hướng:Ổn định → Cạnh tranh:Rất cao,Ngành:Sư phạm - Giáo dục + Xu hướng:Ổn định,Cạnh tranh:Rất cao,0.0225,0.6527,4.4575
+Ngành:Sư phạm - Giáo dục → Cạnh tranh:Rất cao + Xu hướng:Ổn định,Ngành:Sư phạm - Giáo dục,Cạnh tranh:Rất cao + Xu hướng:Ổn định,0.0225,0.3974,4.3148
+Ngành:Sư phạm - Giáo dục → Cạnh tranh:Rất cao,Ngành:Sư phạm - Giáo dục,Cạnh tranh:Rất cao,0.0349,0.6169,4.2129
+TH:C00 + Xu hướng:Ổn định → Cạnh tranh:Rất cao,TH:C00 + Xu hướng:Ổn định,Cạnh tranh:Rất cao,0.0065,0.3301,2.2543
+Ngành:Y - Dược → Cạnh tranh:Trung bình,Ngành:Y - Dược,Cạnh tranh:Trung bình,0.0133,0.4972,2.1868
+Ngành:Y - Dược + Xu hướng:Ổn định → Cạnh tranh:Trung bình,Ngành:Y - Dược + Xu hướng:Ổn định,Cạnh tranh:Trung bình,0.0075,0.4926,2.1666
+TH:C00 → Cạnh tranh:Rất cao,TH:C00,Cạnh tranh:Rất cao,0.0101,0.3047,2.0808
+Cạnh tranh:Trung bình + TH:C01 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Trung bình + TH:C01,Ngành:Kỹ thuật - Công nghệ,0.0078,0.5698,1.8222
+Ngành:Nông - Lâm - Ngư + Xu hướng:Ổn định → Cạnh tranh:Thấp,Ngành:Nông - Lâm - Ngư + Xu hướng:Ổn định,Cạnh tranh:Thấp,0.0062,0.7799,1.8058
+Ngành:Nông - Lâm - Ngư → Cạnh tranh:Thấp + Xu hướng:Ổn định,Ngành:Nông - Lâm - Ngư,Cạnh tranh:Thấp + Xu hướng:Ổn định,0.0062,0.454,1.7878
+Ngành:Luật - Xã hội → Cạnh tranh:Cao,Ngành:Luật - Xã hội,Cạnh tranh:Cao,0.0117,0.3467,1.7842
+Ngành:Nông - Lâm - Ngư → Cạnh tranh:Thấp,Ngành:Nông - Lâm - Ngư,Cạnh tranh:Thấp,0.0104,0.7649,1.7712
+Ngành:Luật - Xã hội + Xu hướng:Ổn định → Cạnh tranh:Cao,Ngành:Luật - Xã hội + Xu hướng:Ổn định,Cạnh tranh:Cao,0.0066,0.3385,1.7417
+TH:D09 → Ngành:Kinh tế - Quản trị,TH:D09,Ngành:Kinh tế - Quản trị,0.0077,0.3961,1.676
+Ngành:Sư phạm - Giáo dục → Cạnh tranh:Cao,Ngành:Sư phạm - Giáo dục,Cạnh tranh:Cao,0.0182,0.321,1.6518
+Cạnh tranh:Thấp + TH:C00 → Ngành:Kinh tế - Quản trị,Cạnh tranh:Thấp + TH:C00,Ngành:Kinh tế - Quản trị,0.0063,0.3874,1.6393
+TH:C14 → Cạnh tranh:Thấp,TH:C14,Cạnh tranh:Thấp,0.0093,0.7072,1.6376
+TH:C14 → Cạnh tranh:Thấp + Xu hướng:Ổn định,TH:C14,Cạnh tranh:Thấp + Xu hướng:Ổn định,0.0055,0.4152,1.6351
+TH:C14 + Xu hướng:Ổn định → Cạnh tranh:Thấp,TH:C14 + Xu hướng:Ổn định,Cạnh tranh:Thấp,0.0055,0.7043,1.6307
+Ngành:Kinh tế - Quản trị + TH:C00 → Cạnh tranh:Thấp,Ngành:Kinh tế - Quản trị + TH:C00,Cạnh tranh:Thấp,0.0063,0.6871,1.5911
+Cạnh tranh:Thấp + TH:C03 → Ngành:Kinh tế - Quản trị,Cạnh tranh:Thấp + TH:C03,Ngành:Kinh tế - Quản trị,0.0077,0.3738,1.5816
+TH:C01 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,TH:C01 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.0165,0.4934,1.578
+TH:A02 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,TH:A02 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.0053,0.4928,1.5761
+TH:C01 → Ngành:Kỹ thuật - Công nghệ,TH:C01,Ngành:Kỹ thuật - Công nghệ,0.0285,0.4925,1.5752
+TH:D10 → Ngành:Kinh tế - Quản trị,TH:D10,Ngành:Kinh tế - Quản trị,0.0072,0.3711,1.5703
+TH:A02 → Ngành:Kỹ thuật - Công nghệ,TH:A02,Ngành:Kỹ thuật - Công nghệ,0.0091,0.4872,1.5583
+Cạnh tranh:Thấp + TH:C01 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Thấp + TH:C01 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.007,0.478,1.5286
+Ngành:Kỹ thuật - Công nghệ + TH:C02 → Cạnh tranh:Trung bình,Ngành:Kỹ thuật - Công nghệ + TH:C02,Cạnh tranh:Trung bình,0.0052,0.3473,1.5274
+Cạnh tranh:Thấp + TH:D07 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Thấp + TH:D07,Ngành:Kỹ thuật - Công nghệ,0.0091,0.4766,1.5243
+Cạnh tranh:Thấp + TH:C01 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Thấp + TH:C01,Ngành:Kỹ thuật - Công nghệ,0.0119,0.4764,1.5236
+Cạnh tranh:Thấp + TH:C04 → Ngành:Kinh tế - Quản trị,Cạnh tranh:Thấp + TH:C04,Ngành:Kinh tế - Quản trị,0.0077,0.3587,1.518
+Cạnh tranh:Trung bình + TH:C02 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Trung bình + TH:C02,Ngành:Kỹ thuật - Công nghệ,0.0052,0.4739,1.5156
+Cạnh tranh:Thấp + TH:D07 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Thấp + TH:D07 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.0052,0.4738,1.5152
+Ngành:Kinh tế - Quản trị + TH:C04 → Cạnh tranh:Thấp,Ngành:Kinh tế - Quản trị + TH:C04,Cạnh tranh:Thấp,0.0077,0.6504,1.506
+Ngành:Kinh tế - Quản trị + TH:C03 → Cạnh tranh:Thấp,Ngành:Kinh tế - Quản trị + TH:C03,Cạnh tranh:Thấp,0.0077,0.6436,1.4902
+TH:B08 → Cạnh tranh:Trung bình,TH:B08,Cạnh tranh:Trung bình,0.0053,0.3347,1.472
+Cạnh tranh:Cao + TH:C01 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Cao + TH:C01,Ngành:Kỹ thuật - Công nghệ,0.0057,0.4559,1.4582
+Cạnh tranh:Trung bình + TH:A00 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Trung bình + TH:A00 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.0077,0.4523,1.4465
+Cạnh tranh:Trung bình + TH:A00 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Trung bình + TH:A00,Ngành:Kỹ thuật - Công nghệ,0.0138,0.4504,1.4404
+TH:C02 → Cạnh tranh:Trung bình,TH:C02,Cạnh tranh:Trung bình,0.0109,0.3222,1.417
+TH:C02 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,TH:C02 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.0085,0.4421,1.414
+TH:C02 → Ngành:Kỹ thuật - Công nghệ,TH:C02,Ngành:Kỹ thuật - Công nghệ,0.0149,0.4396,1.406
+Cạnh tranh:Thấp + TH:A00 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Thấp + TH:A00,Ngành:Kỹ thuật - Công nghệ,0.0204,0.4383,1.4017
+Cạnh tranh:Thấp + TH:C02 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Thấp + TH:C02,Ngành:Kỹ thuật - Công nghệ,0.0058,0.438,1.4009
+TH:A02 → Cạnh tranh:Trung bình,TH:A02,Cạnh tranh:Trung bình,0.0059,0.3163,1.3911
+TH:C04 + Xu hướng:Ổn định → Cạnh tranh:Thấp,TH:C04 + Xu hướng:Ổn định,Cạnh tranh:Thấp,0.0126,0.6004,1.3903
+TH:C04 → Ngành:Kinh tế - Quản trị,TH:C04,Ngành:Kinh tế - Quản trị,0.0118,0.328,1.3879
+Cạnh tranh:Thấp + TH:A00 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Thấp + TH:A00 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.0119,0.4337,1.3871
+TH:C04 + Xu hướng:Ổn định → Ngành:Kinh tế - Quản trị,TH:C04 + Xu hướng:Ổn định,Ngành:Kinh tế - Quản trị,0.0069,0.3271,1.384
+TH:C04 → Cạnh tranh:Thấp + Xu hướng:Ổn định,TH:C04,Cạnh tranh:Thấp + Xu hướng:Ổn định,0.0126,0.3508,1.3814
+Cạnh tranh:Trung bình + TH:A01 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Trung bình + TH:A01 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.0063,0.431,1.3784
+TH:C04 → Cạnh tranh:Thấp,TH:C04,Cạnh tranh:Thấp,0.0214,0.5947,1.377
+TH:C02 + Xu hướng:Ổn định → Cạnh tranh:Trung bình,TH:C02 + Xu hướng:Ổn định,Cạnh tranh:Trung bình,0.006,0.312,1.3723
+Cạnh tranh:Trung bình + TH:A01 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Trung bình + TH:A01,Ngành:Kỹ thuật - Công nghệ,0.0113,0.4289,1.3719
+Ngành:Kỹ thuật - Công nghệ + Xu hướng:Tăng → Cạnh tranh:Trung bình,Ngành:Kỹ thuật - Công nghệ + Xu hướng:Tăng,Cạnh tranh:Trung bình,0.0089,0.3081,1.3552
+TH:D07 → Cạnh tranh:Trung bình,TH:D07,Cạnh tranh:Trung bình,0.0196,0.3074,1.3519
+TH:B00 → Cạnh tranh:Trung bình,TH:B00,Cạnh tranh:Trung bình,0.0107,0.3071,1.3506
+Ngành:Kỹ thuật - Công nghệ + TH:D07 → Cạnh tranh:Trung bình,Ngành:Kỹ thuật - Công nghệ + TH:D07,Cạnh tranh:Trung bình,0.0071,0.3066,1.3484
+TH:C03 → Ngành:Kinh tế - Quản trị,TH:C03,Ngành:Kinh tế - Quản trị,0.012,0.3125,1.3223
+TH:A00 + Xu hướng:Giảm → Ngành:Kỹ thuật - Công nghệ,TH:A00 + Xu hướng:Giảm,Ngành:Kỹ thuật - Công nghệ,0.0082,0.413,1.3207
+Cạnh tranh:Thấp + TH:A01 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Thấp + TH:A01 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.01,0.4115,1.316
+TH:C03 + Xu hướng:Ổn định → Ngành:Kinh tế - Quản trị,TH:C03 + Xu hướng:Ổn định,Ngành:Kinh tế - Quản trị,0.007,0.311,1.3159
+Cạnh tranh:Thấp + TH:A01 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Thấp + TH:A01,Ngành:Kỹ thuật - Công nghệ,0.017,0.4109,1.314
+TH:A00 → Ngành:Kỹ thuật - Công nghệ,TH:A00,Ngành:Kỹ thuật - Công nghệ,0.0501,0.4108,1.3139
+Cạnh tranh:Thấp + TH:B00 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Thấp + TH:B00,Ngành:Kỹ thuật - Công nghệ,0.0065,0.4101,1.3117
+TH:A00 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,TH:A00 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.0288,0.4077,1.3041
+Cạnh tranh:Thấp + TH:D01 → Ngành:Kinh tế - Quản trị,Cạnh tranh:Thấp + TH:D01,Ngành:Kinh tế - Quản trị,0.0178,0.3037,1.285
+Cạnh tranh:Thấp + TH:A01 + Xu hướng:Ổn định → Ngành:Kinh tế - Quản trị,Cạnh tranh:Thấp + TH:A01 + Xu hướng:Ổn định,Ngành:Kinh tế - Quản trị,0.0073,0.3007,1.2725
+Cạnh tranh:Cao + TH:D01 → Ngành:Kinh tế - Quản trị,Cạnh tranh:Cao + TH:D01,Ngành:Kinh tế - Quản trị,0.0084,0.3007,1.2723
+Cạnh tranh:Thấp + TH:D01 + Xu hướng:Ổn định → Ngành:Kinh tế - Quản trị,Cạnh tranh:Thấp + TH:D01 + Xu hướng:Ổn định,Ngành:Kinh tế - Quản trị,0.0103,0.3005,1.2716
+TH:C03 + Xu hướng:Ổn định → Cạnh tranh:Thấp,TH:C03 + Xu hướng:Ổn định,Cạnh tranh:Thấp,0.0123,0.5479,1.2688
+TH:A07 → Cạnh tranh:Thấp,TH:A07,Cạnh tranh:Thấp,0.0057,0.5472,1.267
+TH:C03 → Cạnh tranh:Thấp + Xu hướng:Ổn định,TH:C03,Cạnh tranh:Thấp + Xu hướng:Ổn định,0.0123,0.3199,1.2595
+Cạnh tranh:Cao + TH:A00 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Cao + TH:A00,Ngành:Kỹ thuật - Công nghệ,0.0102,0.3927,1.256
+TH:B00 → Ngành:Kỹ thuật - Công nghệ,TH:B00,Ngành:Kỹ thuật - Công nghệ,0.0136,0.3923,1.2546
+TH:A01 + Xu hướng:Giảm → Ngành:Kỹ thuật - Công nghệ,TH:A01 + Xu hướng:Giảm,Ngành:Kỹ thuật - Công nghệ,0.0069,0.3916,1.2526
+TH:A01 → Ngành:Kỹ thuật - Công nghệ,TH:A01,Ngành:Kỹ thuật - Công nghệ,0.0429,0.3911,1.2508
+TH:A01 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,TH:A01 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.0248,0.3909,1.2503
+Cạnh tranh:Cao + TH:A00 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Cao + TH:A00 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.0057,0.3904,1.2486
+TH:C03 → Cạnh tranh:Thấp,TH:C03,Cạnh tranh:Thấp,0.0206,0.5381,1.2459
+TH:B00 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,TH:B00 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.0077,0.3876,1.2396
+Ngành:Kỹ thuật - Công nghệ + TH:D01 + Xu hướng:Ổn định → Cạnh tranh:Thấp,Ngành:Kỹ thuật - Công nghệ + TH:D01 + Xu hướng:Ổn định,Cạnh tranh:Thấp,0.0108,0.5193,1.2024
+Cạnh tranh:Cao + TH:A01 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Cao + TH:A01 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.0051,0.3713,1.1876
+Ngành:Kỹ thuật - Công nghệ + TH:D01 → Cạnh tranh:Thấp,Ngành:Kỹ thuật - Công nghệ + TH:D01,Cạnh tranh:Thấp,0.0185,0.5125,1.1867
+Cạnh tranh:Cao + TH:A01 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Cao + TH:A01,Ngành:Kỹ thuật - Công nghệ,0.0091,0.3694,1.1815
+TH:D07 → Ngành:Kỹ thuật - Công nghệ,TH:D07,Ngành:Kỹ thuật - Công nghệ,0.0233,0.3661,1.171
+Ngành:Kỹ thuật - Công nghệ + Xu hướng:Giảm → Cạnh tranh:Thấp,Ngành:Kỹ thuật - Công nghệ + Xu hướng:Giảm,Cạnh tranh:Thấp,0.0256,0.5052,1.1698
+Cạnh tranh:Trung bình + TH:D07 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Trung bình + TH:D07,Ngành:Kỹ thuật - Công nghệ,0.0071,0.3652,1.168
+Ngành:Kinh tế - Quản trị + TH:C01 → Cạnh tranh:Thấp,Ngành:Kinh tế - Quản trị + TH:C01,Cạnh tranh:Thấp,0.006,0.5022,1.1629
+Cạnh tranh:Trung bình + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Trung bình + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.0457,0.3633,1.1619
+TH:D07 + Xu hướng:Ổn định → Ngành:Kỹ thuật - Công nghệ,TH:D07 + Xu hướng:Ổn định,Ngành:Kỹ thuật - Công nghệ,0.0132,0.3628,1.1603
+Cạnh tranh:Trung bình + Xu hướng:Tăng → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Trung bình + Xu hướng:Tăng,Ngành:Kỹ thuật - Công nghệ,0.0089,0.3599,1.1511
+Cạnh tranh:Trung bình → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Trung bình,Ngành:Kỹ thuật - Công nghệ,0.0818,0.3597,1.1504
+Cạnh tranh:Thấp + Xu hướng:Giảm → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Thấp + Xu hướng:Giảm,Ngành:Kỹ thuật - Công nghệ,0.0256,0.355,1.1353
+TH:D10 + Xu hướng:Ổn định → Cạnh tranh:Thấp,TH:D10 + Xu hướng:Ổn định,Cạnh tranh:Thấp,0.0056,0.4892,1.1328
+Ngành:Kỹ thuật - Công nghệ + Xu hướng:Ổn định → Cạnh tranh:Thấp,Ngành:Kỹ thuật - Công nghệ + Xu hướng:Ổn định,Cạnh tranh:Thấp,0.0885,0.4892,1.1326
+Ngành:Nghệ thuật - Nhân văn + Xu hướng:Ổn định → Cạnh tranh:Thấp,Ngành:Nghệ thuật - Nhân văn + Xu hướng:Ổn định,Cạnh tranh:Thấp,0.0185,0.4883,1.1306
+TH:C00 → Cạnh tranh:Thấp,TH:C00,Cạnh tranh:Thấp,0.0162,0.4879,1.1298
+Ngành:Nghệ thuật - Nhân văn + Xu hướng:Giảm → Cạnh tranh:Thấp,Ngành:Nghệ thuật - Nhân văn + Xu hướng:Giảm,Cạnh tranh:Thấp,0.0052,0.4864,1.1264
+Cạnh tranh:Cao + TH:D07 → Ngành:Kỹ thuật - Công nghệ,Cạnh tranh:Cao + TH:D07,Ngành:Kỹ thuật - Công nghệ,0.0051,0.3493,1.1173
