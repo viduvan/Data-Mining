@@ -31,15 +31,15 @@ EDA được thực hiện trên dữ liệu tuyển sinh đại học Việt Na
 
 ### 3.1 Thống kê mô tả
 
-| Chỉ số | Giá trị dự kiến |
+| Chỉ số | Giá trị thực tế |
 |--------|----------------|
-| Tổng records | ~50,000 – 100,000 |
-| Số trường | ~250 – 300 |
-| Số ngành (duy nhất) | ~500 – 800 |
-| Số tổ hợp xét tuyển | ~20 – 30 |
+| Tổng records | 187,674 |
+| Số trường | 271 |
+| Số ngành (duy nhất) | 2,290 |
+| Số tổ hợp xét tuyển | 133 |
 | Số năm | 6 (2020–2025) |
-| Điểm chuẩn trung bình | 20.0 – 24.0 |
-| Điểm chuẩn min/max | ~13.0 / ~30.0 |
+| Điểm chuẩn trung bình | 19.75 |
+| Điểm chuẩn min/max | 13.0 / 30.0 |
 
 ### 3.2 Phân bố điểm chuẩn
 

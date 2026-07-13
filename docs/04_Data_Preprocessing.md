@@ -203,12 +203,12 @@ Sau mỗi lần chạy, pipeline in ra thống kê:
 ```
 ══════════════════════════════════════════════
 THỐNG KÊ DATA CLEANING
-  Raw records      : 85,120
-  Duplicates xóa   : 1,340
-  Invalid score    : 23
-  Missing school   : 5
-  Clean records    : 83,752
-  Retention rate   : 98.4%
+  Raw records      : 190,254
+  Duplicates xóa   : 2,580
+  Invalid score    : 0
+  Missing school   : 0
+  Clean records    : 187,674
+  Retention rate   : 98.6%
 ══════════════════════════════════════════════
 ```
 
