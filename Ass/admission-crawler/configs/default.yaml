@@ -1,0 +1,71 @@
+# configs/default.yaml
+# Cấu hình mặc định — tất cả giá trị có thể override bằng env var hoặc config cụ thể
+
+app:
+  name: "admission-crawler"
+  version: "0.1.0"
+  parser_version: "v0.1.0"
+  province_filter: "Hà Nội"
+  years_default: [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+
+http:
+  concurrency: 1
+  connect_timeout_seconds: 10
+  read_timeout_seconds: 30
+  total_timeout_seconds: 45
+  user_agent: "UniversityCutoffResearchBot/1.0 (+contact: research@example.com; educational research)"
+  accept: "text/html,application/xhtml+xml;q=0.9,*/*;q=0.8"
+  accept_language: "vi-VN,vi;q=0.9,en;q=0.8"
+  follow_redirects: true
+  max_redirects: 5
+
+rate_limit:
+  min_delay_seconds: 5
+  max_delay_seconds: 9
+  requests_per_hour_cap: 500
+  requests_per_day_cap: 10000
+
+retry:
+  max_attempts: 3
+  retry_statuses: [408, 425, 500, 502, 503, 504]
+  backoff_seconds: [30, 90, 300]
+
+circuit_breaker:
+  consecutive_failures: 5
+  cooldown_minutes: 30
+
+rate_limit_429:
+  first_hit_sleep_minutes: 30
+  second_hit_stop_run: true
+  third_hit_in_24h_lock_hours: 24
+
+cache:
+  enabled: true
+  ttl_days:
+    "2016-2023": 365
+    "2024": 180
+    "2025": 30
+  html_dir: "data/raw_html"
+  compress: true
+
+database:
+  url: "sqlite:///data/crawler.db"
+  echo: false
+
+quality_gate:
+  max_http_failure_rate: 0.02
+  max_parse_failure_rate: 0.02
+  max_empty_detail_rate: 0.05
+  max_consecutive_schema_failures: 3
+
+targets:
+  base_url: "https://vietnamnet.vn"
+  robots_url: "https://vietnamnet.vn/robots.txt"
+  index_path_template: "/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-{year}"
+  allowed_domain: "vietnamnet.vn"
+  allowed_path_prefix: "/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-"
+
+logging:
+  level: "INFO"
+  format: "json"
+  file: "logs/crawler.log"

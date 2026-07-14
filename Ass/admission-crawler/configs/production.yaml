@@ -1,0 +1,10 @@
+# configs/production.yaml
+# Sử dụng khi crawl thật — giữ nguyên rate limit của default
+
+logging:
+  level: "INFO"
+  format: "json"
+  file: "logs/crawler_prod.log"
+
+database:
+  echo: false

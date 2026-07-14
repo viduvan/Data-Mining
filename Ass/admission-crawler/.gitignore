@@ -1,0 +1,41 @@
+# ── Raw data (NEVER commit) ──────────────────────────────────────────────────
+data/raw_html/
+data/crawler.db
+data/crawler.db-shm
+data/crawler.db-wal
+data/exports/
+data/reports/
+data/sample/
+
+# ── Test fixtures (real HTML from VietNamNet — do not redistribute) ──────────
+tests/fixtures/*.html
+tests/fixtures/*.html.gz
+
+# ── Parquet outputs ───────────────────────────────────────────────────────────
+*.parquet
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.eggs/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+
+# ── Misc ──────────────────────────────────────────────────────────────────────
+.env
+.env.*
+.DS_Store

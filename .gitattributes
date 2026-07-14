@@ -1,0 +1,4 @@
+Ass/du-lieu-diem-thi-main/*.txt filter=lfs diff=lfs merge=lfs -text
+du-lieu-diem-thi-main/*.txt filter=lfs diff=lfs merge=lfs -text
+export/*.csv filter=lfs diff=lfs merge=lfs -text
+export/*.json filter=lfs diff=lfs merge=lfs -text

@@ -41,6 +41,10 @@ python-dotenv>=1.0      # Quản lý biến môi trường (.env)
 loguru>=0.7             # Logging nâng cao
 tenacity>=8.2           # Retry logic
 
+# --- API (Chatbot) ---
+fastapi>=0.100
+uvicorn[standard]>=0.23
+
 # --- Testing ---
 pytest>=7.4
 pytest-cov>=4.1

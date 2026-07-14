@@ -1,0 +1,19 @@
+# configs/development.yaml
+# Override cho môi trường dev — ít delay hơn, verbose logging
+
+http:
+  connect_timeout_seconds: 15
+  read_timeout_seconds: 45
+
+rate_limit:
+  min_delay_seconds: 2
+  max_delay_seconds: 4
+  requests_per_hour_cap: 500
+  requests_per_day_cap: 10000
+
+database:
+  echo: true
+
+logging:
+  level: "DEBUG"
+  format: "text"
