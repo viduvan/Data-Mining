@@ -166,18 +166,7 @@ python -m src.recommendation.recommender --score 26.5 --group A00 --region HN
 pytest tests/ -v --cov=src
 ```
 
-## Kết quả mong đợi
-
-- ✅ Bộ dữ liệu tuyển sinh chuẩn hóa 2020–2025
-- ✅ Pipeline ETL hoàn chỉnh
-- ✅ Data Warehouse PostgreSQL theo Star Schema
-- ✅ Báo cáo EDA với insights có giá trị
-- ✅ Mô hình phân cụm trường/ngành (K-Means Clustering)
-- ✅ Tập luật kết hợp (Association Rules)
-- ✅ Mô hình dự báo điểm chuẩn (ARIMA/Linear Regression)
-- ✅ Dashboard Power BI trực quan đa chiều
-- ✅ Hệ thống gợi ý trường/ngành theo điểm thi
 
 ---
 
-*Dự án thuộc môn học Data Mining — Trường Đại học ...*
+*Dự án thuộc môn học Data Mining — Trường Đại học FPT HÀ NỘI*
